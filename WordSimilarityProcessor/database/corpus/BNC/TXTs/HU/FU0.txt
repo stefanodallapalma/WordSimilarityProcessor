@@ -1,0 +1,816 @@
+DOG-WHELKS: AN INTRODUCTION TO THE BIOLOGY OF NUCELLA LAPILLUS (L.)
+J. H. CROTHERS Field Studies Council: The Leonard Wills Field Centre, Nettlecombe Court, Williton, Taunton, Somerset TA4 4HT
+ABSTRACT
+This review concentrates on those features of dog-whelk biology that are amenable to field study-feeding, predation, breeding, response to environmental stimuli and variation in shell characters.
+It was written to help students interpret the results of their fieldwork by providing the essential background information.
+But above all, the intention was to stimulate further investigations, for dog-whelks are excellent subjects for student projects.
+As the title suggests, this work is concerned primarily with the Atlantic species, Nucella lapillus, but information on other species in the genus is included where available.
+APOLOGIA
+On arrival at Dale Fort Field Centre (overlooking Milford Haven) in 1963, I found John Barrett's staff using a project on their A-level biology courses involving the comparison of dog-whelk shells from exposed and sheltered shores.
+The results were repeatable, were unaffected by the season or the weather, and could be "explained" without difficulty.
+It was, in short, a "good" student project.
+Promoted to the Leonard Wills Field Centre in 1967, I was surprised (and not at all delighted) to find that the project did not "work" in the same way on Somerset shores.
+The dog-whelks are the same or are they?
+And that is where my story really starts.
+INTRODUCTION
+Nucella Roding (1797) is a genus of predatory gastropod molluscs (snails) of rocky sea shores.
+Although the type species, H. lapillus, is found in the North Atlantic the other five live in the North Pacific (see Appendix 1).
+Nucella lapillus is an excellent subject for projects.
+Dog-whelks are conspicuous, are of a convenient size (usually between 20 and 35 mm long), comparatively long-lived, harmless to man, of no commercial importance, widely distributed and common.
+It would be difficult to confuse adults with any other species in the North Atlantic.
+Individuals are easily marked-you can write on the shell with a pencil, paint numbers on it or saw grooves into the aperture.
+Adults are easy to keep in aquaria for they rarely climb out if well-treated, and will breed freely in captivity.
+The equivalent of larval stages are completed within an egg capsule so that the young emerge at the crawling stage when they are easily visible to the naked eye and can be fed in captivity.
+At all ages, dog-whelks feed on discrete, easily identifiable, macroscopic sedentary prey (upon which they remain for many hours or days) which not only renders predator/prey investigations in the field possible but also facilitates the maintenance of these animals in aquaria.
+Above all, they lend themselves to a study of variation and the morphological response of a species to environmental selection processes.
+This paper has been written to provide a background for students (of all ages) seeking to interpret the results of a shore survey or planning a rocky shore project.
+If the text does not of itself suggest lines of further investigation, Appendix 5 may be consulted.
+But that list is very far from being exhaustive and does not touch on the much wider range of topics possible if aquarium facilities are available.
+There is an extensive list of references so that the paper may also serve as an introduction to the literature about these animals.
+Particular emphasis is given to three aspects of N. lapillus biology; prey and predators, life history, and variability.
+The paper concludes with some speculations about the history of the species which inevitably raises questions about relationships within the genus Nucella.
+FOOD AND FEEDING
+Nucella is a slow moving carnivore of essentially sedentary prey.
+In most places most individuals will be found feeding on barnacles or mussels, but a wide variety of other molluscs may be attacked on occasion (Table 1).
+All Muricaceans (see Appendix 1 for the classification) that have been studied closely appear to feed in a similar manner (Carriker, 1981).
+Method of attack
+For all but the smallest prey, Nucella must penetrate the victim's shell before paralysing it by injecting a narcotic.
+The dog-whelk then inserts its proboscis and secretes digestive enzymes into the body, subsequently sucking up a rich "soup" .
+The process of extra-cellular digestion means that they are liquid feeders and produce very little in the way of solid faeces.
+The faecal pellets are very small, 200 x 100 Um (Fretter &Graham, 1985), and are not a useful indication of the food ingested.
+The process of shell penetration is variously called "drilling" or "boring" in the literature.
+To my mind the process of "drilling" involves rotation; shell penetration in gastropods does not-so I will use "boring" .
+a.
+Shell penetration
+Aristotle is credited with the first written record of the fact that certain marine predatory gastropods obtain their food through the holes they excavate in their prey.
+Speculation about the mechanism of shell penetration has continued ever since and the literature is full of contrary opinions.
+The earlier workers thought that the boring was achieved simply by the mechanical scraping action of the radula (see Fretter &Graham, 1962), but it is now realised (Carriker, 1981) that the boring process involves a   combination of mechanical and chemical activity.
+Chemical softening is effected by the secretion of enzymes, carbonic anhydrase in particular which attacks the organic matrix of the shell, from an Accessory Boring Organ (ABO) situated in the sole of the foot towards the anterior end (Table 2: see Webb and Saleuddin, 1977).
+The shape of the resulting hole (Fig. 1) reflects the shape of the ABO and not of the radula, which plays a comparatively minor role in the mechanical removal of shell fragments.
+It may also determine when the hole is complete.
+Accounts of the boring behaviour (e.g. Fretter and Graham, 1962, p. 245; Fretter and Graham, 1985; Carriker, 1969, for Urosalpinx) describe how the animal alternately places the ABO in the hole and then makes a few rasps with the radula.
+In Urosalpinx, short periods of rasping (40–60 seconds) alternate with long periods (25–30 mins) of chemical attack.
+Fretter and Graham (1962) quote figures that suggest a rate of boring into limpet (Patella) shells of 0.175 mm per hour but no details are given of the relative sizes of predator and prey, or of the temperature.
+Nucella has to bore all but the smallest mussels, but an adult dog-whelk can usually inject the narcotic between the opercular plates of a barnacle to relax the prey without boring (Carriker, 1981).
+Young whelks, however, do have to bore large barnacles.
+They often attack through the opercular plates but sometimes bore through the, much thicker, wall plates near their base.
+Perhaps their probosces are not long enough to reach the most succulent parts of the prey by any other means.
+According to Carriker (1981), secretions of the hypobranchial gland contain pharmacologically-active esters of choline.
+In N. lapillus, the principal constituent is urocyanylcholine.
+This has marked hypertensive effects as well as a neuromuscular blocking action.
+Fretter and Graham (1962), on the other hand, thought the sole function of the hypobranchial gland was to produce a glairy slime to cement particles together as they are swept out of the mantle cavity-despite their recognition of urocyanylcholine in the secretion.
+Over twenty years later (1985), they were still dubious about its function.
+b.Prey paralysis
+It is an extract from the hypobranchial gland that was used to produce purple dyes-the tyrian purple of the ancients-see Appendix 2.
+According to Palmer (1983) Nucella lamellosa employs its narcotic against barnacles but not against mussels.
+The proboscis can be extended to a length roughly equal to that of the whelk's own shell (Fig. 2).
+Should it be lost or damaged, it can be regenerated quickly.
+In Nucella the hole bored through the victim's shell is large enough to take the proboscis, and the whelk does not need to alter position on its prey once the hole is completed.
+This is not the case In at least one species of the related genus Thais which has shift position after injecting the narcotic and feeds at the gaping edge of the victim's shell (Carriker, 1981).
+It is obviously impractical to have bulky salivary glands in the slender retractile proboscis and they lie at its inner end, anterior of the cerebral commissure.
+In most prosobranchs, the saliva lacks any digestive function, being predominantly mucous and functioning as a lubricant for the food collecting and swallowing activities of the animal.
+The carnivorous whelks, however, secrete several proteolytic enzymes (Fretter and Graham, 1962).
+Prey Selection
+Throughout its geographical range, Nucella lapillus has a choice of prey species.
+It follows that the snails show a pattern of prey selection.
+Such patterns might be based on prey size, prey distribution, prey abundance or prey value.
+In reality, it is probably a combination of two or more of these and doubtless changes as the animal grows, for a wider choice is available to larger individuals.
+Nucella might be expected to select its prey in a frequency dependent manner; that is, to feed indiscriminately upon the various potential prey species, taking them in their order of occurrence.
+Very few animals actually do this.
+1.
+Prey Abundance
+Alternatively, we might expect the predation- pattern to show a form of apostatic selection (Clarke, 1962): the dog-whelks choosing the most frequently encountered of the potential prey species.
+This is well known for predators (especially birds) which form a searching image; see, for example, Cooper (1984).
+The argument runs as follows-when you enjoy an item of food you search for another one like it, only accepting an alternative if you are unsuccessful.
+If you like the alternative you search for another like that, and so on.
+Sooner or later the predator will end up feeding preferentially on the most abundant of the available types of prey.
+It may be that Morgan (1972) observed apostatic selection by H. lapillus between the acorn barnacle Semibalanus balanoides and the cockle Cerastoderma edule at Old Den in the mouth of the Humber, UK.
+When barnacles were common, the dog-whelks fed on barnacles.
+When they were not, they switched to cockles (although it took some time for them to learn the technique of shell penetration).
+When the barnacle population recovered, they switched back.
+Murdoch (1969) attempted to induce similar switching in N. emarginata.
+He found that when the predator shows a strong preference for one prey, as N. emarginata does for Mytilus edulis over M. callfornianus, no amount of laboratory training will alter this.
+Even when the preference is weak, the switch will not occur unless there has been time for the predators to learn how to handle the other (now abundant) species.
+Some animals, for example the mice studied by Greenwood et al.
+(1984), have been shown to exhibit anti-apostatic selection; choosing the rarer food items in preference to the commoner.
+There is no a priori reason to suppose that all of the potential prey species are equally acceptable to a predator.
+The whelks may show frequency independent selection, choosing their favourite food regardless of that species' relative abundance.
+2.
+Prey Value
+Anala (1974) thought that mussels should be the preferred prey for H. lapillus as they offered a richer source of food than barnacles; 4.844 k cal g — 1 dry weight compared with 3.827.
+But that does not take into account the effort required to obtain that benefit.
+Carefoot (1977), considering the feeding habits of the Pacific V. lamellosa predating mussels, Mytilus edulis, or acorn barnacles, Balanus glandula, in the laboratory, did not make that mistake.
+He found:
+So Nucella lamellosa might be expected to select B. glandula in preference to M. edulis on the shore.
+But, as Carefoot points out, it is not as simple as that.
+Shell thickness varies greatly within species and calorific values vary with the size, age, and reproductive state of the prey as well as with the season of the year.
+Palmer (1983) used growth rate as the most direct method of assessing real prey value to Nucella emarginata.
+But for N. lapillus, which does not grow as an adult (p. 307), this could only be used for immatures.
+Most published accounts say that Nucella (all species) feeds on barnacles and mussels, but they differ about which is the preferred prey.
+Much of this confusion has been caused  by the assumption that dog-whelks are poor taxonomists and cannot discriminate between species of barnacles.
+This is not true; some barnacles are preferred to others.
+Connell (1961) showed that H. lapillus in the Clyde (W. Scotland) fed on Semibalanus balanoides, ignoring Chthamalus montagui [Connell didn't use those names, but see Rainbow (1984)].
+He thought this was mainly a matter of size, but the preference holds in other places (e.g. The Bristol Channel) where the two barnacles are more evenly matched in this respect.
+Around Cape Cod, Massachusetts, N. lapillus feeds on 5. balanoides to the total exclusion of C. fragilis (Crothers, 1983a).
+Barnett (1979) showed N. lapillus to select 5. balanoides in preference to Elminius modestus in the laboratory.
+This observation may be readily confirmed on Pembrokeshire shores (Table 3).
+In the extreme southwest of England, N. lapillus very definitely selects mussels in preference to barnacles (which are almost entirely E. modestus, C. montagui and C. stellatus) restricting their distribution in some places.
+The reverse pattern to this is seen where the barnacles are 5. balanoides and it is they that are sometimes restricted to a high-level band (Plate la).
+I conclude that most Nucella lapillus usually favour Semibalanus balanoides over Balanus species over Mytilus edulis over Elminius modestus over Chthamalus species.
+On the Pacific Northwest coast of America, Palmer (1983) showed that N. canaliculata, N. emarginata and (to a lesser extent) H. lamellosa favour small Semibalanus cariosus over Balanus glandula over Mytilus edulis over Chthamalus dallii.
+So the pattern is much the same in both oceans.
+N. lapillus's preferences regarding other potential prey species is more confused.
+In areas where Semibalanus is rare or absent-for example, Southwest England-various species of winkles, topshells and limpets are frequently attacked.
+In other places, these animals are left unmolested.
+With no barnacles or mussels to be seen, almost the entire dog-whelk population on Cape Enrage (New Brunswick, Canada) was feeding on young edible winkles Littorina littorea in November 1981 (Crothers, 1983a).
+Yet Morgan (1972) wrote that British East Coast N. lapillus refused to attack L. littorea even when starved for 4 months.
+All the above may be modified by: For each given size of predator there will be an optimum size of prey.
+Above and below that size there will be a poor return for effort-either the gain is not worth bothering about, or it is achieved at too great a cost.
+In Nucella, this has only been observed at the upper end of the scale.
+Mussels, Mytilus edulis, appear to be safe from Nucella attack above a length of 40 mm.
+The optimal mussel size for a 30 mm dog-whelk seems to be about 20 mm (Bayne and Scullard, 1978).
+At many sheltered sites on the West Coast of Scotland, N. lapillus may be observed feeding on 5. balanoides settled on the shells of large mussels without ever attacking the bivalves at all.
+Semibalanus cariosus, in the Pacific, quickly reaches a size unacceptable to Nucella.
+In Britain, it is unusual to see H. lapillus attacking large individuals of Balanus perforatus whilst small ones are taken readily.
+3.
+PreySize
+Prey Detection
+In the related oyster drill Urosalpinx cinerea, Pratt (1967) found that a starved snail would move away from other starved individuals, but towards ones which had recently fed.
+It is not known whether Nucella shows a similar pattern of behaviour, but the two genera are very similar in many other respects.
+Prey Consumption
+The feeding process takes quite a long time, depending of course on the sizes of the individuals concerned and various environmental factors, such as temperature (see p. 303).
+H. lapillus will usually spend at least a day on each prey item and in some instances the time may be nearer a week.
+Connell (1970) found that the Pacific Nucella took 9 hr to bore through large barnacles, about 7000 of their total feeding time.
+A similar thaid, Acanthina punctulata, requires 9 hr to bore into winkle (Littorina) shells and a further 14 hr to consume them (Menge, 1978) whilst the American oyster drill, Urosalpinx cinerea, in Britain takes at least 2 days to bore oyster shells (Hancock, 1960).
+Data given by Largen (1967a) and Bayne and Scullard (1978) can be interpreted to suggest a mean annual consumption of between 15 and 40 mussels per dog-whelk.
+Fretter and Graham (1962) mention a feeding rate of 0.5 mussels per day whilst Anala (1974) gives 0.59 mussels per day.
+Such differences are doubtless influenced by the size of the mussels compared to that of the dog-whelks.
+A N. lapillus of dry weight 120 mg (shell  length 23.3 mm) required a daily intake of 2.2 mg of mussel flesh in summer (Bayne and Scullard, 1978).
+Similar interpretations from Largen's data suggest that the comparable figure for barnacles is around 300.
+This is of the same order of magnitude as Connell's (1961) observation that N. lapillus could manage I.l 5. balanoides a day in summer, whilst consuming fewer at other times (Table 4).
+Anala (1974) recorded feeding rates up to 2.45. balanoides per day, but this seems exceptional and presumably involved young barnacles.
+Bayne and Scullard (1978) also found feeding to be most intense in summer.
+Largen (1967b) investigated the effect of temperature on feeding: at 20 ° C, the whelks averaged 16 barnacles or 0.7 of a mussel per week whilst at 15 ° C the figures were 10.2 and 0.4 respectively.
+Rather surprisingly, the time spent boring and ingesting a meal does not vary very much for whelks of different sizes.
+The difference lies in the time the animal spends resting between meals (Bayne and Scullard, 1978).
+Similarly, Anala (1974) found no correlation between H. lapillus shell length and the time taken for it to penetrate mussel or barnacle shells.
+There was, however, a positive correlation between mussel shell length (and, presumably, thickness) and penetration time.
+The effect of nucella predation on shore communities
+Menge (1976), investigating the community interactions on rocky shores in New England, concluded that: 1.
+In relatively benign environments, predation is the dominant biological interaction that structures communities.
+2.
+Increased harshness in physical conditions initially reduces the importance of predation (by reducing the effectiveness of predators).
+This increases the importance of competition as a structuring agent.
+3.
+With even greater environmental rigour, harshness itself is a major direct cause of community structure.
+In Britain, the sites where H. lapillus most clearly dominates the distribution of its prey species are usually "relatively benign" , being of intermediate exposure.
+For example, Gore Point (Somerset), where the dog-whelks confine mussels to a small area of the beach influenced by the outflow of a small freshwater stream (Fig. 3), is right in the middle of the exposure gradient Grade-5 on Ballantine's (1961) exposure scale (Crothers, 1976).
+The extent to which a predator can dominate its prey must depend in part upon their relative abundance, and the following records are of interest in this context.
+At Millport, in the summer of 1949, Barnes and Powell (1950; quoted by Connell, 1961) recorded H. lapillus at 150 m — 2, although this density had dropped to between 3 and 25 m — 2 by the Dog-whelks: an introduction to the   autumn as the barnacles were consumed.
+Numbers were lower between 1953 and 1955, falling between 54 and 88 m-2 (Connell, 1961).
+In the Isle of Man, Southward (1953; also quoted by Connell, 1961) gave a maximum of 31 m-2 at MTL whilst Moore's (1938) figures reach 200 m — 2 in Cornwall.
+Even at much lower densities, N. lapillus must be one of the most important invertebrate predators on North Atlantic rocky shores.
+Not surprisingly, its distribution on any shore reflects the distribution of its favoured prey, subject to the effects of predation, desiccation and other physiological stresses, such as salinity and cold (see p. 303).
+Over most of its geographical range, the middle shore acorn barnacle Semibalanus balanoides is the favoured food; where 5. balanoides is scarce or absent, Nucella distribution reflects the availability of mussels, limpets or winkles.
+PREDATORS
+To the human palate, even one attuned to "sea food" , dog-whelks are distasteful (Major W. W. Ker, personal communication), presumably because of the hypobranchial and other secretions associated with shell penetration.
+But not all would-be predators are similarly discouraged and various birds, crustaceans, and fish are known to feed on them (Table 5).
+Moore (1938a) believed the oystercatcher, Haematopus ostralegus, to be the main avian predator and Feare (1967) suggested that "a large proportion" of the estimated 6900 of adult H. lapillus mortality on the Yorkshire coast in the winter of 1965–66 was due to these birds.
+Predation concentrated on individual whelks feeding on the open rock surface.
+Oystercatchers avoid aggregations (see below).
+Despite all the above, Feare (1971 a-quoted by Cramp et al., 1983) did not regard dog-whelks as an important food source for oystercatchers in England-the low success rate of attempts to break dogwhelk shells, coupled with the small quantity of food eventually obtained, renders it an uneconomical prey.
+Limpets are more attractive.
+In Iceland, however, where limpets are scarce or absent, dog-whelks are a much more important source of food to the oystercatcher (references in Cramp et al., 1983).
+1.
+Birds
+On the coast of Maine, Colton (1916) found a colony of herring gulls, Larus argentatus, predating the local dog-whelks very heavily, but this is not normally the case.
+In Britain, the gulls certainly take a few, see Harris (1965), but Cramp et al.
+(1983) did not consider them a sufficiently important part of the gull's diet to warrant mention by name.
+Feare (1967) never saw gulls take them.
+Eider ducks, Somateria mollissima, take dog-whelks, along with the mussels on which both are feeding, in southeastern Norway (Cramp et al., 1977) and Shetland (personal observation).
+The duck leave small piles of finely-crushed mussel shells at their favoured resting sites, amongst which the dog-whelk shells-which remain entire — are very conspicuous.
+Like the herring gull, eider can only take dog-whelks that are small enough to be swallowed whole.
+Whilst oystercatchers, gulls and eiders take adult Nucella, many other birds will eat juveniles; rock pipits, Anthus spinoletta, turnstones, Arenaria interpres, and purple sandpipers, Calidris maritima, in particular.
+Feare (1967, 1970a) found C. maritima to be the   most important predator of young dog-whelks at Robin Hood's Bay in the winter of 1965–66, accounting for most of the 90% juvenile mortality.
+They favoured whelks between 2 and 5 mm long, but occasionally took individuals up to 8 mm.
+Young dog-whelks are also the most vulnerable to crab attack.
+Feare (1967) found that juvenile losses during late summer and autumn 1966–67 were mainly due to crabs.
+The figures given by Vermeij (1976) suggest that N. lapillus more than 25 mm long are safe from even large shore crabs, Carcinus maenas, and velvet swimming crabs, Liocarcinus puber,(Table 6).
+Hughes and Elner (1979) gave the favoured whelk size for a large Curcinus as I 4 mm, with the maximum at 27 mm.
+But these data are for fourth-year crabs.
+For the commonest size classes seen on the shore, 30–50 mm carapace breadth (see Crothers, 1968,1970), most dog-whelk shells above 15 mm are immune.
+The edible crab, Cancer pagurus, is undoubtedly stronger and well able to cope with larger Nucella, but the adults live offshore so that intertidal dog-whelks have only to contend with juveniles.
+Below low water mark, predation by lobsters may be significant.
+Adult lobsters have no difficulty crushing Nucella shells-indeed dog-whelks are provided as the exclusive food for Homarus americanus in the marine tanks at Nahant (Crothers, 1983a).
+The influence of these predators on the evolution of shell form in Nucella (and other molluscs) is mentioned on p. 327.
+2.
+Crustaceans
+ENVIRONMENTAL INFLUENCES ON NUCELLA LAPILLUS
+The Effect of Salinity
+A dogwhelk's tolerance of reduced salinity is probably low, despite Pelseneer's (1935) statement that they can survive 9.5 days in fresh water (Moore 1938b) and Agersborg's (1929) finding of living animals in freshwater pools at high water mark in Norway.
+Perhaps they had been dropped by birds.
+Dog-whelks are unable to feed under brackish conditions (Fig. 3) and it seems very likely that the newly hatched young are less tolerant of low salinities than their parents (Mr. E. B. Cowell, personal communication).
+This would agree with Fischer's (1931) observation of this animal surviving (but not breeding) at salinities down to 10%o.
+Feare (1970a) noted that 10000 of the egg capsules laid in rock pools of normal salinity hatched; in contrast to only 2700 of the capsules laid in pools through which there was a freshwater run-off.
+Enclaves of this non-dispersing animal can only survive where the adults can breed successfully.
+It is the tolerance of juveniles that controls overall distribution and the species is generally absent from estuaries.
+The tolerance of adults is important only in so far as it allows them to feed high on the shore, exposed to rain.
+In the Severn Estuary, N. lapillus reaches Sand Point above western-super-Mare (Boyden et al., 1977) but is confined to the lower shore up channel from Minehead, a distribution pattern that may reduce its exposure to water of reduced salinity.
+Adults introduced onto the higher shore levels at Watchet have survived but not bred.
+The paucity of dog-whelks amid a plentiful food supply on the Conwy mussel beds may reflect low salinities in the early spring when the egg capsules are laid (Crothers, 1985).
+The close proximity of V. lapillus's northern geographical limit to the 0°C winter isotherm (Appendix 3) suggests that ice may be the limiting factor.
+Of course, this observation may actually reflect the devastating effect of sea ice on barnacles and mussels, but the result is the same.
+On the ice-worn shores of the Bay of Fundy, it is evident that the whelks are absent from flat open rock surfaces.
+They are protected from the winter ice by  aggregating under overhangs and in deep crevices.
+Gislen (1930 quoted by Moore, 1936) states that in Gullmar Fjord they move below low water mark for the winter.
+The Effects of Temperature
+1 low Temperatures
+Although Crisp et al.
+(1964) listed N. lapillus as one of the species unaffected by the cold winter of 1962/63 in Britain, Moore quotes Caullery (1929) as saying it was affected by a cold winter at Boulogne.
+Orton and Lewis (1931) found the proportion of Nucella to Urosalpinx to have fallen on the oyster beds in the Blackwater Estuary under similar circumstances.
+The latter is surprising since, in America, Urosalpinx is the southern species and Nucella the northern one and this observation may have been due as much to lowered salinity as to temperature.
+At 0 ° C, H. lapillus is completely inactive and when the water temperature falls to this level, animals attached to steep substrata often fall off.
+At 3 ° C, feeding begins but the animals still remain immobile for long periods.
+Above 5 ° C, the speed of movement increases rapidly (Largen, 1967b).
+It is not known whether A".
+lapillus can withstand being frozen into sea ice, but a number of other gastropods are able to survive this experience, and may be transported considerable distances in ice flows (Medcof and Thomas, 1974).
+Gowanloch (1927) gives the upper lethal temperature for Canadian N. lapillus as 35 ° C, which is much higher than the 27 28 ° C at which British animals enter heat coma recorded by Sandison (in Lewis, 1964) and Largen (1967b).
+Largen found the rate of feeding to peak at around 20–22 ° C and fall steeply to zero at 25 (Fig. 4).
+The mean rate of crawling follows a similar pattern, although it does not actually reach zero until heat coma is entered at 27 ° C.
+2.
+High Temperatures
+The southern geographical limit of the species is almost certainly directly controlled by summer temperature.
+In Portugal, the dog-whelks appear to live inside mussel clumps; in New England, fucoids and crevices offer the necessary shade.
+At Woods Hole in Massachusetts the water maximum reaches 25 ° C (see Crothers, 1983a).
+Many of the dog-whelks sampled on the shore there in October 1981 had their shells encrusted with the tubes of spirorbid worms, which suggests that they had spent the summer below the tidemarks to escape the heat.
+Almost all growth occurs between March and October and, whilst other factors are doubtless involved, this is probably in response to temperature.
+Largen (1967b) was convinced that it was the spring rise in water temperature that stimulated oviposition.
+In his Kent and Sussex populations, the crucial temperature was 9 ° C; a rise in the mean water temperature above this level in the spring initiated capsule production.
+He also investigated the effect of temperature on feeding: at 20 ° C, the whelks averaged 16 barnacles or 0.7 of a mussel per week whilst at 15 ° C the figures were 10.2 and 0.4 respectively.
+(Fig. 4).
+3.
+Normal Temperatures
+LIFE HISTORY AND GENERAL BEHAVIOUR
+Breeding
+Sex Ratio
+The sexes are separate in Nucella and fertilisation is internal (Fretter, 1953).
+Pelseneer (1926) considered the broadest specimens to be females but most authors have not found it possible to determine the sex of living animals on the basis of shell form or body colour, although the largest individuals are usually females (see, for example, Feare, 1970c; osborne, 1977; Palmer, 1984).
+Males may sometimes be recognised in life by the presence of a large penis behind the head on the right side of the body (visible if the animal is fully extended).
+It may be possible to recognise females crawling up the glass of an aquarium tank.
+On the underside of the foot, all Nucella have an indentation marking the position of the accessory boring organ; females have a second opening behind it, marking the position of the pedal gland.
+Moore (1938a) found females to outnumber males 7:5 at Plymouth whilst Feare (1970c) found the sex ratio to vary between different Yorkshire enclaves with an overall preponderance of males.
+Osborne (1977) found a 1:1 sex ratio in New England, shifting towards a preponderance of females is common in molluscan species generally, increasing with age (Fretter and Graham, 1962).
+Consequently, in those species that continue to grow throughout their lives the larger size-class contain progressively more females (Coe, 1944).
+Mature N. lapillus are thought not to grow (Moore, 1936) but Moore (1938a) found a preponderance of females amongst the largest dog whelks; he thought this is due either to differential growth rates in the two sexes or to differential onset of maturity.Feare (1970c) also considered that most of the oldest individuals were female.
+As no evidence for sexual reversal has ever been found in this species, he thought the most likely explanation for the shift in sex ratio was differential morality.
+In aquaria at Nettlecombe, female N. canaliculata outlived the males.
+N lapillus aggregates to spawn.
+Some thirty or (many) more individuals congregate in a moist and shady place on the rock surface, often in a pool or a cleft.
+In such a group, some individuals may be seen copulating whilst others are depositing egg capsules.
+Copulation is repeated at intervals between which a few capsules are laid (Fretter and Graham, 1962).
+Capsules are laid singly.
+Each is passed from the oviduct along a groove of the foot to the sole where it is inserted in the ventral pedal gland, immediately behind the Accessory Boring Organ.
+The capsule is held approximately perpendicular to the substrate, with the plug (filling the hole through which the young will emerge) innermost.
+Whilst tightly held in this position, the wall of the capsule is compressed and moulded to its smooth, vase-shaped outline.
+The stalk is constricted from the basal region which is pressed out to form a disc.
+The latter is fixed to the rock by the sole of the foot.
+Finally, the foot is lifted off the capsule and the wall of conchiolin hardens still further in contact with sea water (Fretter and Graham, 1962).
+Spawning
+The number of capsules laid by a female is presumably influenced by her food reserves, her size, her age and various environmental factors.
+Fretter and Graham (1985) note that females from the northernmost European populations, in the White Sea, lay between 20 and 30 capsules in a season-about one-fifth of the reproductive effort of temperate Atlantic animals.
+Moore (1938a) considered the main spawning period to be winter and spring although egg capsules are to be found throughout the year.
+Large females lay larger capsules, but most are between 9 and 10 mm high by 34 mm across.
+In arctic populations, these dimensions may be halved (Fretter and Graham, 1985).
+Each capsule contains around 600 eggs, 94% of which were laid as "nurse eggs" for the nourishment of the remaining 6% which develop into embryos (Fretter and Graham, 1985).
+Nurse eggs are ova arrested in development, "fertilised" but with no subsequent fusion of the male and female pronuclei.
+Some authors have linked the occurrence of "normal" and "nurse" eggs to fertilisation by different types of sperm.
+[See Fretter and Graham (1962 chapter 14) for a full discussion on reproductive systems and a list of references.]
+The nurse eggs agglutinate to a mass in the centre of the capsular space.
+Initially, the embryos attach themselves to the mass and later move over its surface feeding (Fretter and Graham, 1985).
+It is well known that female Prosobranch gastropods have the capacity to store sperm for short periods (Fretter and Graham, 1962).
+In N. emarginata, it appears from initial observations that storage of viable sperm is limited to a period of two or three months.
+A female caged with an impotent male produced clutches at roughly one month intervals.
+In the first clutches nearly all the capsules appeared to contain developing embryos, in the second only 10% and in the third, none at all(Palmer, 1984).
+A small group of N. canaliculata, collected at Friday Harbour (USA) in 1981 and kept at the Leonard Wills Field Centre, laid fertile eggs in the spring of 1982 and 1983.
+In 1984, the survivors were all females and although they laid capsules, no embryos hatched.
+Sperm were not stored from the previous year.
+Development of N. lapillus eggs is slow, taking about four months in temperate latitudes but up to seven in the White Sea, where eggs overwinter and hatch in the following year (Fretter and Graham, 1985).
+In southern Britain, the process is more rapid.
+Attempts were made in 1972, and again in 1974, to rear dog- whelks in aquaria at Nettlecombe Court, under cover but in an un-heated room.
+Adults collected from Porlock Weir, laid egg capsules from 28 March-29 April 1972 and from 21 March until the first week of May 1974.
+Hatching occurred over a two-month period commencing at the end of June, with most juveniles emerging in mid-July.
+Field observations suggest that these timings are similar to those of Somerset populations in general.
+At Robin Hood's Bay on the Yorkshire coast, egg capsules are deposited during April and May, from which the young snails hatch in September and October (Feare, 1970a).
+In both  Somerset and Yorkshire, dog-whelks occasionally breed again in August.
+Feare noted that where the capsules were continually submerged in seawater, 100% of them hatched.
+In clefts which acted as fresh water drainage channels, only 27% hatched while in situations that dried out at low water, hatching success varied between 0% at mean tide level to 57% at mean low water neaps.
+The equivalent of a veliger larval stage is completed within the capsule and the young snails escape to the outside world through the apical hole as "crawlaways" .
+Observations on Severn Estuary capsules suggested that between 12 and 15 crawlaways hatched from each capsule (Crothers, 1977): Feare (1970a) gave 13–36 with a mean of 22:Fretter and Graham (1985) gave 25–35.
+Recently-hatched dogwhelks (plate 1b) are found at the same level as their capsules and seem to prefer the empty cases of barnacles to the shells of living or dead mussels.
+They avoid bare rock.
+It may be that their main requisite at this stage is to find protection whilst they continue to live off their food reserves remaining from the food capsule.
+When they start feeding they prefer tiny mussels (Feare, 1970a) or spirorbid worms (Moore, 1936) but readily accept barnacles.
+(Plate 1b)
+The first-formed shell (protoconch), borne by the crawlaway on emergence from the capsule, persists as the apex of the adult shell — or until such time as it is worn away.
+A snail increases the size of its shell by adding new material to the lip.
+As growth is never absolutely continuous, all shells show more-or-less well-marked growth lines, parallel to the shell lip, indicating periods where growth has slowed.
+Shells, like trees, bear for all time a record of organism's growth pattern.
+If the growing lip is damaged it will be repaired, but the scar remains.
+As the animal grows it lays down thicker shell at the lip, whilst at the same time thickening the older sections from the inside.
+this latter is essential to strengthen the apex.
+Fretter and Graham (1962) should be consulted for details of shell formation.
+Growth
+Moore (1938a) and Feare (1970a) agree that growth in N. lapillus usually stops at maturity, tree years after being laid as an egg.
+Year groups are reasonably distinct up to that time (fig.5), but it is not possible to age adult dogwhelks.
+Whelks parasitised by cercaria larvae of the trematode fluke Parorchis acanthus never reach maturity and many continue to grow slowly throughout their lives.
+Growth rate is related to the eventual shell-size, the young of large-sized enclaves showing a capability of growing faster than the progeny from smaller-sized enclaves*.
+Thus, whilst Feare's (1970a) youngsters from Robin Hood's Bay were less than 10mm at one year old, a little over 15mm at two and entered adult hood at around 20mm, the equivalent figures for Moore's (1938a) Plymouth enclaves are 10–15mm, 21–26mm and 29.5mm respectively.
+Some of the aquarium-raised Gore Point dog-whelks (Crothers, 1977) reached 30mm by the end of their second year.
+On the shore in Yorkshire (Feare, 1970a), those dog-whelks that had been checked in growth by winter cold in year 1 grew disproportionately faster in year 2.
+Osborne (1977) observed that young dog-whelks less than 12mm in shell length grew at the same speed, regardless of their habitat of origin, or where they were reared.
+Those above that size grew faster in shelter, and they all grew faster in aquaria than on the shore.
+It is interesting to speculate upon the advantages/disadvantages of rapid growth.
+Predators have an optimum size range for prey items.
+Crabs select the larger individuals from amongst first-year dog-whelks (Feare, 1970a) so that rapid growth at this stage may   decrease the individual's chances of survival.
+But once this dangerous stage has been reached rapid growth will hasten the passage through it and increase the likelihood of emergence at the other end.
+Small-sized enclaves* can only survive when they are protected from crab predation by one means or another.
+Juvenile mortality is high.
+Feare (1970a) thought it to be at least 90% during the first winter.
+Amongst the survivors, mortality in the second year was about 50% and 27% in the third.
+Assuming this 27% to be representative of the adult population, he suggested a life expectancy for a dog-whelk in its third year to be a little over three more years- giving a total life span of 6 + years.
+Marked animals have survived three years as adults, so this figure may be an under-estimate.
+Certainly, adults appear to dominate most British populations.
+North American populations have to endure more extreme temperature conditions.
+The winters are much colder, and, in the southern section of their range, the summers can be much hotter.
+Hughes (1972) found growth to be confined to the period from late April to late September on the Atlantic coast of Nova Scotia.
+Growth occurred in bursts, with different individuals beginning and ceasing growth at all stages within the growing season.
+The total annual increment can take anything from 1 to 5 months for completion.
+The dog-whelks first bred three years after being themselves laid as eggs, but at different sizes according to their habitat-16 mm at Purcell's Cove and 20 mm at Laurencetown (a discrepancy that Hughes ascribed to the differential availability of prey-but see above and p. 320).
+In Massachusetts, Osborne (1977) found differences in the reproductive patterns on exposed and sheltered shores.
+In shelter, the juveniles showed two full seasons' growth before reaching maturity and breeding at the age of 3 (as established by Moore and Feare for British Nucella) but in exposed sites there was only one full season's  growth and the dog-whelks bred at the age of 2.
+The sheltered shore enclaves contained a high proportion of adults, giving the impression of comparative longevity (an alternative interpretation would suggest higher juvenile mortality).
+With their larger size, they also (presumably) produce more eggs (Fretter and Graham, 1962).
+Juveniles dominated the exposed shore and she thought few adults survived more than two years.
+She likened these differences in breeding pattern to MacArthur and Wilson's (1967) model of r and K selection.
+Species selected for r (the intrinsic rate of population increase) should have a high reproductive rate, rapid growth to maturity, short life span, broad dispersal ability, poor competitive ability and density independent mortality (Southwood et al., 1974).
+A combination of these features usually leads to considerable fluctuations in density.
+Exposed shore dog-whelks (in Osborne's view) fit all this except the broad dispersal ability.
+Sheltered shore whelks seem to have been selected more to maintain a balance with K, the carrying capacity of the environment.
+r-selected species are characteristic of unstable environments: K-selected ones of stable environments.
+The unpredictable, sporadic nature of storms on an open coast presumably render exposed shores unstable in this respect.
+I am not aware of any work that suggests differences in maturation rates between exposed and sheltered enclaves of European N. lapillus.
+In the (largely unsuccessful) attempts at rearing dog-whelks in aquaria (Crothers, 1977, 1980), the exposed shore population would have required three years to reach adult size whilst one of the more sheltered, Gore Point, animals laid capsules (which did not hatch) at the age of two.
+Although at some times of the year, individuals within the dogwhelk enclave may be scattered over the shore, at others they aggregate in large clusters.
+Feare (1971 b) recognised three kinds of cluster on the Yorkshire coast: summer aggregations, breeding aggregations and winter aggregations.
+Aggregations
+(a) summer aggregations (appearing during the period from May to October) form on the open rock surface of exposed shores.
+They are not seen in shelter or on broken surfaces.
+They comprise from 20–500 individuals, of mixed age groups, forming a single layer.
+Their function appears to be group protection from water pressure although at least one predator (oystercatcher) seems not to recognise N. lapillus as such en masse and it is conceivable that aggregation behaviour may offer protection from those birds.
+The aggregated dogwhelks are feeding and give the appearance of a hunting pack (that is not the reason for the name dogwhelk!).
+Individual whelks seem to have no "loyalty" to their own pack, readily joining another if displaced.
+(b) winter aggregations comprising animals of all age classes (but with the older ones arriving first and departing last) are often of a larger size and crowd several layers deep in crevices and pools.
+The function of this behaviour is probably a defence system against dislodgement in cold weather (when they could not re-attach-see p. 303).
+The animals within these aggregations do not feed but, during calm mild periods, immatures may leave the aggregations for that purpose.
+(c) pre-breeding aggregations (formed prior to breeding in the early spring and, occasionally, in summer) in which adults predominate.
+The animals do not feed.
+It is almost impossible to separate the breeding aggregations of early spring from the preceding winter aggregation as the one blends imperceptibly into the other.
+The only indication of change is when the juveniles move off to commence feeding.
+The prime function of these aggregations is to bring the sexes together for fertilisation, and also, presumably, to synchronise spawning.
+Larger aggregations spawn earlier than smaller ones.
+Adults may remain -5 months without feeding or notably moving in their winter aggregation site.
+It is fortunate that the physical features that render a site suitable for overwintering are identical to those that offer the best conditions for hatching success.
+Winter and pre-breeding aggregations are a feature of all N. lapillus populations but the summer hunting packs are only notable on extensive shores, such as the Lias of Robin Hood's Bay (Lewis, 1964).
+I have seen them on Grassholm and in Shetland.
+N. lamellosa also aggregates to breed, in enormous groups, but N. emarginata only forms small breeding clusters, often of ten or less individuals (Spight, 1979).
+VARIATION
+ "Variety's the very spice of life That gives it all its flavour." 
+(Cowper: The Task) Individual dog-whelks, like those of all other sexually-reproducing species, vary one from another.
+The process of natural selection, whereby the least fitted for survival in a particular habitat are least likely to do so, depends upon this fact.
+Nevertheless, some groups of animals seem to be much more variable than others.
+On the rocky sea shore, this is the case with Nucella (Fig. 6) and some species of Littorina.
+In these animals, there is no free-swimming larval phase in the life cycle, development being completed within the egg capsule and the potential for dispersal is governed by the crawling abilities of the adults.
+Feeding on an abundant sedentary prey (several years' supply may be found within 1 m,), there is little stimulus for great activity and dog-whelks may spend long periods in much the same place.
+I have recovered marked N. lapillus within 30 cm of the release site after a year whilst Palmer (1984) found very few N. emarginata to move more than 10 m in the same time.
+It should not be assumed from these statements that they do not move at all-they can be quite active at high tide by night but that they remain within the same general area of shore.
+They do not voluntarily crawl across sand or mud and most species are predominantly intertidal.
+They are distributed along the shorelines in innumerable enclaves (sensu Crisp, 1 978) * many of which must have been isolated for long enough (since the sea level rose to its present height after the retreat of the last ice sheet) for them to have evolved local forms to suit the particular selective influences of their habitats.
+Of course, as others have remarked (e.g. Palmer, 1984), it is extremely difficult to prove that there is no gene flow between enclaves.
+Migration of only one individual per generation may be enough to maintain gene frequencies over an extensive geographical range, in the absence of selection (Lewontin, 1974).
+However, Berry and Crothers (1968) demonstrated strong stabilising selection to be operating on exposed headlands in Pembrokeshire (Fig. 7).
+Juvenile age classes showed a much greater range of variation than the adults, and that variation decreased with age until only those of the parental form survived as recruits into the adult population.
+The only real way of investigating the level of gene flow will be an analysis of the geographical distribution of rare, electrophoretically identifiable alleles.
+Even this information, in the absence of other data, will not provide any indication of when any gene flow    Staiger (1957, in English) described a numerical polymorphism in chromosome number between enclaves of N. lapillus on shores near Roscoff in Brittany.
+In this species, the chromosome number ranges between n = 13 (the commonest form) and n= 18.
+It will be seen in Fig. 8 how this is possible.
+Ten non homologous acrocentric chromosomes in one animal correspond to five metacentric chromosomes in the other; the other eight pairs of metacentrics are common to all forms.
+There would seem to be no difference in the amount of chromosomal material present, simply in its distribution into chromosomes.
+As the two forms are fully interfertile) a wide range of intermediates may be expected.
+Indeed, there are 3 5 (=243) possible arrangements as, for each pair of the five variable metacentrics there are three possible arrangements: 2 metacentrics, 1 metacentric + 2 acrocentrics, or 4 acrocentrics.
+Invisible Variation
+1.
+Variation in Chromosome Number
+The polymorphism occurs in southern Britain (Fig. 9), from Brighton to Cornwall, the n = 18 form being particularly evident between Swanage and Weymouth and in the Salcombe Estuary.
+It seemed as though total water movement, rather than straightforward wave action (which is an important selective influence in respect to visible variation), was affecting the occurrence of this form.
+In recent years the polymorphism has been found at Dale (Milford Haven) and Millport (Firth of Clyde)(Dr C. R. Bantock, personal communication).
+Around Roscoff, Staiger found shell thicknesS to be associated with chromosome number.
+The monomorphic n = 13 and n = 18 populations had thinner shells than the heteromorphic ones.
+Form 13 occurred on exposed shores, and form 18 in shelter; leaving the intermediates on shores of intermediate exposure.
+In Pembrokeshire, the thickest shells are indeed from shores of intermediate exposure (Fig. 10) and the numerical    polymorphism does occur (C. R. Bantock, personal communication) but no data are available on the chromosomes of the dog-whelks measured.
+The Bristol Channel and Severn Estuary populations are monomorphic n = 13 (Fig. 9), as are those of Brittany east of Roscoff (Staiger, 1957), the Atlantic coast of North America (Mayr, 1963) and those at all the Norwegian sites studied by Hoxmark (1970).
+Staiger concluded (1957, and unpublished) that form 18 is absent from predominately exposed-coast regions, so that in such areas there can be no polymorphism for chromosomes, even in intermediate habitats.
+He regarded chromosomal polymorphism as due to secondary integration in a hybrid zone.
+Mayr (1963) puts this more succinctly: "the different chromosome numbers and habitat preferences had apparently developed during a previous isolation of the 13- and 18-chromosome types without, however, leading to reproductive isolation." 
+Hoxmark (1970) wondered whether the form 13 was a northern race, and form 18 a southern one.
+Their known distribution in Britain is not in disagreement with this suggestion.
+The Pacific species, N. canaliculata, N. emarginata, and N. lamellosa, are monomorphic n = 30 in Washington State (Ahmed, 1974; Ahmed and $parks, 1970).
+There is no evidence for any polymorphism associated with differences in microhabitat.
+Ahmed seems to assume that this larger number has arisen by duplication from the n = 1 -1 8 complex.
+However, N. lapillus is thought to have arisen from one of the Pacific species and not the other way round (see p. 338), so the 13 form probably arose from a 30 form by reduction.
+There are two inversion polymorphisms that seem to be ubiquitous.
+Miss C. Page has done a very intensive survey on a section of the Sussex coast where the dog-whelk Dog-whelks: an introduction to the biology of Nuce1la lapillus (L) enclaves have both numerical and inversion polymorphisms simultaneously.
+She found that they vary independently of each other which suggests that at least one of the inversions is on one of the 8 metacentric pairs not involved in the numerical variability (C. R. Bantock, personal communication).
+2.
+Other Chromosomal Variation
+It is likely that intrinsic (genetic) and extrinsic (environmental) factors combined to produce the observed range of shell size, shape, colour, ornament and so forth.
+An individual may carry the genes for white colour, and yet appear purple through the growth of algae or lichens on the outside of the shell.
+It may carry genes for large size but remain stunted through starvation.
+It may carry genes for delicate surface ornament, yet be worn smooth by abrasion.
+And, of course, the genes controlling shell shape will not find normal expression if the shell-secreting cells of the mantle are damaged.
+Damaged shells are repaired, but the later-formed shell is never quite the same as the original.
+ "Then turn not pale beloved snail, And come and join the dance" (Lewis Caroll: Alice in Wonderland) Moore (1936) recognised four colour types in N. lapillus; 1.
+white; 2. brown, shading into black; 3. mauve, grading to pure pink; 4. yellow, sometimes shading into orange.
+Berry and Crothers (1974) agreed with this scheme but thought there were distinct pink and orange forms (albeit rare) and a true black one.
+See Plate 2.
+Visible Variation
+I. Variation in Shell Colour
+In the British Isles most N. lapillus shells are white, but to the south (in Portugal and North Spain) coloured shells predominate.
+The same is true of northern populations in Iceland.
+It is interesting to note that the southernmost populations in the United States are monomorphic white (Osborne, 1977; Crothers, 1983a).
+The earliest studies on variation in shell shape and colour patterns of gastropods tended to the conclusion that environmental differences were more important than genetic ones (Underwood, 1979).
+Moore's (1936) work on Nucella lapillus is probably the best known example.
+He stated that the purple pigment in dog-whelk shells was the same one as is found in mussels.
+He thought that it could not be synthesised by the whelk and must therefore (when present in the snail's shell) have come from the food.
+It is true that the shells of a number of Archaeogastropods, including the ormer Haliotis, have been found to vary in colour according to their diet.
+Transferring these animals from one shore to another may change their shell colour.
+Pigmentation in archaeogastropods is mainly due to uroporphyrins, probably breakdown products of chlorophyll.
+Higher gastropods have more complex pigments (Comfort, 1951) and direct effects of diet on shell colour are unlikely (Underwood, 1979).
+Most mussel feeding Nucella populations in Britain are white.
+Moore's argument was based on:(a) The lack of pigment in the fresh shell of dogwhelks transferred from mussel-rich shores in North Cornwall to mussel-free shores around Plymouth (or when kept in mussel-free aquaria) and (b) a high correlation between the occurrence of coloured forms on Cornish shores and the "abundance of Mytilus in the diet" .
+Coloured shells with white lips (fig.11) and coloured enclaves are often found in habitats where mussels predominate, but coloured dog-whelks can be found in the total  absence of the mussels-for instance, around Minehead in West Somerset (plate 2) Moore's transfers the other way round, white shells on to mussel shores, did not induce any colour change.
+Diet has little, if any, effect on shell colour in N.emarginata (Palmer, 1984) but he observed that many of the whelks produced paler shell when transferred from one site to another.
+He suggested that the colour changes observed by Moore were probably due to the trauma of transplantation rather than the change in diet.
+Rowland (1976) found 43% of coloured N.lapillus kept in aquaria lost pigment, food was irrelevant, and no pigment was formed in 94 growing white dog-whelks, whatever their food.
+Berry and Crothers (1974) found a slight correlation between exposure and the frequency of coloured individuals in the samples (fig.12), but none between colour or banding frequencies and food.
+Banded and coloured offspring were reared in laboratory tanks (from capsules laid by banded parents) on a diet exclusively of barnacles (mainly Elminius).
+Similar results were obtained by Osborne (1977) in New England.
+She also found no food preferences associated with shell colour (i.e. pigmented whelks did not  select mussels any more often than white ones did).
+There was a greater preponderance and variety of coloured shells at exposed sites and she regarded the white colour of sheltered enclaves as an adaptation to resist high temperatures.
+In the Pacific N. emarginata, there is also an increase in the variability of open shore enclaves as compared with those from more sheltered shores (Emlen, 1974).
+In breeding experiments with N. emarginata (Palmer, 1984), segregation at F1 suggested that: 1.
+There are at least three discrete colour alleles (black, orange and white); 2.
+The colour black is dominant to orange and white; 3.
+Banding assorts independently of colour; 4.
+Spiral sculpture, the pattern of ridges and grooves on the surface of the shell, assorts independently of colour.
+The F2 progeny complicated this picture and it appears as though the genes responsible for orange colour in Alaska are different from those producing a similar phenotype on Vancouver Island.
+In the Alaskan dog-whelks, black is dominant to brown and both are dominant to orange.
+On Vancouver Island, orange is dominant to black.
+No comparable breeding experiments appear to have been carried out with N. lapillus, which takes much longer to reach maturity.
+It is difficult to record colour objectively: people's appreciation of colours obviously vary and, in any case, Nucella does not exist in discrete colour morphs.
+There is an almost continual gradation between the hues.
+(Plate 2).
+2.
+Banding
+Banding, on the other hand, can be scored easily and accurately.
+The initially-bewildering array can be categorised quite simply (Fig. 13) although the factors affecting its occurrence remain largely unknown.
+In N. emarginata, banding is inherited separately from colour (Palmer, 1984).
+This seems to be true of N. lapillus as well.
+Banded shells may be ridged or smooth (in both N. lapillus and N. emarginata) but when ridges are present they are usually paler than the grooves.
+Quite clearly, banding patterns in N. lapillus are inherited.
+Fig. 14 shows distinctive banding patterns that have persisted virtually unchanged for a century.
+In N emarginata, banding appears to be controlled by two alleles at a single locus (Palmer, 1984).
+In breeding experiments using animals from the same population, crosses yielded broods that were either uniformly banded, uniformly unbanded or containing an equal proportion of both.
+Banded appeared dominant to unbanded.
+However, in experiments crossing animals from different populations the dominance was not so apparent.
+There is little evidence to support the suggestion that colour and banding in Nucella has arisen through selection for crypsis.
+However, it must be remembered that most predators take juvenile dogwhelks and observation of adults alone may be misleading.
+Spanish and Portuguese N. lapillus tend to live under mussel clumps and in this habitat banded shells are undoubtedly cryptic.
+But most of the avian predators are rare or absent   on those shores and in areas where predation is heaviest the dog-whelks are mostly white (Feare, 1971).
+Berry (1983) found variations in banding frequency associated with changes in geology, but unrelated to crypsls.
+It will have been noted in Fig. 12 that banded shells are commoner on exposed shores (r = 0.33 + 0.05).
+As it is difficult to imagine a direct advantage conferred by shell banding for survival in wave-swept conditions, banding must be a pleiotropic consequence of a physiological or morphological trait that does affect life under those conditions (Berry, 1983).
+It is far from clear what trait this might be but preliminary experiments (Berry, 1977 and unpublished) have shown variation in resistance to desiccation and salinity between banding morphs.
+Even more difficult to explain is the occurrence of banding on the inside of the shell (Fig. 15).
+The phenomenon is widespread and not confined to Nucella.
+The pattern is particularly common in enclaves from the extreme north of Norway.
+The overall mean adult shell length of N. lapillus from 974 enclaves (Table 7) is 27.4 mm.
+Mean shell lengths of individual enclaves span the range from 17.0 mm (Peggy's Point, Nova Scotia) to 47.6 mm (Gore Point, Bristol Channel).
+3 Variation in Shell Size
+European enclaves of N. lapillus are more variable than American ones.
+The smallest are comparable-17.O mm (Peggy's Point, Nova Scotia) and 17.1 mm (Hartland Quay, Southwest England) but, whilst in Europe enclave means of 35 mm are not unusual and exceptionally may exceed 40 mm, none of the American samples quoted by Crothers (1983a) exceeds 34 mm (Smith's Cove, Annapolis Basin, N.S. was the largest at 33.8 mm) and most are below 30 mm.
+Spanish and Portuguese dogwhelks are also generally small, but elsewhere enclave mean lengths of 20 mm or less are characteristic of exposed shores.
+Most sheltered enclaves have longer shells and, to some extent, the differences between areas in Table 7 simply reflect the proportion of exposed and sheltered samples included in the calculation.
+Osborne (1977) found that sheltered shore animals grew faster to reach their larger size compared to those from exposed shores.
+The enclaves of very large dogwhelks around Porlock Weir in the Severn Estuary, between Swanage and Kimmeridge on the Dorset coast and at some sites in the west of Scotland are sublittoral or are confined to the extreme lower shore.
+They too achieve their larger size (up to 60 mm) by growing faster than "normal" individuals, not by growing for longer.
+A very limited programme of breeding N. lapillus (Crothers, 1977, 1980) suggested that shell length is inherited (although the actual length attained by any individual is inevitably influenced by the availability of food during its immature life).
+Occasional large individuals within otherwise "normal" European populations may have suffered parasitic castration by cercaria (Cercaria purpurae) of the digenean fluke Parorchis acanthus.
+As in crabs (Crothers, 1967), unusually large individuals develop when the growth control system (associated in this case with the onset of maturity) is disrupted.
+They frequently show multiple rows of "teeth" within their shells-see below.
+N. lapillus is the first intermediate host of I. acanthus, a cockle Cerastoderma edule or mussel Mytilus edulis is the second, whilst the adult fluke is in a gull [Larus argentatus or L canus (Fretter and Graham, 1962)]or the oystercatcher Haematopus ostralegus (Feare, 1971).
+Parasitised dogwhelks do not join breeding aggregations and tend to be distributed singly on the open shore.
+They are accordingly taken disproportionately often by birds.
+Feare (1971) gives infection rates for adult whelks in aggregations (1.0%), feeding singly on the shore (12.7%) and being taken by oystercatchers (13%).
+According to Sannia and James(1977), the place of Parorchis acanthus (Nicoll, 1906) is taken by Renicola thaidus Stunkard (1964) in America and Iceland, although it is not known whether this parasite exerts similar effects on its host.
+Apart from growth lines, the outer surface of the shell may be smooth, or there may be a series of raised ridges (cords) running down the whorls at right angles to the lip.
+There   is also distinctive variety, var. imbricata Lamarack (fig.16).
+ "Imbricata" means "overlapping like tiles on a roof" .
+Thus, "in shells of N.lapillus var. imbricata the external sculpturing consists of a series of lamellar corrugations laid down in a fairly regular sequence parallel to the growing edge of the shell which, where they overlap the spiral ridges, are raised to form thin vaulted scales" (Largen, 1971).
+Of the related species, N.lamellosa often has a much more elaborately fluted shell (fig.16), although smooth-shelled populations also occur-see fig.34.
+The other species do not show this character (Table 10, p.338).
+4. variation in Shell Ornament
+Both Moore (1936) and Rees (1949) considered imbricata to be a sub-littoral form.
+The most elaborate shells in the collections held in the British Museum (Natural History) have come from a sub-littoral population of Rhoscolyn (Anglesey).
+There are, however, sub-littoral populations that are not imbricated and imbricata certainly occurs on the shore-notably in Essex and North Kent, England (Largen, 1971) and Kingsport, Nova Scotia, Canada.
+Labbe (1926) thought that the shells of embryos were usually imbricated, but that the character only persisted in the shells of dog-whelks living in sheltered sites.
+As, in my experience (and see also Fretter &Graham, 1985), the protoconch (the first-shell, produced by the young snail within the capsule) is always smooth, this is difficult to sustain-but the idea that the imbrications may be removed by abrasion is more widespread (and demonstrable-Largen, 1971).
+Clench (1947) discounted the idea of imbricata being a separate variety at all because of the complete intergradation he saw between the forms.
+Individuals showing some trace of imbrications are widespread.
+There seems to be little doubt, however, that the development of the form imbricata is determined genetically.
+This was suspected by Colton (1916,1922) and demonstrated by Largen (1971).
+Aquarium- raised whelks from Whitstable (N. Kent) were imbricate, those from Newquay (Cornwall) were not.
+The occurrence of shell ridges is also inherited.
+In N. emarginata this character behaves as though it is controlled by genes (or by a block of very tightly linked genes) acting through a single locus.
+Sculpture assorts independently of colour (Palmer, 1984).
+The shell of a young, actively growing Nucella has a thin sharp lip.
+N. lapillus grows for the first three years of its life (but see p. 307), and then usually marks the onset of sexual maturity by thickening the shell lip and laying down a row of white dentiform tubercles-usually known as "teeth" "-along the inside edge (Fig. 17).
+However, there are thin-shelled enclaves of V. lapillus which never form "teeth" .
+At the southern limit in America, Osborne (1977) noted "teeth" only in sheltered shore enclaves.
+5.
+Variation in Form of the Shell lip
+Adults are thought not to grow.
+But, according to Moore (1938a), "occasional specimens are taken in which the presence of a second set of teeth within the marginal ones indicates that the original stoppage of growth was followed by a second slight growing period, this in turn being replaced by a second period of thickening and growth stoppage, but such specimens are too rare to be a serious source of error" .
+Cowell and Crothers (1970) established that animals with two or more rows of "teeth" form a  normal, predictable, proportion of dog-whelk enclaves in southwestern Britain (Fig. 18).
+Virtually all adults in northern and eastern Britain show at least two rows (Feare, 1970a).
+It appears that Moore's observations were based on preserved specimens: he could not see the inner rows.
+Cowell and Crothers (1970) and Crothers (1971) accepted the basic observation- namely that dog-whelks cease growth at maturity and (usually) lay down a row of "teeth" .
+This has the effect of strengthening and narrowing the aperture against crab attack.
+Any additional rows, visible inside the body whorl of adult dog-whelks, indicate periods when growth stopped during their early life.
+Cessation of growth is most likely to result from starvation, which may arise because: the whelks eat out their food supply, or the supply fails for some other reason (perhaps as a result of pollution Bryan (1969); wave action dislodges the whelks and transports them away from their food supply, or prevents them from feeding in some other way (Cowell and Crothers, 1970); the temperature drops so low that the whelks become inactive for a long period (Feare, 1970a).
+He found all second winter whelks to cease feeding on the Yorkshire coast and lay down a row of "teeth" within their shell.
+This must be the situation for all North Sea populations in most winters.
+He went on to regard the presence of more than two rows to be an indication of adult growth, but, whilst this may sometimes occur it is just as likely that the unfortunate whelk was checked several times during its immature life.
+In southwestern Britain, Cowe11 and Crothers (1970) showed that the proportion of adult shells within an enclave that showed obvious signs of surviving a stoppage in growth (y) was related to exposure (x) on Ballantine's (1961) scale by:(1895) and, subsequently, by numerous other writers on both sides of the Atlantic.
+It was not, however, until the Lough Ine investigations (summarised by Kitching &Ebling, 1967) that any serious experimental data were available to suggest an explanation as to the mechanism by which the pattern arose and has been maintained.
+The experiments confirmed Cooke's supposition that the compact form and relatively large foot of the exposed-shore morph-evidenced by the large broad aperture of the shell-confer an advantage to their owner under conditions of powerful wave action or other strong water movement.
+The compact form presents a minimal surface area to the moving water and the large foot maximises adhesion to the rock surface.
+But such animals can barely retract into their shells because there is so little unoccupied space therein (Osborne, 1977).
+For the same reason, they are unable to hold much water within the shell and are, in consequence, at risk from desiccation at low tide.
+As exposed shores are frequently subjected to almost continual spray this may not be critical.
+Short squat whelks are also the ones most at risk from predators (see p. 302), their small size and rounded shape making them easily swallowed by gulls and eiders whilst their wide mouth renders them vulnerable to oystercatchers and crabs.
+There is a general correlation between shell shape and shell length-in that squat shells are usually (but not inevitably) shorter than elongated ones.
+Table 8 summarises the pattern.
+In cage experiments, Kitching and Ebling (1967) observed that sheltered-shore Nucella survived longer than their exposed-shore counterparts when crabs were present.
+Not only can the more elongated whelks withdraw further into their shells, sometimes disappearing completely from view, but also the narrow aperture prevents a crab from obtaining a satisfactory purchase on the lip with its chela (Vermeij, 1974; Hughes and Elner, 1979).
+Crabs are most abundant on sheltered shores (Crothers, 1970) and it is likely that the selective effect of crab predation is similarly concentrated in sheltered inlets.
+Continuous salt spray is not a feature of sheltered shores and, except where fucoid seaweeds offer shelter (Menge, I 976), desiccation may be significant.
+Nucella does not appear to have fluid spaces between mantle and shell, as has been reported for limpets, but, in common with other littoral molluscs, a certain amount of seawater is trapped in the mantle cavity (above the head)(Boyle, Sillar and Bryceson, 1979).
+This extracorporeal fluid reservoir represents between 30% and 40% of the total water content of dogwhelks collected at Blackrock in Sussex (Coombs, 1973) and Nigg Bay near Aberdeen (Boyle et at., 1979).
+Osborne (1977) considered the development of an elongated shell form in N. lapillus enclaves close to their southern limit in Massachusetts as an adaptation to resist desiccation.
+She showed that, tissue weight for tissue weight, a dog-whelk with an elongated shell was able to retain far more water within its shell than could a squat one.
+Alone of the Pacific species, N. emarginata shows something like a comparable variation in shell shape with exposure (Crothers, 1984), but the shell is so thin as to afford little protection from crabs regardless of its shape (Kitching, 1976) and an ability to resist desiccation could be of great value to this highQQintertidal species in sites protected from continuous spray.
+In Portugal and North Spain, the true open coast form of N. lapillus is not seen.
+All enclaves are of a sheltered-shore or intermediate form and the species is either absent from exposed headlands or confined to small areas of local shelter (Kitching, 1977; Crothers, 1983b).
+Perhaps this is a response to desiccation.
+Thus, the selective effect of wave action (favouring the survival of those dog-whelks with short squat shells) increases proportionally with increasing exposure.
+The selective effect of crab predation (favouring the survival of those dog-whelks with a narrow shell aperture) increases proportionally with decreasing exposure.
+The selective effect of desiccation (also favouring the survival of those dog-whelks with an elongated form) increases with decreasing exposure to salt spray.
+Moore (1936) thought that diet influenced shell shape as well as shell colour: regarding the development of the wide-mouthed open-shore form a consequence of a mussel-rich diet.
+Nobody has been able to substantiate that idea and Kitching (1977) cites instances in Spain and Scotland of enclaves with elongated shells feeding on mussels.
+Crothers (1973) related the resulting gradation in N. lapillus shell shape to exposure on Pembrokeshire (Fig. 24) shores by the expression: y= 1.214+0.036 X Where Y is a Shell-shape ratio and X the Ballantine (1961) Exposure Grade.
+r = 0.878 (Crothers, 1983b).
+L/Ap — shell length divided by aperture length (Fig. 22) is the simplest, most convenient and most objective measure of shell shape in dog-whelks.
+Although lacking the intrinsic relevance of "mouth area" (used by Smith, 1981, for winkles) or of "apical angle" and "whorl ratio" (employed by Kitching, 1976; 1977; Cambridge and Kitching, 1982) this ratio is less affected by the absolute size, thickness, age or condition of the shell and it is undeniably easier to record in the field.
+Shells were measured to the nearest 0.1 mm, using a vernier caliper, and the sample mean calculated for collections of 100 shells (later reduced to 50 and then 30 as it became apparent that increasing the number of measurements did not improve the accuracy of the mean)(Fig. 23).
+Substituting for X in the expression opposite, it will be seen that mean I, /Ap ratios range from 1.25 on shores of Grade 1 ( "Extremely Exposed" on Ballantine's scale) to 1.50 on "Extremely Sheltered" Grade 8s.
+Subsequent investigations, summarised by Crothers (1983b), have found that this expression usefully describes the variation seen over most parts of the species' range in Europe and North America.
+Figure 25 illustrates   the way in which the shell shape of Sci1lonian enclaves reflects even minor fluctuations in exposure to wave action.
+Figures 26,27 and 28 show the comparable situations near Dale Fort, Orielton and Slapton Ley Field Centres.
+However, there are exceptions.
+Not all enclaves fall within the 1.25–1.50 predicted range of shell shape (Fig. 29).
+The exceptions are usually enclaves (or groups of enclaves) within an otherwise "normal" population that have unusually elongated shells.
+But in some regions the pattern appears to break down (Table 9); notably in Southeast England, on the North Coast of Wales, in the Solway Firth and, most spectacularly, in the Severn Estuary.
+without the genes for this shell-shape; thus, regardless of the selection pressures, the "normal" exposed form cannot occur.
+If this is so, it would explain the situation seen around the mouth of the Conwy Estuary in North Wales (Fig. 6(12) and Fig. 31).
+These enclaves do show a sequential change in shell shape from exposed to sheltered sites: but the variation is from 1.35 to 1.60 (Crothers, 1985).
+In Pembrokeshire, Scilly and most south western sites, it is 1.25 to 1.50.
+The selection factors are presumably the same, crabs will always take wide-mouthed shells first and elongated shells must always be more vulnerable to wave action: selection produces different results because it is operating on genetically different populations.
+Crothers (1985) suggests that, whilst the expression printed on p 328 describes the "normal" variation seen on "western" shores, y= 1.236+0.051 X may be more appropriate in Liverpool Bay and other "eastern" sites.
+In the Eastern Atlantic, at the mouth of the Bay of Fundy where shell-shape variation in N. lapillius is generally reduced (Crothers, 1983a), McEachreon (1985) has recently demonstrated a shell shape trend with exposure over a proportionally-reduced numerical range.
+Across the county boundary between Devon and Somerset, at the entrance to the Severn Estuary (as defined by Boyden et al., 1977), there is an abrupt change in shell-shape, apparently unrelated to any environmental factor (Fig. 32).
+There appears to be less difference between enclaves in Devon and the USA than there is between those in Devon and Somerset.
+The causes of such a dramatic change must be largely genetic.
+Berry and Crothers (1970) attempted a repeat of their (1968) demonstration of stabilising selection on Somerset shores and failed.
+There was no evidence of selection: no reduction in variation with age.
+Significantly, the adult populations in Pembrokeshire and Somerset showed similar ranges of variability.
+It is the Somerset juveniles that show an unusually low level.
+If the variability is not present in the population, selection cannot produce it.
+Nucella has more species and a longer fossil history in the Pacific than in the Atlantic.
+Precursors of the modern genus appear in Late Miocene deposits along the Pacific coast of North America (Grant &Gale, 1931), and Nucella shells are continuously present in the fossil record from then on.
+The genus appeared suddenly in the Atlantic at the end of the Pliocene without any local antecedent forms, and it is thought that transarctic migrations of several Pacific genera, including Buccinunl and Searlesja as well as Nucella, occurred through the Bering Strait, between a half and one million years before the onset of the first of the Pleistocene glaciations (Franz and Merrill, 1980).
+Pleistocene fossils ascribed to N. lapillus are widely distributed on both sides of the Atlantic, as far south as the Canary Islands (Talavera, Kardas and Richards, 1978).
+SPECULATION
+It is interesting to compare the modern species of Hiscelia (Fig. 34: Table 10).
+No one of the Pacific species is the obvious progenitor: lapillus combines many of the features exhibited by emarginata and lamellosa.
+suggests that N. lamellosa reached Britain.
+In the, later, Norwich Crag, the shells are all of N. lap ii/us.
+The advance and subsequent retreat of the ice sheets, through their concomitant fall and rise in sea level, must have caused extinction and recolonisation in some areas: separation and reunion of populations in others (Cambridge and Kitching, 1982).
+It seems as though the period of separation has been long enough for genetic differences to appear within populations but not so long that reproductive barriers have developed.
+Palmer (1984) showed that enclaves of N. emarginata collected in Torch Bay, Alaska, at 58 ° 20'N were fully interfertile with enclaves from Bamfield, Vancouver Island, B.C., 48 ° 53'N.
+The shell-shape patterns reviewed here (and more fully by Crothers, 1983b) coupled with the chromosome variation, can be "explained" by envisaging the N. lapillus populations of the British Isles as comprising two main groups (Fig. 33).
+A southwestern faction, bearing the genes for short squat "exposed shore" shells and n = 18 chromosome number, confronting and gradually displacing a northeastern faction which lacks those particular genes and is monomorphic n = 13.
+The pattern of "teeth" variation, originally interpreted as purely phenotypic variation dependent upon water temperature, is not far removed (Fig. 20).
+Variation in colour, however, does not correlate with the other patterns.
+There has been no chromosome work in Shetland (nor investigations of the "teeth" ), but the shell-shape data strongly suggest a meeting of two factions-in some places the enclaves show the full "normal" range of variation: in others, only a few miles away, they do not.
+It appears that there are two discrete breeding groups on Gore Point (Porlock Weir, Somerset) separate enclaves on the lower and middle shores, with mean lengths of 47.6 mm and 24.3 mm; mean shell-shape ratios of 1.78 and 1.45 respectively.
+They feed on different food.
+The larger ones lay larger capsules from which larger embryos emerge and grow faster.
+They are both 11 = 13, but in almost all other ways they differ.
+The appearance of the large form on the junction between the "normal" and "elongated" populations of the Severn Estuary, and on the junction between "western" and "eastern" populations in the English Channel may be coincidental-but worthy of note.
+APPENDICES
+I. TAXONOMY AND NOMENCLATURE
+"What's in a name.
+That which we call a rose By any other name would smell as sweet."
+(Shakespeare: Romeo &Juliet, Act ii, scene 1) The common dog-whelk is called by at least three different names in the scientific literature-Nucella lapillus, Thais lapillus and Purpura lap ii/us.
+Compilers of review volumes sometimes use all three, copying from many original papers and seeming not to realise that they refer to one and the same snail.
+The situation is confusing, but there is an interesting history behind it.
+The Linnean system of zoological nomenclature depends on the attachment of a binomial (two word) latinised name to a chosen specimen of each species.
+This is then known as the type specimen.
+When, as has often happened, two biologists describe different species under the same name (or the same species under different names) the work that was published first takes precedence-but the buck stops at Linnaeus (1758), the tenth edition of Systema Naturae.
+Linnaeus named his specimens of the common dogwhelk, now held by the Linnean Society of London, Buccinum lap ii/us.
+Lapillus means a pebble.
+The entry (Linnaeus, 1758), under Buccinu, n reads: Lapillus. 403.
+B. testa ovata acuta striata laevi, columella planiuscula Habitat ad Oceani Europaei littora Turbini littoralis convenit facie, loco, magnitudine; consistentia
+I translate this as: A whelk with a smooth, ovate, pointed shell, marked with fine lines and with the columella fairly flat.
+It lives on the shores of European seas.
+Of a similar form, habitat, size and texture to the topshells.
+Bruguiere (1789) split the Linnaean Buccinum (47 species) into four divisions, calling one of them Purpura-a name used by the ancients for the whelks from which their purple dye was extracted (see Appendix 2).
+Bruguiere does not appear to have included B. lapillus L. in Purpura but Lamarck (1822) did when he expanded the genus to comprise some 50 species, establishing B. persicum L. as the type for the genus (Winkworth, 1945).
+For about a hundred years following the publication of Lamarck's book, the common dog-whelk was known as Purpura lapillus (L.) -the brackets to show that Linnaeus had described his type under a different generic name.
+Subsequent revision of the taxonomy of rocky shore whelks has restricted the genus Purpura to a few large-mouthed, high intertidal whelks from warm seas-mostly in the Indo-Pacific.
+P. persica (L.) remains the type (Wellington &Kuris, 1983).
+It was necessary to find another name for lap ii/us.
+Swainson (1840) had called this animal Polytropa lapillus (L.) but that name must give precedence to one of the older names if it is valid-and the name Polytropa lap ii/us is rarely seen in modern literature.
+The names Nucella and Thais were both introduced by Roding (1798) in his revision of Bolten's collections.
+Confusion arose because Roding described a whelk under the name of Nucella lapillus which is not the same species as (or even closely related to) Buccinum lap ii/us L. Several people have accordingly considered the name Nucella Roding to be inapplicable to the common dog-whelk, either as a genus or sub-genus, and they place the animal in Thais Roding.
+Clench (1947) summarises this argument.
+The case for Nucella depends on the synonymy of N.theobroma Roding with Buccinum lapillus L. (Winkworth, 1932).
+Clench (1947) could not substantiate this but Rehder (1962) published a convincing photograph confirming that N.theobroma Roding is simply the narrow-banded variety of B.lapillus Therefore Nucella Roding is a valid name.
+The continued use of Nucella and Thais for lapillus reflects a degree of taxonomic doubt as well as taxonomic ignorance.
+Most British authors have followed Winkworth (1932) and regard Nucella as a genus in its own right,(e.g., Fretter &Graham, 1962; 1985) whilst North Americans have tended to treat it as a sub-genus of Thais.
+Recently however, the former view has been gaining ground (e.g. Keen &Coan, 1974; Smith &Carlton, 1975; Morris et al., 1980) and the genus Nucella roding is currently regarded as comprIsIng: N. lapillus (L., 1758) -the type-from the North Atlantic N. canaliculata (Duclos, 1832) N. emarginata (Deshayes, 1839) N. freycineti (Deshayes, 1839) from the North Pacific N. lamellosa (Gmelin, 1791) N. lima (Gmelin, 1791).
+Carriker (1981) observed that the curious position of the accessory boring organ on top of the ventral pedal gland in and purpura Thais (and in a similar genus, Rapana) suggests a close affinity between these taxa.
+The absence of this arrangement in Nucella lapillus lends support for the separation of Nucella from Thais.
+The genera Nucella, Purpura and Thais are now usually regarded as members of the family Thaididae-a name confirmed by Opinion 886-which, in turn is part of the super-family Muricacea.
+(Fretter &Graham (1985) prefer to retain the Thaididae within the Muricidae.)
+Nucella, as we have seen, is a genus of temporate intertidal thaids, feeding for preference on barnacles and mussels (which they attack by boring a hole through the shell of their victim and subsequently inserting their proboscis through the same hole in order to feed), and lacking a planktonic phase in their life cycle.
+Except in thin-shelled populations, adults usually lay down a row of teeth along the lip of the aperture.
+Thais is a genus of primarily sub-tidal, warm-water thaids, feeding on a range of molluscan prey.
+They bore a hole through their victim's shell which (at least in T. haenmastoma (Carriker, 1981)) is too small for the whelk to insert its proboscis.
+There is a planktonic larval stage.
+Adults do not thicken the shell lip or form "teeth" (Fretter &Graham, 1985).
+Purpura is a small genus of high intertidal thaids from warm seas, feeding mainly on gastropods (topshells and winkles) which they attack through the operculum (Wellington &Kuris, 1983).
+Adults do not thicken the shell lip or form "teeth" .
+344
+2.
+ "TYRIAN PURPLE" 
+ "Lydia, a seller of purple, of the cities of Thyatira" (Acts of the Apostles: xvi I 4) A purple dye industry, based on extracts from the hypobranchial gland of various Muricacean whelks, flourished in the Eastern Mediterranean from Old Testament and Ancient Egyptian times until the fall of Constantinople in 1453 AD.
+Baker (1974) summarises the historical and chemical basis of this industry.
+It appears that the principle species involved were the Thaidid Thais haemastoma and the Muricids Bolinus brandaris, B. cornutus and Phyllonotus trunculus.
+It is less widely known that there was a comparable (although much smaller) dyeing industry in Ireland based on Nucella lapillus which seems to have been known of as far away as Minehead in Somerset (Cole, 1685).
+The chemical constitution of the dye is 6,6"-dibromoindigotin (Baker, 1974).
+There is, however, no purple compound visible in the hypobranchial glands of any of the above molluscs.
+An extract from the gland is white in colour, but there "will presently appear a pleasant light green colour; and if placed in the sun it will change into the following colours: light green, deep green, full sea green, watchet blue, purplish red, very-deep purple red" (Cole, 1685, quoted by Baker, 1974).
+There is considerable doubt as to the identity of the colour named "Tyrian Purple" for a wide range of colours may be obtained from Mediterranean muricids, depending on the species used and the process employed.
+Those interested should consult Baker (1974).
+3.
+GEOGRAPHICAL DISTRIBUTION
+N lapillus is widely distributed on rocky shores bordering the North Atlantic Ocean between (approximately) the 19 ° C summer isotherm and the — 1°C winter isotherm for oceanic waters (Moore, 1936), apart from areas of reduced salinity-such as the Baltic Sea.
+In Europe, the southern limit is either Cabo Sagres (Nobre, 1931) close to Cape St. Vincent (Portugal) at 37°N or the Straits of Gibraltar (Fretter &Graham, 1985) from whence it extends northwards, around the North Cape of Norway, into the White Sea to reach 73°N on the west coast of Novaya Zemlya (Cooke, 1915).
+It reaches into the Skagerrack and along the Swedish shores of the Kattegat, but is uncommon in Denmark (Fretter &Graham, 1985).
+In North America, the range is much more restricted.
+The southern limit is near Montauk at the eastern end of Long Island (New York), 41-N.
+Cooke found no mention of living animals being found north of Notre Dame Bay in Newfoundland (SON) whilst Bousfield (1960) simply says "Southern Labrador" .
+Amongst the North Atlantic Islands, it is abundant on the Lofotens and Faroes, widely distributed (but of sporadic occurrence) around Iceland, passing the Arctic Circle on islands off the north coast.
+It may still be present in south-western Greenland (see Cooke, 1915; Madsen, 1936; and Stephenson &Stephenson, 1972).
+Thorson (1941) suggests that living specimens have been found in W. Greenland, but he also cites the Azores amongst further distribution where they are not now found alive.
+Fossils occur in the Canaries (Talavera, Kardas &Richards, 1978).
+Crothers (1983b) included a series of figures showing the geographical trends in shell shape variation.
+These are reproduced here by permission of the Linnean Society of London.
+5.
+SOME SUGGESTIONS FOR FIELD PROJECTS BASED ON DOG-WHELKS
+This paper should have suggested many lines of worthwhile investigation, and observations of real populations on the shore will undoubtedly throw up others, but it may be helpful to list some topics here.
+The reader may think that the result is already known, but all too often different populations behave in different ways so that although there may be an expected result to an investigation it will not be a foregone conclusion.
+The first group of suggestions that follow can all be carried out on a single visit to the shore or group of shores.
+In all cases it would be entirely reasonable to repeat the results in different years (or in different seasons of the same year).
+When designing projects reference should be made to the Open University Project Guide (Chalmers &Parker, 1985) which includes instructions concerning relevant statistical tests.
+There is a range of topics requiring little more than the ability to recognise and identify the prey being attacked.
+For example: 1.
+Are the dog-whelks selecting prey species in the proportions in which those animals occur on the rock surface at that level on the shore?
+Food and feeding
+Make a table, ranking the prey species (a) in their order of abundance and (b) in order of the preference shown for them by the dog-whelks.
+It will be best, in the first instance, to concentrate on adult dog-whelks and simply count the number feeding on each type of prey.
+The easiest way of assessing the abundance of potential prey species is to work out a density value (number of individuals per square metre of rock surface) for each one.
+For barnacles a quadrat of 0.01 m2 is plenty large enough but for limpets and winkles a 0.1 m2 is best.
+If the table suggests that the predators are showing selection (in other words the columns appear to be different), test the likelihood of this using an appropriate statistical test.
+2.
+Do the food preferences of dog-whelks change with age/size?
+Divide the dog-whelk population up into size classes.
+Most will be adults, and there ought to be two discrete year classes smaller than those.
+They are not necessarily all living at the same level on the shore.
+Proceed as for(1), comparing the rank order of the two immature size classes with that for the adults.
+3.
+For any one of the prey species, are the dog-whelks selecting particular sizes of victim?
+This will be difficult to carry out on barnacles, but comparatively easy for mussels, limpets or other snails.
+Collect the victims being attacked by dog-whelks (avoid the temptation to "cheat" and collect predated shells-some sizes may last longer than others once the original owner has died) and measure them in some convenient way.
+Shell length is probably the best.
+Measure a similar number of living potential prey (of the same species!) chosen at random from the prey population.
+Treat the data in the same way as for (1) above.
+You cannot use a parametric test because the size-frequency of the potential prey population is unlikely to be normal.
+4.
+What effect has heavy dog-whelk predation on the shore community?
+Note the heavy: this is not worth attempting unless the predation pressure is (a) considerable and (b) localised.
+Compare the size frequency and/or density of potential prey species within and without the areas of heavy predation.
+Be careful to recognise areas which have been worked-over by the whelks in the past, and remember that Nucella will feed at different shore levels at different times of the year.
+5. if there are different species of whelk occurring together, are they selecting prey in the same manner?
+Ocenebra erinacea or Urosalpinx cinerea (Fig. 35) may be found with N. lapillus on some shores.
+Proceed as for(1).
+Herring Gulls and Eiders swallow dog-whelks whole and subsequently eject the shells (still entire) with their pellets or faeces.
+Both seem to have favoured resting sites where these things may be found.
+Oystercatchers may wedge the shells into a crevice and chip away at the lip.
+They frequently leave sufficient of the shell to allow us to recognise its original size and shape.
+Predators
+6. if predated dog-whelk shells are available and you can collect about 30 specimens.
+Has the predator selected a particular size/shape/colour variety of dog-whelk as prey?
+The procedure is the same as for (3) above but care should be taken to compare the predated shells with living ones from the same population.
+It may be necessary to observe the birds and see where they feed.
+These topics fall into three main groups:(a) recognising the pattern of variation and seeking to correlate its occurrence with some environmental factor;(b) seeking to find some differences in ability or behaviour between morphologically-different animals;(c) searching for evidence of selection.
+Variation
+7.
+Do the dog-whelks in this region vary in some easily-recognised parameter (for example; adult size/shell shape/shell thickness/body colour/shell colour or banding pattern) with exposure to wave action?
+Categorise the sites into exposure grades, using Ballantine's scale if applicable, and collect comparable numbers of living dog-whelks from each of the different grades, taking care to collect the animals at random-or, at least, without conscious bias for the characters to be investigated.
+Proceed thereafter as for(1).
+8.
+Do the different morphs (be they different colour, adult size, shell shape, etc.) show the same food preferences?
+Repeat (2) but compare groups of adult dog-whelks that differ on one morphological feature-i.e. size or colour, not size and colour.
+For this to have any meaning the different morphs must be familiar with the same range of potential prey.
+If this is not true, it may be necessary to collect animals from a range of sites, mark them and release them again on a single site some considerable time before the project is to be carried out.
+9. is selection occurring now?
+The idea is to investigate changes in variability with age.
+It is necessary to find a character with an invariant mean-1.e. one in which the mean does not change significantly with age.
+Berry &Crothers (1967) used length divided by the cube root of the dry weight, but there are probably others.
+A decrease in variability (as indicated by the standard deviation or variance) is evidence for selection: an increase probably indicates the development of features associated with maturity and the development of secondary sexual characters.
+In most populations shell length is closely related to age in immature Nucella, so the task is to plot the variability of the character under investigation against shell length.
+If it is practicable to make repeated visits to the same site over a period of months or years a programme of capture/mark/release and recapture will add a further dimension to the whole range of topics available.
+Longer term projects
+In the short term shells may be marked with blobs of paint or even by writing on them with a pencil, but a more permanent mark may be made by cutting a groove into the shell lip with a hacksaw.
+The groove is repaired but the "scar" remains.
+It is necessary to mark very large numbers to achieve any useful result.
+The only real problem with all these lies in marking out the study area for it will rarely be possible to delimit a discrete enclave of the animals.
+10.
+What is the area of the panmictic unit?
+Or, in other words, how far do they roam?
+This simply involves marking out a small area, collecting and marking all the dogwhelks within it, releasing them again into the same area.
+On each subsequent visit the distance of the marked animals from the release point is measured.
+Plotting these distances against time gives a mean rate of dispersal whilst the distances themselves indicate the general amount of movement shown by those individuals on that shore.
+11.
+Do some of the morphs survive better than others?
+Comparing the recaptures with the original data on the marked animals released, have some morphs survived better than others?
+Have coloured/banded or white ones done best?
+Are bigger adults favoured over smaller ones?
+Are squat shells more successful than elongated ones? etc., etc.
+12.
+Are individual whelks selecting particular prey species?
+Devise a marking code so that dog-whelks found feeding on the different prey species can be so distinguished.
+Revisiting the site at intervals (of at least a week) note whether the marked animals are feeding on the same prey or not.
+The data can be analysed using a x 2 test.
+13.
+Do whelks fed on prey a grow faster or slower than those fed on prey b?
+Considering simply the non-adult component of (11) above, measure the new growth of shell since the mark.
+Bearing in mind that growth rate is related to size in a non-linear manner, compare growth rates of whelks of the same initial size marked as feeding on different prey.
+14.
+How many barnacles (or mussels) are eaten in a given time?
+Delimit an experimental area and remove the dog-whelks from round about it.
+Count and mark the dog-whelks remaining.
+Remove all the empty barnacle (or mussel) shells.
+Ideally, count the number of prey items available.
+Photograph?
+Revisiting a month or so later, count the number of empty barnacles (perforated mussel shells) or otherwise examine the depradations of the dog-whelks.
+How far have the moved?
+14.
+What happens when the favoured food is not available?
+Having carried out (1), delimit an experimental area, record and mark the dog-whelks within it, remove the preferred food animals (or, if that is impractical, move the dog-whelks onto an alternative food supply at the same tidal level).
+On subsequent visits observe the locations of the marked animals.
+Have they moved in search of the preferred food or have they accepted a second choice?
+How far have they moved this time?
+The same as in (14)?

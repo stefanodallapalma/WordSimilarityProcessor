@@ -1,0 +1,554 @@
+Commodities: Cocoa
+By DAVID FANNING
+RUMOURS that the Ivory Coast had sold 200,000 tonnes of cocoa to a French trade house sent futures to a four-month low.
+The December price dropped £34 to £706 per tonne.
+There were less widespread suggestions of a 100,000 tonne purchase by another international operator.
+Technology: Problem of dividing up radio frequencies
+By MARY FAGAN
+THE GOVERNMENT faces controversy over plans to sell off the spectrum of radio frequencies.
+From a commercial point of view, there are not enough to go round.
+More television and radio, telephones that go everywhere with you, and in particular the defence of the nation, all take a toll on the frequency spectrum.
+Radio waves, like light waves and sound, are a means of transmitting energy.
+The signals fluctuate in cycles: if radio energy fluctuates at one cycle every second, then it has a frequency of one Hertz.
+The more cycles per second, the higher you go in the so-called spectrum of frequencies.
+A ‘hum’, for example, is a vibrating sound signal in the audio range of frequencies.
+Go further up and you reach ultrasonic frequencies where the noise can be heard by dogs and not humans.
+Radio is higher still.
+At these higher frequencies, radio uses a mixture of vibrating electric and magnetic fields instead of fluctuating sound waves.
+This is so that the energy can be made to travel a much greater distance.
+Radio waves are useful as we can make them carry information by modulating them — for example, changing the amplitude of the fluctuations so that the change represents information.
+At the receiver, the signal is demodulated and the information — the voice -extracted.
+Radio programmes are transmitted at frequencies of hundreds of thousands of hertz (kilohertz) or millions of hertz (MHz).
+These high frequency radio programmes can be bounced off the ionosphere which at certain high frequencies acts like an electrically charged mirror.
+The fades, whistles and crackles reminiscent of old Tony Hancock programmes came through because the ionosphere is not as stable as broadcasters would have liked.
+Satellites, when they arrived, were much more effective.
+Apart from the armed forces and civil and military users such as air traffic control, the biggest inhabitants of the spectrum are telecommunications and television.
+TV takes up vast chunks mainly in the 470MHz-850MHz range.
+Sea-going radio and radio communications on aircraft also take their fair share, as does land-mobile radio.
+It is introducing more of the latter which is posing the biggest problems.
+At low frequencies the signals do not have much carrying capacity, but go too high and the oxygen and hydrogen molecules in the atmosphere can actually vibrate in sympathy with the radio waves, absorbing the signals.
+According to the Department of Trade and Industry, underneath 900MHz or so, things are clogged up.
+The European Commission is having a hard enough job getting all its members to clear out the same few channels so that Europe can have a paging system which could be used in any of its countries.
+Every country has its own system for using frequencies, and they have to think about each other— radio waves, after all do not stop at national boundaries and without international collaboration there could be interference and general chaos.
+Similarly, there is an international agreement to have special ‘windows’ left clear in different parts of the spectrum for astronomical telescopes.
+In the UK, the Government took a long look at the spectrum before launching a fifth and sixth TV channel.
+It decided it could squeeze in a fifth, but there is no room for a sixth channel and by the time you add up the extra transmission channels needed for relaying the signal onwards, there will not be enough spectrum to allow the fifth channel to cover the whole country.
+The example of the police radios shows the relative permanence of being allocated a piece of spectrum — radios and other broadcasting equipment, whether for entertainment or communication, are designed to sort out what it wants to pick up from the rest of the signal.
+To perform well it has to be tightly targeted to cope with quite a narrow band of frequencies.
+Even tuning your radio can be done over a very limited range.
+The latest problem for the Government is increasing competition for mobile cellular radio services, which have a small bunch of frequencies around 900 MHz.
+Cellular radio is so called because it divides the country into small areas served by a radio base, and then divides each of these areas into ‘cells’.
+The cells are distributed so that callers travelling through cells a fair distance apart can use the same frequencies without interfering with each other, making most use of the limited spectrum available.
+But even with this technology, there was not enough room to bring in any more rival services.
+So the Government had to choose much higher frequency and new devices will have to be developed before new mobile telephone services can begin.
+The problem turned into an advantage.
+At the higher frequencies chosen, the cells need to be made much smaller but have the benefit that the telephones can be built to need a great deal less power.
+This in turn makes them cheaper and small enough to fit the average pocket in every sense.
+So in a few years' time mobile phones will be brought to the masses.
+Still, those who manage Europe's frequencies are trying to struggle with other problems.
+They have agreed a frequency which will allow mobile telephones to be used throughout Europe.
+But the reason we, unlike the Americans, have no telephones on planes is largely because a consensus on frequencies was a long time coming.
+Turriff shares get boost from 30% profits rise
+By FRANK KANE, Chief City Reporter
+SHARES in Turriff Corporation, the Midlands-based construction and plant hire group, put on 1p to 334p against the market trend on the announcement of a 30 per cent rise in pre-tax profits to £1.76m.
+The profit rise came despite a decline in sales from the housebuilding business, which is concentrated in the area worst hit by the property slump, the South-east of England.
+Chief executive John Wyatt said he was still hopeful the target of 78 house sales by the end of the year would be achieved, with 41 sold so far.
+The housebuilding downturn will be largely offset this half by the sale of a commercial property development in Witney, Oxfordshire, Mr Wyatt said.
+Construction improved and cost pressures are easing, he added.
+In plant hire, the main profit earner, the larger-scale plant items are successful and profitable, but smaller ones are affected by the decline in the housing market.
+Mr Wyatt said action would have to be taken at the Total Power Tools offshoot, which has not been performing well.
+In information and marketing, trading has been adversely affected by the downturn in consumer spending, and the group does not see the position being reversed this year.
+‘The concern must be whether interest rates have already been too high for too long,’ Mr Wyatt said.
+Earnings were 32 per cent up at 14.1p, covering a 21 per cent increase in the interim dividend to 4.25p.
+Analysts predict £5.8m taxable profits for the year, with the second half traditionally stronger.
+Company News in Brief 
+Business and City Page 28
+Rentokil sells US timber side for 5.8m pounds
+By TERENCE WILKINSON, Assistant City Editor
+RENTOKIL, the environmental and property care group, has sold its loss-making US timber preserving business to Laporte, the specialty chemical maker, for £5.8m in cash.
+Clive Thompson, chief executive of Rentokil, said the company was only a small player in the US timber preserving market and had decided to concentrate on the UK, European and Asian markets where Rentokil has large market shares.
+The business being sold, which does not include a freehold site at Atlanta, Georgia, makes timber treatment chemicals under the ‘Supatimber’ name.
+In 1988 the operations lost £100,000 after meeting central group charges.
+‘We plan to use the cash proceeds to build up our environmental service business in the US particularly to expand our $42m Tropical Plant Rental business which we acquired last year,’ said Mr Thompson.
+Tropical Plant Rentals, acquired in October 1988 for $41.5m, is believed to have accounted for a decline in margins in Rentokil's environmental services division from 25.8 per cent to 23.1 per cent in the first half of 1989.
+Because its results were not up to expectations Rentokil is paying $2m less for the business than planned.
+Laporte also announced yesterday that it has bought Woodtech, an independent supplier of wood treatment plants, and has spent £6.3m buying the speciality building products division of ICI Australia and two other minor operations.
+Armchair Investor: Headland Group
+By TERENCE WILKINSON, Assistant City Editor
+THE BRIEF history of Headland Group, created when the management consultants Octagon rode to the rescue of troubled Compsoft Holdings in 1987, is a story of recovery.
+Yesterday the group moved into its growth phase.
+Tied in with encouraging half year figures, Headland announced a £11m acquisition and its shares were temporarily suspended while an offer document is printed.
+Headland is buying Multisoft, a software group which makes business accounting systems designed for the personal computer market.
+Headland believes Multisoft's experience, especially in open systems — computers of different makes that integrate with each other— can be married with systems developed by Mega, Headland's own accounting software house which produces larger systems sold directly to clients.
+The purchase is being paid for with £1.1m cash and the balance satisfied by a share issue, which has been underwritten.
+Research shows that there are currently 960 accounting systems on offer in the UK, and Headland thinks there might be some consolidation.
+If there is, the group is geared up to exploit it.
+Pre-tax profits this year should reach £2.45m putting the shares, 42p when suspended, on a prospective multiple of 15.5.
+One to tuck away when they are relisted.
+Market Report: Merchant banks in demand on bid expectations
+By DEREK PAIN
+THE STOCK market senses another big financial bid following the £1.1bn offer for Pearl Group from Australian Mutual Provident.
+As Pearl shares raced ahead there was some determined buying of merchant banks, particularly Morgan Grenfell.
+In often active trading its shares climbed 21p to 357p with, once again, insurance group Willis Faber rumoured to have sold its 20.5 per cent holding.
+Credit Lyonnais, the French group which owns the Alexanders discount house and stockbroker Laing &Cruickshank, was the suggested buyer.
+Stories that the Willis Faber stake is on the move have circulated in the past, with West German banks the favourites to pick it up.
+Morgan shares were also given a helping hand by the AMP offer.
+The bank is advising the Australian group and it has been calculated that if its bid succeeds Morgan's commission will add 6.5 per cent to its earnings.
+But Morgan was not the only merchant bank in favour.
+Kleinwort Benson, which disclosed it had purchased 200,000 of its own shares at 353p each, rose 11p to 366p and Hambros edged ahead 3p to 232p.
+S G Warburg gained 9p to 420p.
+The revival of takeover speculation — there is little doubt that European and Japanese buyers lurk — has occurred at a time when the merchant bankers, after a long period in the doldrums, are enjoying a rerating on trading considerations.
+On the insurance pitch Pearl romped ahead 87p to 639p, with many suggesting AMP will have to pay more than 700p a share to win the battle.
+Other life insurers to draw encouragement from the bid were Britannic, up 27p to 520p, and Refuge Group, 26p higher at 604p.
+Prudential Corporation slipped 3.5p to 195.5p on worries that it could emerge as Pearl's white knight.
+Composites, which have attracted takeover speculation, were inclined to ease on disappointment that Pearl had been targeted.
+But Commerical Union, the favourite for bid attention, recovered to close little changed at 451p.
+The rest of the market remained weighed down by interest rate pressures, with Thursday's West German decision anxiously awaited.
+But, after a bleak opening, prices improved although trading was again thin.
+At the close the broadly-based FT-SE share index was down 10.2 points, an effective 7.4 points fall after allowing for dividend payments.
+Stores remained in the doldrums, with the latest retail sales figures confirming the difficulties of the high street.
+Dixons, which had a gloomy message last week, fell 2p to 140p after touching 138p.
+Eurotunnel had an active session as Channel tunnel costs were revised upwards to £7bn.
+The shares ended 45p down at 650p.
+SmithKline Beecham, which has underperformed, gained 8p to 554p.
+There are rumours of a London investment presentation, to be followed by a US roadshow.
+Amersham International dropped 9p to 408p.
+County NatWest West WoodMac has downgraded.
+Interim figures, due next month, are expected to be £7m against £10.8m, with the year's results predicted at £20m (£25.3m).
+Problems in Japan are blamed for the setback.
+After a flat opening beers perked up when it became known that August beer production was up 8 per cent and the year's output had edged 0.6 per cent ahead of last year's corresponding performance.
+But many had anticipated far stronger growth following the long hot summer.
+Environmental engineer Wheway slipped 2p to 142p.
+Nearly 95 per cent of its one-for-four rights issue was taken up, with Panmure Gordon placing the remainder at 140p.
+Blenheim Exhibitions was unchanged at 895p as the rump of its open offer was placed by Barclays de Zoete Wedd and Laing.
+Bettaware, the curtains group where former Debenhams chief Robert Thornton is chairman, enjoyed a speculative run with some talking about stakebuilding by a determined buyer.
+The shares rose 20p to 190p.
+Property group Five Oaks Investments improved 5p to 77p.
+London Securities, the property to venture capital business, has lifted its shareholding to 6.3 per cent, buying 445,000 shares.
+Shares made a poor start to the account.
+At one time the FT-SE share index was down 27.5 points.
+But shares clawed their way back and by the close the fall had been cut to 10.2 points at 2,289.2.
+The FT 30 share index ended at 1,876.9.
+Government stocks were little changed.
+Interest is building up in Waterford Wedgwood, makers of the famous crystal glassware and bone china.
+The shares were firm at 68p.
+There are suggestions that bid action is about to break out with Fitzwilton, the vehicle of Dr Tony O'Reilly, the favourite to strike.
+WW has had a difficult time, suffering heavy losses on its glass side, but profits could be achieved this year.
+Blue Arrow, with 70 per cent of its capital now held by US investors, is to adopt the American quarterly reporting policy.
+But there are, apparently, no plans to move the group from the UK.
+Andrew Mills and Brian Sturgess at Barclays de Zoete Wedd expect full-year profits to fall from £75m to £70m.
+They rate the shares, at 112.5p yesterday, a sell.
+View from City Road: AMP tries to knock out Pearl
+By DEREK PAIN
+WITH Antipodean brashness, Australian Mutual Provident has launched its £1.1bn takeover of the Pearl.
+Conventional wisdom suggests that agreed takeovers in the financial services sector are preferable since they tend to avoid mass defections of staff in the target company.
+Such a tactic does not appeal to the Australian group.
+Even during its last acquisition, which was an agreed £15m purchase of the British mutual insurer London Life, the City was deafened by the sound of falling bodies during the deal.
+The gentlemen of the Pearl are taking off their jackets to fight the bid so the British insurer's shareholders are in for an unpredictable time.
+AMP has attempted to produce a knockout offer.
+A cash offer of 605p for each Pearl share has been slapped on the table with a loan note alternative.
+Roughly 40 per cent of the consideration will come from borrowings and the remaining 60 per cent from existing resources.
+Evidently, the stock market believes that matters will not rest there and Pearl's share price raced up 87p to 639p.
+AMP has made its play for Pearl as part of long-term expansion plans.
+The group has dominant market share down-under, taking about a third of Australia's life insurance business, and needs to look beyond its local market for opportunities.
+The Australians produced an impressive array of statistics to explain why the Pearl was underperforming and how it was losing market share.
+So far AMP executives are not sure where the Pearl is going wrong nor what they would do about it, other than perhaps improve the British group's technology and have more centralisation of the selling operations.
+Yet AMP is prepared to embark on a £1bn adventure, representing over 6 per cent of its assets, which at best will only give it a share of the British life insurance market of between 2 and 2.5 per cent.
+As a mutual company AMP is accountable to its 2 million policyholders.
+They will not get an opportunity to vote on the deal because AMP says that the acquisition does not involve a change in its main activities.
+No meeting of AMP policyholders will be called.
+Before any eventual takeover of the Pearl is completed by AMP, their voice should be heard.
+But it is the voice of Pearl investors which will have more influence on the outcome and they should keep quiet for the time being.
+View from City Road: Lacklustre Tootal
+By DEREK PAIN
+ALL THE indications are that the Monopolies &Mergers Commission report, published next week, will give the green light to Coats Viyella's £395m bid for Tootal Group.
+So as yesterday's half-year figures could be the last Tootal releases as an independent company, it is no surprise it worked hard to make them look good.
+Out of pre-tax profits that rose £175,000 to £19.25m in the six months to July, some £6.7m could be described as exceptional if not extraordinary.
+Earnings on an englarged share capital fell 7.6 per cent to 4.65p, and the interim dividend is 1.9p (1.8p).
+Tootal's 50 per cent stake in Da Gama, the South African textile business, is being sold off in five tranches, the second of which came through in this half bringing £3.3m of profits with it.
+Being charitable, this could be considered ongoing profit, but what is to be made of Sandhurst Marketing?
+Tootal bought Sandhurst in 1986 for £21.7m, and sold it in July for a mere £4.38m.
+However, rather than realising a £17m loss, Tootal's figures show a £3.4m profit, with most of the difference written off earlier through the balance sheet.
+Sandhurst, which has performed dreadfully under Tootal's control, made a £2m loss up to the point when WH Smith was persuaded to buy it, and three out of the four ongoing Tootal businesses showed disappointing results.
+The exception was clothing, which bucked the trend of the rest of the UK textile industry partly because it supplies Marks &Spencer, and partly because it makes very little in the UK.
+Threads, the core of Tootal, saw margins sliced by poor markets in the UK and US.
+Specialised materials, which Tootal promised would be an engine of growth, has yet to prove its worth, though continued heavy investment could be blamed for a 40 per cent fall in profits.
+The fabrics side was held back by a decline in demand for batiks in West Africa.
+Conventional wisdom is that Tootal will add management expertise to Coats, but on the evidence of the first half neither is skilled at controlling working capital.
+Tootal's is around 35 per cent higher than the group would like, and an interest charge that should be declining was a fifth higher than last year.
+Pre-tax profits this year will be lower than last year's £42.3m and the shares, which slipped 1.5p to 127p, are only being held up by the Coats offer, worth 133p.
+If it fails, sell Tootal.
+If it succeeds sell Coats.
+View from City Road: Grim prospects for Ferranti
+By DEREK PAIN
+FERRANTI'S shares return to active trading today after a three-week suspension and are expected to open at around 45p.
+That is a sharp decline from the 73.5p at which they were suspended and reflects the financial havoc which has been wrought on the company's accounts as a consequence of the problems at its ISC Technologies subsidiary.
+Ferranti has said that its revised net worth will have to be reduced by £185m forcing the company to abandon the final dividend payment for the year to March 1989.
+Restated pre-tax profits for that year will be halved to £27.5m and the current year's profits will also be reduced.
+It is a grim picture.
+The company is undercapitalised and overborrowed.
+It has suffered a severe blow to trading confidence and the only glimmer of hope for the shares appears to be the prospect of a takeover.
+However, it would be dangerous for investors to pin their colours too firmly to that particular mast.
+The problem shareholders face is that while there is inherent value in Ferranti's continuing operations, the management is not well placed to exploit it.
+The company desperately needs a fresh injection of capital but its financial predicament, where the full implications are still far from clear, does not give it a strong hand at the negotiating table.
+There is a further constraint in that the Ministry of Defence will keep a watchful eye on any potential partner or owner.
+This could restrict the list of prospective bidders and push Ferranti down a distress sale path.
+That will be bad for shareholders but something they will have to accept unless they are prepared to fight for fair value.
+Column Eight: Freezing out the opposition
+By SIMON PINCOMBE
+Another accolade has fallen at the feet of Patricia Grant, already honoured with an OBE by the Queen for her efforts in building up Norfrost, the domestic freezer supplier which exports 75 per cent of the 5,000 units it produces each week.
+On Friday, Mrs Grant will pick up the 1989 Captain of Industry award from the Livingstone Industrial and Commercial Association.
+She will be the first woman in the award's 10-year history.
+Chosen as Businesswoman of the Year in 1986, Mrs Grant is no stranger to this sort of publicity.
+Even so, she seems particularly chuffed.
+‘It places me alongside such distinguished past captains like Sir Monty Finniston, Sir Campbell Adamson and Sir Matthew Goodwin', she said.
+Neil Kinnock has again declined an invitation to brief the media's industry hacks at the Labour party conference.
+This is the second year in a row that the Opposition leader has claimed to be too busy to talk to the boisterous crew.
+But, explained John Gapper, the secretary of the Labour and Industrial Correspondents Group: ‘His office says this is not because he does not like us’.
+British Business, for 103 years the official weekly organ of the Department of Trade and Industry, has not passed into history without comment.
+Indeed, there are two versions of the final edition in circulation this week.
+Presumably the one featuring a gravestone on the front cover is the handiwork of the magazine's journalists.
+On the inside back cover can be found a crafted allegory.
+A sad tale about a man who died at the age of 103 because no one would give him any money.
+The headline is simple.
+It is the DTI's dynamic enterprise initiative logo.
+The lab crew at Ciba-Geigy, the Swiss chemical and drugs giant, continues to seek out niche markets with a vengeance.
+The latest development is a drug called clomipramine which has the endearing quality of reducing the desire to pull your hair out when under stress.
+The affliction is not as rare as you might think.
+Apparently eight million Americans pluck their eyebrows, eyelashes and heads when under pressure.
+The six-mile long bridge linking Japan's largest island, Honshu to Shikoku island is not paying its way.
+Built over 10 years at a cost of £6bn, the state-of-the-art construction is carrying less than half of the projected amount of traffic.
+Cynics have pointed out that this might have something to do with the toll.
+At £55, it is a good deal more expensive than a ticket on the high-speed train which runs just below the bridge.
+Unilever buys Boursin French Cheese Group
+By TERENCE WILKINSON, Assistant City Editor
+UNILEVER, the Anglo-Dutch consumer products group, has bought the Boursin French Cheese Group for an undisclosed sum as a step in its campaign to exploit the underdeveloped ‘branded’ cheese market in the UK and Europe.
+Boursin, best known for its Boursin soft cheese and Boursault brands, made a net profit of £3.4m in 1988 on sales of £30m.
+Unilever is not revealing the price but analysts speculated that on the basis of recent transactions in the European branded food business, such as the French BSN's purchase of HP Sauce and Lea &Perrins from Hanson, a figure of between £30m to £40m may have been paid.
+With a workforce of 160, Boursin holds about one third of the French speciality cheese market in France and exports to the UK, Benelux, Switzerland and Germany.
+Unilever, in addition to gaining a strong position in the large French cheese market, sees potential for the international development of the Boursin brand name.
+Unilever's own cheese interests, which have worldwide sales of £200m a year, are based in Europe with manufacturing operations in Germany, the UK, Belgium and Italy.
+It exports to most other European countries and also has a presence in the US and Brazil.
+Bolstered by the acquisition of Asda's West Yorkshire cheese manufacturing operation, Unilever makes full fat, hard and soft cheeses and processed cheeses under the Milkana name.
+It also makes and distributes low calorie cheeses and polyunsaturated cheese alternatives under the Flora, Becel, Liners, Du Darfst and Vive la Vie brand names.
+UK consumers have a much smaller appetite for cheese than their continental neighbours.
+Annual average consumption in the UK is running at 7.5 kilograms per head compared with 16.8kgs in Germany, 17.5kgs in Italy and 21.5 kgs in France.
+And unlike markets such as the US, the UK cheese eater is not wedded to branded products.
+Almost three-quarters of the 398,000 tonnes of cheese sold in the UK each year is either cheddar or ‘territorial’ cheeses such as Cheshire and Red Leicester.
+Low fat hard and soft cheeses account for 8 per cent of sales.
+Fund targets Eastern Europe
+By WILLIAM BOWN
+A MUTUAL investment fund for Eastern Europe is being launched today with the backing of Continental Grain, the private American company which is one of the world's biggest grain suppliers.
+The $250m Emerging Eastern Europe fund will endeavour to provide capital for businesses in the region and offer Western banks a form of debt-for-equity swap.
+Continental has traded in Eastern Europe for 20 years and now supplies 25 per cent of the region's imported grain.
+Previous investments in Eastern Europe have been mainly in the form of joint ventures.
+But the fund that Continental, through its ContiTrade Services subsidiary, has established with Tyndall Holdings, the fund management group, intends to invest in established companies.
+The fund will take out insurance against confiscation and government interference in the repatriation of profits.
+But it has not sought to gain the backing of an official international financial institution.
+The fund is aiming to raise $50m from investors initially and a further $200m from banks looking to reduce their exposure to Eastern Europe.
+The British banks which have written down the value of their loans most aggressively may be attracted by the fund, says Jim Mellon, a director of Tyndall.
+Cadbury buys into Iberian soft drinks
+By TERRY WILKINSON
+CADBURY Schweppes is building up its presence in the Spanish and Portuguese soft drinks markets with the £45.3m acquisition of several brands together with a fruit plant and bottling plant, writes Terry Wilkinson.
+The deal will lift its share of the Spanish soft drinks market from 8 to 10 per cent and of the Portuguese market from 3 to 8 per cent.
+The price paid for the acquisition, including a fruit plant near Valencia and a bottling plant in Barcelona, appears high since the businesses being acquired had sales of £29.6m in 1988 and trading profits of £2.2m, implying a p/e on conventional terms of almost 30.
+But Cadbury Schweppes, which last month completed the £141m purchase of Crush International from Procter &Gamble, says the brand values being acquired justified the price and it expects to find synergy benefits with its own extensive bottling operations in Spain and Portugal.
+The Crush purchase boosted Cadbury Schweppes' soft drinks volumes by 30 per cent to over four billion litres a year, which places it third equal with Dr Pepper-Seven Up behind Coca-Cola's 46.5 billion litres and Pepsi's 21.5 billion litres.
+The McLean family, principal shareholders in Canada Packers, Canada's largest food processor, is putting its 30 per cent stake up for auction.
+Canada Packer shares rose C$5 ¼ to C$19 on the news, valuing the company at C$660m (£347.4m).
+French link gives boost to WCRS
+By TERRY WILKINSON
+THE ACQUISITIVE advertising and marketing company WCRS Group more than doubled pre-tax profits to £38.1m for the year to June, largely the result of a first full year contribution from its French affiliate Carat.
+The result, on revenues which totalled £568.86m (£407.68m), was bloated by a 14 months accounting period as the UK-listed group fell into line with French reporting practice.
+Even so, the slightly better-than-expected performance translated into earnings per share which rose 26 per cent to 26.92p, fully diluted for preference share conversions.
+WCRS is paying a 5p final dividend, up from 3.95p last time.
+The group, which began as a four-way partnership in 1979, is on the verge of lifting its stake in Carat, Europe's largest independent media buying company, as part of its continuing metamorphosis.
+However, yesterday's announcement shed no more light on the moves which are also likely to involve Eurocom, the French advertising group.
+‘Negotiations are continuing and shareholders will be advised of the outcome as soon as possible,’ WCRS said.
+BP office deal with EIE put at 200m pounds
+By JERRY CONNOLLY
+BP PROPERTIES has sold a central London office to EIE International, the Japanese property investment group, in a deal thought to be worth about £200m.
+EIE has bought 446,000 square feet of offices in two blocks of 11 and 15 storeys which make up Britannic House West, built 10 years ago and close to the Bank of England.
+It has been bought on a long lease which also gives BP, which uses the offices, a five-year lease-back arrangement.
+EIE also has the right to buy the freehold from Whitbread for a nominal sum.
+The Tokyo-based company refused to confirm the price, but said the deal was the first of ‘a number of long-term investments in Britain'.
+It is planning to build up a portfolio of property and leisure-related developments across Europe.
+EIE, owned by the businessman Harunori Takahashi, has world-wide assets estimated at more than $9bn (£5bn), including holdings in Australia, Hong Kong and the United States.
+Housebuilders are using ‘creative accounting’
+By JERRY CONNOLLY
+HOUSEBUILDERS are hiding the full impact of the industry recession by using creative accounting to keep the cost of unsold homes off their balance sheets, according to a bank report.
+Although the worst of the depression may now be over there will be a longer-term impact on compny profits, said Dr Richard Roberts, construction economist with Barclays Bank.
+In a new survey of the industry he said: ‘Housebuilders appear to be using techniques to remove unsold homes from their balance sheets, including ‘selling’ houses to associate companies.
+‘The overall effect has been to sustain apparent sales volumes and reduce work in progress.
+For many housebuilders their day of reckoning in profit terms is still to come.’
+As a result the financial position of housebuilders is almost certainly worse than appears, with higher building costs and falling sales highlighting the rapidly deteriorating trend in cashflow in 1989 and 1990.
+Outlook: Crisis?
+What Channel tunnel crisis?
+By JERRY CONNOLLY
+It is Alastair Morton's style to gloss over the tribulations of the Channel tunnel — such is the Eurotunnel co-chairman's faith in the project.
+But the latest upheaval must register 10 on the Richter scale.
+The political and financial capital already invested in the Channel tunnel project should ensure it bores on somehow — but that is not the same thing as Eurotunnel's survival.
+On independent advice, the syndicate of more than 200 banks appears to have decided Eurotunnel is no longer a bankable proposition.
+That, at least, is the clear implication of yesterday's statement from Eurotunnel — indicating that the bankers believe their own forecast does not provide an appropriate basis for further finance.
+A three-way dispute has developed about the costs of the venture.
+According to Eurotunnel it is £7bn; the contractors put it at £7.5bn.
+Ominously, the highest estimate comes from the bankers' own technical adviser, who puts it at £8.1bn.
+‘We and the banks are agreed that this is not an appropriate basis for further finance’, Eurotunnel's press release warns.
+Eurotunnel appears to be hanging on only by the skin of its teeth.
+The banks have decided that the company is in default on its loan agreements.
+This would entitle them to sack Eurotunnel's management, bring in new equity participation, and pull the plug on the £1bn invested by existing shareholders in the project.
+They have decided not to declare the company in default for the time being only because of the continuing discussions between Eurotunnel and the contractors, Transmanche Link.
+Eurotunnel's only hope seems to lie in satisfying the banks' technical adviser that his forecast can be reduced — which means at least to the contractors' £7.5bn, if not to Eurotunnel's own £7bn estimate.
+Even then there is going to have to be a £300m-350m rights issue.
+The critical decision for the banks will come if their own adviser sticks to his view of the costs.
+What then?
+The problem with ditching Eurotunnel's management would be that there is no certainty anybody else could do a better job.
+Ditching its shareholders is an equally daunting prospect.
+Not even Mr Morton can play down the gravity of this latest crisis.
+Outlook: Virgin tune plays on
+By JERRY CONNOLLY
+Richard Branson was characteristically cock-a-hoop yesterday as he announced a partnership with Japan's largest record company.
+Virgin's sale of one quarter of its music business to the entertainment and leisure giant, Fujisankei, ensures that it will remain the last of the world's independent record companies — for the time being, at least .
+The price tag of almost £100m, and the fact that Fuji has agreed to a minority stake, has clearly also provided Mr Branson with reassurance — if he needed any — that taking Virgin private last year was the right thing to do.
+Virgin paid £248m last year to remove the group from the scrutiny of the City, saying the business was misunderstood and the stock undervalued.
+Less than a year later, Fuji seems more than willing to pay £100m for a minority share in the music arm which, with sales of £260m, represents much less than half of the Virgin empire.
+What remains a mystery is how Virgin would have fared had its directors decided to weather the storms in the stock market.
+The recent spate of takeovers in the record industry has obliterated the independents and left the big five of Sony, Thorn EMI, Bertelsman, Warner and Polygram with 70 per cent of the market.
+But the price tags attached to the various deals over the past year have also shown that musicians and copyright have become big business.
+Sony's recent acquisition — for $3.4bn — of Columbia pictures highlights still more the fact that artists and portfolios of titles, whether music, films or television programmes, are considered very precious indeed.
+Virgin's boast is that it has grown organically and can continue to do so.
+It has never lost an artist from its record label, supposedly because it consists of many small and friendly individual companies.
+Keeping things that way would almost certainly mean that it has to remain independent.
+Fujisankei, itself privately owned and independent, seems the ideal partner.
+But the question must remain as to whether a Japanese giant with five times the turnover of the Virgin group will be content to stay a minority player in the long term.
+Outlook: Riddle of the trade figures
+By JERRY CONNOLLY
+The final retail sales figures for August — barely changed on the provisional statistics — provide no simple explanation for the trade figures.
+By volume, retail sales grew just 1.2 per cent in the year to August and in the latest three months they were 1 per cent lower than in the previous period.
+However, retail sales account for only 40 per cent of consumer spending.
+It is clear that a roaring trade in cars (not included in retail sales) was part of the reason for the £2bn current account deficit that month.
+It is possible that the deficit was fuelled in part by stockbuilding.
+The latest CBI surveys suggest that more stockbuilding has indeed occurred, although not on a scale sufficient to explain the trade figures.
+Yesterday sterling enjoyed its first quiet day since the trade figures were released a week ago.
+But the pound will face another test on Thursday when the Bundesbank council meets.
+A half-point increase in West German interest rates is already more than discounted; a one-point rise may still force a base rate increase on a reluctant Chancellor.
+Nevertheless, a quiet build-up to Thursday would weigh in his favour.
+The main central banks exploited yesterday's thin market to launch another visible assault on the dollar.
+They are still struggling to push the US currency safely back to spring levels.
+But yesterday's report from the US Purchasing Managers, which put the index of export performance at its highest level since April, is another red rag to dollar bulls looking for a narrower US trade deficit.
+Hawke tries to shoot down the rebel pilots: Robert Milliken reports on a bitter dispute which could cost the Australian government A100m dollars
+By ROBERT MILLIKEN
+AUSTRALIA is now in its seventh week without domestic air services because of a pilots' pay dispute which has begun to have a serious impact on the economy and has left Bob Hawke's Labor government few options for reaching a settlement.
+After the breakdown last week of an attempt by the Industrial Relations Commission to settle the dispute by arbitration, Mr Hawke's government has begun its controversial plan to compensate the three main domestic airlines — Ansett, jointly owned by the TNT transport empire and Rupert Murdoch's News Corporation, East-West, an Ansett subsidiary, and the government-owned Australian Airlines.
+The compensation deal will cost the government an estimated A$100m and involves Canberra waiving airport landing charges for as long as it takes the airlines to recoup their losses from keeping about 21,000 non-pilot employees on their staff during the dispute.
+The airlines themselves will next week step up their recruitment drive for pilots in North America and western Europe, where they have also chartered aircraft, by extending their search for flight crews to South Africa and central Europe.
+The dispute between Australia's 1,700 pilots and the airlines has turned into the country's most bitter industrial confrontation for many years.
+The pilots resigned six weeks ago when the airlines refused a demand by the Australian Federation of Air Pilots for direct negotiations over their claim for a 29.5 per cent pay rise.
+The airlines insist the pilots must submit their claim to the regulated wage-fixing system, under whose guidelines most pay rises are now limited to 6 per cent.
+With deregulation of Australia's domestic air system from next year foreshadowing greater competition, both the pilots and the airlines see the dispute as a final show of strength.
+Mr Hawke has embarked on a crusade to join the airlines in smashing the pilots' claim, seeing it as a crucial challenge to the cornerstone of his government's economic policy, the wages accord between government, employers and unions.
+Mr Hawke last week repeated his support for the airlines recruiting new pilots overseas and re-hiring their former pilots on individual contracts.
+‘The airline operations will be restored without these people,’ he said.
+Paul Keating, the treasurer in Mr Hawke's government, told American bankers, in response to their concern about conducting business in Australia: ‘The pilots’ federation is not a trade union.
+It is a rogue professional body, and it is being treated with the same kind of contempt that the air traffic controllers were treated by the Reagan administration in the United States.’
+However, despite claims by Mr Hawke and Sir Peter Abeles, Ansett's joint managing director and a close friend of Mr Hawke, that air services would be back to normal by next month, there is no sign of this happening.
+Less than 5 per cent of the Ansett and Australian Airlines fleets have been in the air, using management pilots in a skeleton service supplemented by Royal Australian Air Force planes and overseas airlines.
+Mr Hawke's handling of the dispute has come under increasing fire from business, unions and the press.
+The tourism industry, Australia's biggest foreign currency earner, is losing A$35m a day from the dispute, which would put its losses so far at almost A$1.5bn.
+Nearly 15,000 tourism workers have lost their jobs and the industry has lost almost 300,000 tourists a week.
+Tourism industry leaders have called on the government to compensate them as well as the airlines.
+At the congress of the Australian Council of Trade Unions in Sydney last week Bill Kelty, the ACTU's secretary, strongly attacked the pilots: ‘They are not after an olive branch.
+They are after an olive tree.’
+But the union congress also passed a motion condemning the tactics of the airlines and the government, particularly the use of air force planes and foreign pilots to break the dispute.
+The unions also attacked the Labor government's precedent in compensating employers in an industrial dispute.
+The government's compensation of the airlines comes when it has also announced a compensation deal worth A$60m with the troubled Australian subsidiary of the American photographic giant Eastman Kodak.
+In a recent editorial The Australian Financial Review, the national daily newspaper, said of the pilots' dispute: ‘Relentless rhetoric, cynical misinformation and myopic stubbornness have coalesced to provide such a poisonous setting to the dispute that any compromise will be presented as defeat.
+This is especially the case for the prime minister.’
+Groupe Bull buys Zenith Computer
+By MARY FAGAN
+GROUPE BULL, the French computer company, has launched itself into the personal computer market with the $635m acquisition of Zenith Computer Group of the US, writes Mary Fagan.
+The deal doubles Bull's presence in the US and should boost turnover of the Bull group to about $7bn.
+Zenith Computer, part of Zenith Electronics Corporation, is a manufacturer of IBM personal computer ‘clones’ and is an important player in the market for portable computers.
+But Zenith recently announced second quarter losses due to the strong dollar, high interest charges, and squeezed margins in the computer sector.
+The acquisition will pitch Bull into the front line of the competitive PC market and is part of the group's overall drive to become a leader in international information technology.
+Jerry Pearlman, Zenith Electronic's chairman, said that the net proceeds — about $22m after taxes and expenses — would be used to boost investment in lucrative consumer areas, such as high definition television.
+Zenith is the last US-owned TV manufacturer in a market dominated by Japan.
+McKinsey in talks with IC Group
+By MARY FAGAN
+NEY YORK (Reuter)— McKinsey and Co said yesterday it was discussing the possibility of the entire staff at Information Consulting Group joining McKinsey.
+It said it would absorb Information Consulting but could not disclose details of the transaction.
+Information Consulting, while independent, was formed about a year ago by five former Arthur Andersen partners with financial backing from Saatchi and Saatchi, the advertising and consultancy group.
+McKinsey said it had several programmes in place to build the information technology capability of its consulting staff, and Information Consulting could accelerate the process.
+McKinsey said it was dealing directly with Information Consulting on the transaction but the latter would have to be relieved of an option owned by Saatchi before any definitive pact.
+In return for financial support, Saatchi acquired an exclusive option to buy Information Consulting that would have to be exercised by June next year.
+But last June Saatchi said it would try to sell its consulting unit.
+Business and City Summary
+By MARY FAGAN
+Plastic card investment: Barclays Bank looks set to tighten its stranglehold on the processing of plastic card transactions and will invest more than £22.5m in the service.
+The bank, with 60 per cent of the ‘retail acquisition’ market, plans to install 20,000 terminals in shops in the next 18 months.
+Sterling calmer: The pound won respite from last week's onslaught partly due to confirmation that retail sales were subdued last month and as fears of a rise in interest rates faded.
+This page and Outlook, page 25 Payment withheld: Abbey National intends to refuse to pay the remaining £7m it nominally owes Lloyds Bank Registrars for the handling of its share distribution.
+Page 24 Shares probe: The Stock Exchange is investigating Friday's steep rise in the share price of Pearl Group, the life insurer, ahead of a £1.1bn takeover bid by Australian Mutual Provident.
+This page and View from City Road, page 27 Exchange change: The end of the alpha, beta, gamma system of share classification, as well as a change in the International Stock Exchange's working hours, are likely as a result of the Elwes committee's review.
+Page 24 Century stroke: The Hundred Group of senior British finance directors has urged the Government to consider giving greater commercial freedom to nationalised industries rather than privatising them outright.
+Page 24 Virgin record sale: Virgin has sold 25 per cent of its music business to Japanese media and entertainment group, Fujisankei, for £96m.
+Outlook page 25 Profits up: Pre-tax profits at Tootal rose £175,000 to £19.25m in the six months to July ahead of next week's MMC report on Coats Viyella's £395m bid.
+View from City Road page 27 Tunnel shock: Eurotunnel, the Anglo-French consortium which will operate the twin-rail tunnel when it enters service in June 1993, announced that costs have risen by £2.2bn to £7bn.
+Outlook page 25 ICI green plant: Chemicals giant, ICI, is to build a £100m plant in Louisiana for the production of alternatives to chlorofluorocarbons (CFCs), widely used compounds which deplete the earths ozone layer.
+Board demands: Trustees representing the interests of the Ferranti family have written to chairman Sir Derek Alun-Jones asking for the board to be replaced or supplemented by new directors.
+Page 24 and View from City Road, page 27 Gollancz buy: US-based Houghton Mifflin intends to purchase Victor Gollancz, the privately owned London publisher, subject to the approval of shareholders.
+Proposed terms were not disclosed.
+Iberian additions: Cadbury Schweppes is building market share in Spain and Portugal with the acquisition of several drinks brands and fruit and bottling plants for £45.3m.
+Page 27 World Markets New York: Blue chips achieved good progress, pushing the Dow Jones Industrial Average 20.9 points higher to 2,713.72 by the close.
+Tokyo: Prices rose at first after the ruling Liberal Democratic party's by-election victory but drifted later to close mixed, with the Nikkei average 13.79 points lower at 35,622.97.
+Hong Kong: Dull trade in the absence of clear direction saw an 11.55-point fall in the Hang Seng index to 2,746.7.
+Singapore: Profit-taking cancelled out early gains and the Straits Times index closed just 0.07 up at 1,375.25.
+Sydney: Continued activity in the banking sector helped the All Ordinaries index to close 7.4 points higher at 1,743.4.
+Paris: Eurotunnel was the most active stock and one of the heaviest fallers as the CAC-40 index plunged 29.88 points to 1,876.24.
+The group's shares fell 5.6 per cent after it announced a revised estimated cost for the Channel tunnel project.
+Frankfurt: Turnover was moderate on expectation of higher interest rates.
+The DAX index added 3.43 points to 1,577.8.
+Zurich: Uncertainty over the market's short-term trend combined with interest rate fears to push the all-share index down 15.5 points to 1,161.2.
+Milan: Operators reacted with frustration to a spate of new capital increase operations announced late last week.
+The MIB fell 0.92 per cent to 1,182.
+Madrid: Firm electrical stocks were a highlight as the index rose 0.52 to 325.8.
+AMP offers 1.1bn pounds for Pearl
+By JOHN MOORE, Assistant City Editor
+THE International Stock Exchange is mounting a preliminary investigation into the steep rise in the share price of Pearl Group, the British life insurer, last Friday ahead of the announcement yesterday of a £1.1bn takeover bid for the group by Australian Mutual Provident, Australia's largest life insurance group.
+On Friday the share price of Pearl Group rose 44p to 552p as news of the bid began to leak out.
+After the formal announcement by Australian Mutual Provident yesterday of its bid Pearl's share price rose a further 87p to 639p.
+Officials at the exchange said yesterday that its current investigation was a matter of routine.
+If they discovered evidence of share dealing ahead of the takeover by individuals using confidential information they would institute more formal inquiries.
+As officials began their investigations the board of directors of Pearl, led by chairman Einion Holland, said AMP's takeover bid ‘is unacceptable and totally inadequate because it fails to reflect the group's financial strength and prospects’.
+Pearl advised its shareholders to take no action.
+Mr Holland was due to meet AMP's chairman, David Anderson, today in a meeting which had been planned since June.
+Because of the takeover moves the meeting was cancelled.
+‘We are better served as an independent company getting on with our own plans without the involvement of any Australian freebooters,’ said Mr Holland.
+In its takeover deal Australian Mutual Provident is offering 605p in cash for each share investors hold in the Pearl.
+Instead of accepting the cash deal Pearl shareholders can sell their shares in return for AMP's loan notes.
+Pearl Group executives were angry at an attack on the company's performance by AMP.
+AMP said that over the past 10 years, measured in terms of new annual premiums, Pearl's market position has fallen sharply and its share has declined consistently.
+Pearl specialises in door-to-door collection of insurance premiums from customers who have taken out insurance policies.
+Australian Mutual Provident said yesterday that this type of business was a declining sector of the UK.
+The Australian group said it believed that Pearl, ‘if left to itself, will continue the long-term downward trend in its market position and is unlikely to meet the challenges presented by the developments in the UK and European life insurance markets.’
+In June this year AMP increased its shareholding in Pearl to 18 per cent when it acquired a 13 per cent stake from FAI Insurances, a leading Australian insurance and investment group.
+Although AMP has a significant stake, other British insurance companies own over 20 per cent of Pearl's shares.
+Allianz AG Holding, the West German insurer, is to pay Fr6.5bn (£644.8m) for 50 per cent of the insurance assets of the French financial and industrial holding concern Compagnie de Navigation Mixte.
+Giant with international intentions: Australian Mutual Provident
+By JOHN MOORE, Assistant City Editor
+AUSTRALIAN Mutual Provident was founded as a mutual life society in 1849 and has grown to be the largest life office in Australia and New Zealand.
+It claims to rank among the 20 largest mutual life offices in the world.
+AMP has approximately 30 per cent of the life insurance and superannuation markets in Australia and is the largest manager of private retirement funds in that country and New Zealand.
+It handles the pension planning arrangements for 40,000 Australian companies and is a leading promoter of regular premium private pension plans.
+AMP currently employs over 9,000 people worldwide and has a sales force of over 4,300 agents.
+AMP has had a business in the UK since 1908.
+In March this year it increased its presence in the UK with the acquisition of London Life, the British mutual insurer, which attracted a measure of opposition from the British group's policyholders.
+AMP argues that its proposed acquisition of Pearl represents a significant step in its plans to become a major force in international life insurance markets.
+The Australian group said that Pearl's policyholders will benefit from the deal through its capacity to bring new products and marketing skills and expertise in administration, computing and product development.
+If successful in acquiring the British group it intends to operate Pearl as a separate entity with its own sales force.
+Ferranti family calls for management changes
+By JEREMY WARNER, Business Correspondent
+THE FERRANTI family has demanded senior management changes at the troubled electronics company bearing its name.
+This is the first visible sign of a shareholders' revolt against the chairman, Sir Derek Alun-Jones, since the discovery of a £185m fraud which threatens the group's future.
+Sir Derek believes he should not be held to blame since the fraud occurred in the accounts of International Signal and Control, which had received a ‘clean’ audit when Ferranti bought the company two years ago.
+Trustees representing substantial family interests have written to Sir Derek asking for the board to be replaced or supplemented by new directors.
+‘It is an accepted practice in dire situations such as this that the board is replaced or supplemented by a new board charged with the function of restoring the fortunes of the company and the confidence of customers,’ the letter says.
+‘You may care to consider whether this is not a practice to be followed in the case of Ferranti.’
+The Ferranti family's demands came to light as a result of an approach by representatives of Hill Samuel and Murray Johnstone, who are canvassing support among shareholders for a plan to make Ferranti hive off its core UK defence interests and merge them with the defence activities of Thorn EMI.
+Trustees of Ferranti family shareholdings in the company wrote back saying there was an urgent need to reinforce the board so that proposals and the inevitable approaches that the company would receive could be reviewed by a strengthened board.
+‘The statements that have been made by the company have made no reference to board changes,’ the letter said.
+The family's interests include shares owned by the estate of the late Basil de Ferranti, a former chairman of the company.
+Sebastian de Ferranti, Basil's brother and now a director of Ferranti's competitor GEC, is a trustee of the interests but it is not clear whether he shares these views.
+Basil de Ferranti was chairman of the company until it merged with International Signal and Control, a takeover which he supported.
+As part of the deal Mr de Ferranti agreed to stand down in favour of Sir Derek and to allow James Guerin, International Signal's founder, to come on to the board as deputy chairman.
+Ferranti expects to take delivery today of the report it commissioned from Coopers and Lybrand on the alleged fraud.
+Since the report is expected to form the basis for an investigation and possible action by the Serious Fraud Office, it is highly unlikely that it will be published in full.
+However, it could provide ammunition for legal action which Ferranti intends to take against advisers and individuals in an attempt to recover some of the losses it has suffered.
+Abbey to withhold 7m pounds Lloyds payment over bungled issue
+By PATRICK HOSKING, Banking Correspondent
+ABBEY NATIONAL intends to refuse to pay the remaining £7m it nominally owes Lloyds Bank Registrars for the handling of its share distribution and it is planning to claim additional compensation for the bungled flotation.
+The former building society is understood to be prepared to take court action if it does not wrest the compensation from Lloyds.
+It made a £3m upfront payment to Lloyds out of the total £10m agreed.
+The dispute between Abbey and Lloyds appeared increasingly acrimonious yesterday.
+Abbey said there was a meeting planned to discuss the contract this week.
+Lloyds said there was not.
+The two sides are also split over whether all share certificates and refund cheques are now safely delivered to the Abbey's 5.5 million shareholders.
+Abbey says it is still receiving complaints.
+Lloyds claims the problem is resolved.
+Leonard Winbolt of Kings Lynn in Norfolk is typical of the remaining aggrieved would-be shareholders.
+His cheque for £1,950 was cashed on 6 July.
+So far all he has received are 100 free shares.
+He has yet to receive his paid-for shares or a refund.
+In addition Lloyds, having cashed his cheque, later demanded a photocopy of it as proof he had made the payment.
+‘It's really not good enough,’ Mr Winbolt said yesterday.
+Around 600,000 members of the former building society have still not registered for their entitlement of free shares.
+The Abbey is now planning a fifth mailshot to alert them to their windfalls.
+The Department of Trade and Industry has ruled out an official Companies Act investigation of the flotation, in which the ashes of up to half a million share certificates were discovered in a skip in South London and tens of thousands of other documents were botched.
+Grand Met bid for Whyte &Mackay
+By FRANK KANE
+GRAND METROPOLITAN, the international food and drinks group, has put in a £150m bid for the Whyte &Mackay spirits business being sold by leisure group Brent Walker.
+However, it looks as though Grand Met's bid is going to be beaten by a management buyout which is in the final stages of negotiation.
+The Grand Met offer was made as the two companies were negotiating the sale of the William Hill chain of betting shops, which Brent Walker has agreed to buy for £685m.
+It was revealed yesterday when the document detailing the William Hill sale was sent to shareholders.
+A statement from Grand Met said: ‘In a limited auction conducted recently by Brent Walker, Grand Met agreed to purchase Whyte &Mackay at a price of up to £150m.
+‘However, a consortium led by its management reached agreement with Brent Walker at a higher price.
+At that time, Grand Met entered into an option whereby Brent Walker could sell Whyte &Mackay to it for £150m at any time before October 31.’
+If the buyout, which is expected to offer about £160m for the Haig and Claymore whisky group, is completed before that date, Grand Met's option would lapse.
+Brent Walker said it expected the buyout negotiations ‘would be successfully completed shortly’.
+Brent Walker bought Whyte &Mackay from Lonrho earlier this year for £180m in a deal that included four French vineyards, which are also for sale for as much as £60m.
+State firms ‘should be free to borrow’
+By JEREMY WARNER
+A HIGH-POWERED group of finance directors has urged the Government to consider giving greater commercial freedom to nationalised industries such as British Rail and the Post Office rather than privatising them outright.
+They should be made to correspond more closely with private sector practice and allowed the freedom to borrow from the market place, the group says.
+They should also be given permission to issue some form of fixed interest profit-related bond, be allowed to raise a proportion of their equity direct from the public and be subject to independent regulation similar to that of privatised utilities.
+These are the main recommendations of a report from the Hundred Group of senior British finance directors, published yesterday and circulated to ministers and senior civil servants.
+At the moment nationalised industries are severely restricted in the way they borrow money.
+Though state-owned companies are able to achieve keener interest rates by borrowing from the Government through the National Loan Fund, they are constrained in the amount they can borrow and the uses to which the money can be put because all such borrowings count towards the public sector borrowing requirement.
+The Hundred Group recommends that nationalised industries should be allowed to borrow without Government guarantee and that the borrowings should be excluded from the PSBR.
+Edward Weiss, chairman of the report's working party, said the recommendations were being put forward as an alternative to privatisation.
+‘If the objective of privatisation is to improve management performance, it can be achieved in ways other than all-out privatisation,’ he said.
+‘The black and white approach used in this country, where a company is either wholly in the public sector or wholly in the private sector, is not mirrored on the Continent.
+‘The fundamental problem with state-owned industries is that they are rationed of capital.
+‘Our proposals would offer them an alternative market for capital.’
+One possible application of the proposals would be to the Civil Aviation Authority, which desperately needs new capital to deal with the problems of air traffic congestion in Europe.
+ISE considers Elwes report
+By FRANK KANE, Chief City Reporter
+THE END of the alpha, beta, gamma system of share classification, as well as a change in the International Stock Exchange's working hours, are likely as a result of the Elwes committee's review of ISE working practice.
+The ISE Council yesterday considered a progress report from the special committee on the domestic equity market, chaired by Nigel Elwes, which was set up last year to examine stock market procedures in the wake of the October 1987 crash.
+The Council confirmed the broad outline of the present Stock Exchange automated quotation system (Seaq), but agreed to look more closely at specific areas of operation.
+These include: Proposed revisions to market hours in order to make official dealing times, mandatory quote periods and Seaq dealing times overlap more closely than at present.
+The new set-up would stipulate 8.30am to 4.30pm as the official trading day.
+A new basis for classifying stocks, which are currently graded on the number of market makers, market capitalisation and quarterly turnover into alpha, beta and gamma categories.
+The proposal would rank them according to liquidity (how regularly a stock is traded) and turnover.
+A proposal to introduce a limited order facility to enable clients to execute transactions automatically at pre-set prices.
+It is aimed at private clients dealing in individual stocks.
+The redesign of the Daily Official List, the ISE's record of dealings.
+The aim would be to make the much-criticised publication more ‘user friendly’.
+Andrew Hugh Smith, ISE chairman, said: ‘Turnover in UK equities has seen an increase of almost 50 per cent over the past year, alleviating some of the problems caused by the very low volumes after the market crash.
+‘Nevertheless, the council believes we must ensure the market structure provides the right balance of benefits and obligations for market practitioners, whilst offering investors and issuers the opportunity to do business efficiently and cost effectively.’
+The council has endorsed a recommendation from the committee that there should be no change to the restrictions placed on inter-dealer broker services, which many market makers have criticised.
+The committee's full recommendations are expected towards the end of this year or early 1990.
+EC reaches accord with US on steel subsidies
+From JOHN LICHFIELD in Washington
+THE US and EC have reached agreement in principle on common limits for public subsidies to the steel industry on both sides of the Atlantic, based closely on existing Community rules.
+But the two sides were still at loggerheads yesterday on the details of expanded, voluntary limits on EC steel exports to the US, to replace five-year-old quotas which expired on Saturday.
+In extensive talks in New York and Washington over the weekend, the European Commission and US government also radically disagreed on how a transatlantic steel subsidy code should be policed and enforced.
+But official negotiations were still in progress yesterday.
+The EC commissioner for external affairs, Frans Andriessen, who took part in the first stage of the negotiations in New York last Friday, will report on progress to Community foreign ministers in Luxembourg today.
+It is envisaged that a joint EC-US subsidy agreement would open the way for freer trade in steel across the Atlantic.
+It is also envisaged that some other steel exporting countries would ultimately accept the rules, creating an ‘International Consensus’ on public aids to steel producers, which could be formalised under the General Agreement on Tariffs and Trade (GATT).
+Those countries inside the agreement would conduct relatively free trade in steel; those countries unable to meet the conditions would continue to be heavily restricted.
+According to Washington sources, the first step towards this new world order for steel has been agreed in principle by Brussels and Washington: the 1985 EC steel subsidy code, in slightly adapted form, would be applied jointly to US and EC producers.
+All capital and operating subsidies to steel producers would be banned; limited public subsidies would be allowed for research and development, environmental improvements, closures and redundancies.
+This would be the first example of Community rules crossing the Atlantic.
+But acute difficulties remain on how such a code would be enforced.
+The Community wants to create bureacratic machinery for joint arbitration of disputes.
+But it is understood that the US Trade Representative, Carla Hills, is insisting the US retain powers to act unilaterally against European steel producers judged by Washington to be breaking the code.
+Respite for pound in sales figures
+By PETER TORDAY, Economics Correspondent
+THE POUND won some respite yesterday from last week's onslaught partly due to confirmation that retail sales were subdued last month and as fears of an imminent rise in base rates faded.
+In London, sterling ended slightly higher and the dollar finished little changed after resisting another round of intervention by the main central banks, which at best took the steam out of a small-scale rally.
+As expected, the volume of retail sales rose 0.5 per cent in August — barely changed on the provisional figure.
+In the year to August, sales were just 1.2 per cent above a year ago.
+In the latest three months the volume overall sales were down 1 per cent with the steepest falls registered by retailers of clothing and footwear, down 5 per cent and household goods, 4 per cent.
+Meanwhile new credit was a record £4bn in August, partly because of strong car sales and also credit card holiday bookings.

@@ -1,0 +1,122 @@
+A graphical zoo of strange and peculiar attractors
+A.V. Holden and M.A. Muhamad
+Department of Physiology, The University, Leeds LS2 9NQ, UK
+2.1 Trajectories and attractors
+A large part of the interest in nonlinear dynamics arises from its applications: there is a strong belief that an understanding of the patterns of bifurcations in dynamical systems provides a means of understanding natural phenomena.
+If a variable measured in the course of an experiment settles down with time, to a constant, or a maintained oscillation, it seems reasonable to assume that it is approaching some stable, maintained course that corresponds to an equilibrium or periodic solution , that is obtained as , of some appropriate dynamical system.
+(2.1)  X is a vector in , with each of the n components representing a variable.
+A system of equations that provides an accurate and physically satisfactory representation of an experimental system can be cumbersome, and even complicated and of high order, so solutions may often only be obtained as numerical approximations to solutions.
+Thus the numerical solutions themselves may be considered to be approaching an equilibrium or periodic solution.
+The equations that represent physical systems that have an "internal friction" are dissipative: the flow  on average contracts volumes in phase space, and so   Continued shrinking of volume in phase space means that stable, persistent motion in an n-dimensional dissipative system must be on a structure that has a dimension less than n: this structure is an attractor and occupies a subset X of phase space.
+Motions starting in some volume of phase space (the basin of attraction of the attractor) can follow complicated transients but, as , they finally approach the attractor.
+The attractor X has the properties that it is invariant under the flow and cannot be decomposed into non-overlapping invariant pieces: any motion on the attractor is confined to the attractor, and not just part of the attractor.
+There is no transient motion on the attractor: all transients in a dissipative system are in the basin of attraction of an attractor on the approach to an attractor, and are not on attractors.
+Virtually all possible initial states of a dissipative system are in the basin of an attractor, and so if the motion of a system is followed for long enough, it will end up on an attractor.
+Thus, just as an attractor may be imagined as the subset of phase space on which a motion starting in its basin of attraction is confined as , the attractor may be visualised by following a maintained trajectory after a time that is long enough for all transients to have decayed.
+For a one-dimensional flow, the only possible attractor is a stable fixed point or sink.
+The bifurcations of fixed points are illustrated in Figs 3.1–3.
+A sink would appear as an equilibrium, or resting, state.
+For a two-dimensional flow, there is also the possibility of a periodic solution or limit cycle, where the attractor is a simple closed curve.
+Trajectories leading to a sink and a limit cycle are illustrated in Fig. 2.1.
+If these trajectories were viewed only after they had reached the attractor, they would illustrate the attractors: the sink as a point in phase space, and the limit cycle attractor as a single closed loop in phase space.
+To construct   such a picture of the attractor, the values of the two variables.x(t) and y(t) are required, when t is sufficiently large to be taken as if .
+Experimental measurements from an n-dimensional system are often only of one variable: however, it is possible to reconstruct an attractor from the values of a single variable, as in Figs 2.2–4 [13, 21, 33].
+If a variable x(t) is  plotted against itself delayed by an appropriate time lag T, then x(t) plotted against x(t+T) will give a point for a sink, and a single closed loop for a limit cycle.
+In a three-dimensional nonlinear system, or a periodically forced two-dimensional nonlinear system, there is also the possibility of changing motion that is not periodic, associated with a more complicated kind of attractor.
+If a dissipative system has only one attractor, its behaviour as  might not seem to depend very much on its initial conditions.
+Whatever the initial conditions, all trajectories will eventually arrive on the attractor.
+However, although phase space volume on average contracts in a dissipative system, so that trajectories passing through a large volume    of phase space end up passing through a smaller volume, this does not mean that distance (or separation) is also contracting.
+If closely neighbouring points on an attractor give trajectories that, although confined to the attractor, rapidly separate, then motion on the attractor shows a sensitivity to initial conditions.
+This sensitivity to initial conditions underlies chaos and can be produced by repeated stretching and folding within the attractor.
+A measure of this sensitivity to initial conditions, the maximal Lyapunov exponent, is discussed in Chapter 13.
+An attractor that has a positive maximal Lyapunov exponent, and so has a high sensitivity to initial conditions, often has a very complicated structure, in that it may have a noninteger, fractal dimension, and have some of the properties of a Cantor set.
+The behaviour of trajectories on an attractor that exhibits sensitivity to initial conditions is strange and unexpected, and the geometry of such an attractor is often strange and complicated.
+Here we will use the term "strange attractor" to refer to attractors that show sensitivity to initial conditions [4, 6, 14, 20, 27, 28, 29].
+Such chaotic attractors need not have a fractal structure, and attractors with a fractal structure need not be chaotic [10].
+This chapter illustrates some attractors: these static illustrations are a poor substitute for watching the trajectories approach and then wind around the attractor, and for following the sequence of bifurcations (changes in type of attractor) as a parameter is changed.
+All the figures in this chapter were produced using FORTRAN and GHOST-80 [7]or GINO-F [8]on the University of Leeds Amdahl 470/V7, but they may all be computed and displayed, and the bifurcation patterns followed, on a microcomputer.
+2.2 Three-dimensional systems
+2.2.1 The Lorenz system
+The Lorenz system:(2.2)  with o, r and b positive parameters, was derived as a truncation of a partial differential equation for fluid convection [19,32].
+A flat fluid layer is heated from below and cooled from above: this represents the Earth's atmosphere heated by the ground's absorption of sunlight and losing heat into space.
+In the resultant convective motion, represents the convective motion, y the horizontal temperature variation, and z the vertical temperature variation.
+The parameters o, r and b are proportional to the Prandtl number, the Rayleigh number, and the size of the region whose behaviour is being approximated by the ordinary differential system (2.2): these parameters.
+are positive.
+This system is considered in detail in Chapter 6, and is also formally equivalent to the equations for a single-mode, homogeneously broadened laser, treated in section 7.3.
+They may also be used to describe the behaviour of a variety of other physical systems.
+Numerical approximations to solutions of the Lorenz equations are complicated for wide ranges of the parameters o, b and r.
+Two- and three-dimensional views of a trajectory, when the integration time is  sufficiently large for all transients to have decayed, are shown in Figs 2.5 and 2.6.
+Throughout geological time there have been irregular changes and reversals of the Earth's magnetic field [1,2].
+If this behaviour is modelled by a modified disc dynamo [3], the appropriate magnetohydrodynamic partial differential equations may be truncated to give the simple system:(2.3)   where a, b and c are positive parameters, and .
+The variables x and y relate to poloidal potentials and a toroidal magnetic field component, and z is related to the moment of angular momentum.
+The similarity of this system to the Lorenz equations is reflected in the shape of its strange attractor, shown in Figs 2.7 and 2.8.
+2.2.2 Reversals of the Earth's magnetic field
+The Lorenz system (see eqn (2.2) and Chapter 6) has a complicated attractor, with trajectories spiralling around, and jumping between, two loops.
+In 1976 Rossler [23]introduced a simpler three-dimensional system that has only a single nonlinear cross-term, zx:(2.4)  where a, b and c are constants.
+This system may be considered to model the flow around one of the loops of the Lorenz attractor, and so is a model of a model.
+Here a b = ⅕, and c is treated as a bifurcation parameter.
+2.2.3 The Rossler attractor
+With c = 5.7 the flow is chaotic: the flow forms a single spiral embedded in a disc, with trajectories from the outer part of the spiral twisted, and folded back into the inner part of the spiral, forming a Mobius band.
+The construction of the attractor is shown in Fig. 2.9.
+This is similar to the experimental attractor seen in Fig. 8.6.
+A return map of a section through the attractor looks like a single-humped, thickened, one-dimensional map.
+Three-dimensional views of the attractor are shown in Fig. 2.10.
+As c is increased from 2 to 4.2, there is a sequence of period-doubling bifurcations from a simple, period-one oscillation (Fig. 2.11).
+Chaos develops at the accumulation point of the period-doubling sequence, just above c = 4.20, with families of similar orbits confined to thin bands that grow from each of the period , orbits.
+These attractor bands    are apparently separated by empty, repeller bands: a trajectory starting between the bands is rapidly drawn into one of the attractor bands.
+However, the attractor bands really form one, looped, attractor.
+Pairs of the attractor bands join in a sequence of reverse bifurcations until the bands in the strange attractor meet [23,31].
+A further increase in the parameter c gives a change in the shape of the attractor, which develops into a Rossler funnel as it expands with increasing c.
+The development and structure of the Rossler funnel are illustrated in Figs 2.12 and 2.13.
+All the systems considered above contain a cross-term, in which the rate of change of one variable is directly decreased by a term that is the product of two other variables.
+Such cross-terms cannot occur in a system that directly represents a chemical reaction, and the variables represent concentrations: the concentration of one chemical species cannot be directly decreased by a process in which that chemical does not take part [36].
+Real chemical systems do show chaotic activity [5], but this could be due to spatial, hydrodynamic irregularities rather than true chemical chaos.
+2.2.4 Abstract chemical kinetics
+An abstract reaction mechanism, where the chemical reactions are at most second order and give a detailed mass balance when the system is closed, can be reduced to the system [40]:(2.5)  The  are concentrations of reactants that are held constant, giving an  open system, and the hi are rate constants: thus the a and the hi are positive.
+Numerical integrations of eqn (2.5) show irregular, apparently chaotic, activity (Figs 2.14 and 2.15).
+2.3 Four-dimensional systems
+In the three-dimensional systems treated in section 2.2, the strange attractors are locally planar: a small displacement perpendicular to this sheet will decay, as the trajectory returns to the attractor; a small displacement along the sheet will remain, as a trajectory is effectively pushed forward in time; and a small lateral displacement will grow in time.
+This sensitivity to initial conditions (or instability for small lateral displacements) is reflected by the single positive Lyapunov exponent of a strange attractor of a three-dimensional system.
+A strange attractor of a four-dimensional system can have two positive Lyapunov exponents, and so can have solutions that are more irregular than chaos.
+A simple system introduced by Rossler{24–26}that exhibits such hyperchaos is:(2.6)  Two-dimensional views of the strange attractor are shown in Fig. 2.16: the xy plane view is reminiscent of the Rossler funnel.
+The system (2.6) has been obtained from a system similar to (2.4) by adding a linear variable, w.
+The variable z is activated whenever a threshold value of x is exceeded, and the activation of z leads to a reinjection of the trajectory to a new region in xyw space.
+The motion in xyz space is similar to that of (2.4): compare Fig. 2.17 with Fig. 2.9b.
+Three-dimensional outline views of the strange attractor in xyz, xyw, zyw and zxw space are shown in Fig. 2.18.
+Although this is a very simple four-dimensional nonlinear system, it is difficult to visualise its attractor.
+One method of representing motion in 4-space on a plane is by representing a point in 4-space by a line on the plane, where each end of the line represents a pair of coordinates [17]: this     is used in Fig. 2.19 to illustrate the strange attractor of Fig. 2.16.
+2.4 Forced nonlinear oscillators
+2.4.1 The forced Duffing's equation
+Ueda [37, 38]has presented an extensive gallery of periodic and chaotic motions of a forced oscillator with a cubic term:(2.7)  where the parameters a and b are positive and .
+There is a rich variety of  periodic (harmonic and higher harmonic) and subharmonic solutions that map out periodic attractors: a few periodic attractors are illustrated in Fig. 2.20, where the system is rewritten as (2.8)  and the solutions (after a long integration time, so all transients have decayed) are plotted in the xy plane.
+For some combinations of a and b there is more than one possible stable solution: two different periodic solutions, obtained with the same a and b, but different initial conditions, are seen in Figs. 2.20d and e.
+Each stable solution is associated with a different attractor, with its own basin of attraction.
+Since, for a given pair of parameters (a, b), there can be more than one attractor, a small change in the initial condition or one of the parameters can switch the solution between attractors.
+A few of the changes from periodic to chaotic, and between periodic, attractors produced by small increases in b are shown in Fig. 2.21.
+The bifurcation patterns in the (a, b) parameter space have been plotted for  [30], and as b is increased the same pattern of bifurcations into non--periodic solutions (period doubling, chaos) is repeatedly seen.
+For small values of a, as b is increased, a periodic solution bifurcates into a pair of symmetric solutions, which then undergo a period-doubling cascade into a chaotic solution.
+A further increase in b gives a return to a symmetric pair of periodic solutions that undergo period doubling into chaos, which then leads into a new periodic solution.
+This process is then repeated.
+At large values of a, the chaotic solution returns directly to a single periodic solution, which then splits into a symmetric pair of solutions that undergo a period-doubling cascade back into chaos.
+A related system is:(2.9)  When  is positive, this can represent the behaviour of a charged particle in a periodic field [16], and when a, is negative, a buckled beam undergoing forced lateral vibrations [15].
+The system (2.10)  was derived by Ueda and Akamatsu in 1981 [39]from the differential equation representing a sinusoidally forced nonlinear electronic oscillator.
+Unlike the Puffing system, this system is oscillatory in the absence of any forcing.
+When  the oscillations may be entrained by the driving sinusoid, with a periodic pattern of m oscillations occurring every n cycles of the driving sinusoid, where m and n are simple integers.
+2.4.2 Forced negative resistance oscillator
+Some combinations of b and f fail to entrain the system; the response is either quasi-periodic, or is irregular and chaotic.
+Quasi-periodic oscillations may be produced for all f when b is sufficiently small.
+For some pairs of b and f the motion is irregular and chaotic.
+Figure 2.22 shows periodic, quasi-periodic and chaotic motions in the y-x plane; the motion is trapped on the periodic, quasi-periodic and strange attractors.
+Ueda and Akamatsu present a different view of the attractors by using stroboscopic portraits: the trajectory is sampled at a fixed phase of each driving cycle.
+In such a  stroboscopic portrait a periodic attractor appears as a small number of points, a quasi-periodic attractor appears as a closed curve, and a strange attractor appears as an intricate structure.
+The Brusselator is a formal set of chemical reactions:   in a spatially homogeneous system, where the inverse reactions are ignored and the initial and final reactant concentrations A, B, D and E are maintained at set values.
+This system was introduced by Prigogine and Lefever in 1968 [22]as an abstract model of an autocatalytic, non-equilibrium system: the trimolecular mechanism is an implausible but convenient way of introducing nonlinearity.
+When all the kinetic constants are equal to one, the chemical kinetic equations are:(2.11)    which has a single steady-state solution that is unstable when  when there is a stable limit cycle.
+Thus this system may be considered to represent a formal chemical oscillator, with x and y representing the concentrations of X and Y [18].
+2.4.3 The forced Brusselator
+Tomita and Kai [35]added a sinusoidal forcing term of amplitude a and frequency f: to give the possibility of quasi-periodic and chaotic solutions.
+Quasi-periodic solutions were found at sufficiently small a, and chaotic solutions developed after a sequence of period doublings as f is increased when a = 0.05 (see Fig. 2.23).
+Oscillations can occur in all the metabolites of the glycolytic pathway, in which the oxidation of one molecule of glucose leads to the production of two molecules of ATP, by a complicated sequence of enzyme-catalysed reactions.
+Although a realistic model is quite complicated [9], a simple model of the form:(2.13)  reproduces many of the features of the glycolytic oscillations [11].
+2.4.4 The glycolytic oscillator
+The addition of a sinusoidal forcing term , to give (2.14)  gives, with forcing math; but close to 1, here a=0.999, b=0.42), periodic, quasi-periodic and chaotic solutions as the frequency w is changed [34]-see Fig. 2.24.

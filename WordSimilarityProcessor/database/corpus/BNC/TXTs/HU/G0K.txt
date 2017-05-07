@@ -1,0 +1,717 @@
+THE PROBLEMS OF FIRE PREVENTION IN HIGH-BAY WAREHOUSES
+1.
+Introduction by K. Firth, N.M.H.C.
+1.1 The Objectives of the Working Party
+Although automatic and semi-automatic high-bay warehousing systems are being built abroad at an ever increasing rate — some 2,000 have been constructed in Japan in the last fifteen years — the rate of development in the United Kingdom may only be described as slow.
+The National Materials Handling Centre, with its interest in sustaining national expertise and development in warehouse design, decided to look at the factors restricting advances in the building of automatic warehouses in the United Kingdom and one which emerged and was considered to be worthy of further enquiry was the attention being paid to the problems of fire in high-bay warehouses.
+The question asked by a number of would-be high-bay constructors was whether insurers and legislators (both in central and local government) were overemphasizing the dangers of fire in high-bay warehouses and also whether they really understood the significant differences existing between different classifications of system.
+The National Materials Handling Centre accordingly set up a Working Party, chaired by Mr. A. C. Parnell of Fire Check Consultants with a brief to examine the following areas of the problem; the whole being intended to act as a plain main's guide but one which had the agreement of all interested parties.
+1.
+What evidence exists throughout the world which quantifies the occurrence of fires in high-bay systems and the cost of damage sustained.
+2.
+How can high-bay warehousing be classified in order to identify different degrees of risk which result from equipment layout and complexity over and above  the question of differing degrees of combustibility (this aspect being adequately covered in the Fire Offices' Committee Rules).
+3.
+A review of on-site fire protection equipment available for fighting fires in high-bay warehouses stating its advantages and disadvantages.
+This is to include an opinion of future development.
+4.
+A statement of Home Office and Department of Environment philosophy as to the approach of Building Regulations relaxations and fire fighting in high-bay warehouses.
+4.
+Managerial precautions which lessen the danger of occurrence of fire in high-bay systems and staff drills and action to adopt in the event of fire.
+The most significant piece of information which resulted from the study was that after a world wide search no evidence emerged that a serious outbreak of fire had occurred in a high-bay warehouse over 10 metres high.
+Only two small fires were reported, both of which had been rapidly extinguished.
+Bearing in mind that there are probably more than 5,000 warehouses of this kind throughout the world holding very large quantities of stock between them this suggests that the risk of them catching fire is very small; although the individual loss if one were to catch fire is considerable.
+The probable reasons for the safety record of such warehouses are two-fold:—
+Human beings are largely excluded from such operations.
+Warehouse disciplines on such questions as house-keeping, stock stability, and systems operation have to be rigidly enforced.
+Notwithstanding the Working Party's efforts to clarify and simplify the problem of providing protection against fire in high-bay warehouses it must be made clear that the subject is one where there is a significant difference of opinion amongst experts as to the most effective method.
+Thus the approach in the report has been to state the differing philosophies as well as stating what is, at present, practically and commercially acceptable to all, to show what techniques and systems may be available in the future.
+1.2 ‘High-Bay’— a Definition
+The term ‘high-bay’ is widely used in warehousing parlance to describe the mechanised placement and storage of unit-loads in racking structures.
+The term originated with automatic stacking-cranes but as fork-lift truck equipment progressively increased in height and other types of automatic systems emerged, the description extended to include such equipment.
+For the purpose of the Working Party's terms of reference the term is taken to include ‘unit-load’ warehousing structures where the access equipment is designed to lift to heights in excess of 10 metres.
+This description encompasses the following major groups of ‘high-bay’ equipment:—
+Type 1
+— Free path high-rack stacking equipment based on fork-lift truck access — back-to-back racking.
+Type 2
+— Automatic or man-rider stacker-cranes contained in a conventional building structure — back-to-back racking.
+Type 3
+— Automatic or man-rider stacker-cranes contained in a rack supported building — back-to-back racking.
+Type 4
+— Automatic or man-rider stacker-cranes contained in conventional or rack supported buildings — using live storage block stacking techniques.
+Type 5
+— Automatic small-parts storage and retrieval systems — back-to-back racking and binning.
+Type 6
+— Fixed path man-rider order-picking cranes — shelved or closed binning back-to-back equipment.
+The term ‘high-bay’ should not in any way be confused with the term ‘high-pile’as described in the 29th edition of the Fire Offices' Committee Sprinkler Rules.
+1.3 The Need for ‘High-Bay’ Warehouses in the United Kingdom
+Although the number of ‘high-bay’ systems constructed in the United Kingdom to date is relatively few the companies who have made this kind of investment have done so because they have clearly recognised the advantages which such systems offer.
+They have done so in the first place because of the advantage of high space utilization on limited ground area; an important asset to companies trying to make the best use of a high value industrial site with no room for extension.
+Furthermore when a random access pallet system is employed utilization of pallet spaces provided can be as high 95% rather than less than 85% in more conventional warehouses.
+This means that the warehouses need not be so large, volumetrically speaking, to house a given number of pallets, although 2,000 spaces is generally regarded as the smallest quantity to justify automation.
+High-bay warehouses vary in height between 10 and 35 metres but a typical height for the 1980's may well be in the 20–25 metre range.
+Secondly the control of movement and recording of products is significantly improved together with greater security, reduction of damage and less pilferage.
+This greatly aids management and the nature of these systems makes them very easy to tie into computer control.
+In some systems this increased efficiency shows savings between 30% and 50% on handling efficiency alone.
+Some industries have a need for the quarantining of products at various stages of manufacture, right up to actual use, in order to satisfy quality control and statutory requirements.
+In this event a ‘high-bay’ warehouse shows up to great advantage because it is feasible to mix guaranteed products with non-guaranteed products because separation is accurately maintained within the control system.
+Thirdly the equipment and systems reliability of ‘high-bay’ warehouses can now achieve very high levels provided that maintenance is kept to an adequate standard; availability of equipment for use is often in excess of 97% of the time work is available.
+This aspect is significantly in advance of typical fork-lift truck operations on 2 and 3 shift working.
+Fourthly it is generally true to say that fewer people are required to operate such systems and those employed are normally kept outside the main storage area.
+This has the advantage of improving house-keeping and it can be argued that the absence of human beings reduces the danger of starting a fire.
+Disciplines have to be undertaken to take special care with potentially flammable items and those which may be chemically/physically unstable when moved from store.
+Whilst under normal working there are no major disadvantages to a ‘high-bay’ system as compared with a more conventional operation, if something goes wrong the impact can be large.
+This is due to their large size, the complexity and time required to install such a system and the fact that a machine bound system tends to be less flexible to change and re-layout.
+In terms of tangible costs as expressed by conventional accounting the savings may not be dramatic when compared with conventional operation.
+It is very often the intangible and indeterminate savings which provide to be of major significance.
+2.
+Types of ‘High-Bay’ Warehouses
+by K. Firth, N.M.H.C.
+It is perhaps not generally appreciated that warehousing systems constructed to heights in excess of 10 metres can vary considerably in terms of basis of design, construction and the degree of automation employed.
+The differences are so significant that the probability of starting fires and the degrees of difficulty in extinguishing fires, once started, can also vary quite widely.
+This section endeavours to identify the broad categories of ‘high-bay’ warehouse systems which are in use throughout the world and indicates typical sizes, layouts, construction and personnel employed in their operation.
+Warehouses usually may be functionally divided into four main areas:—
+goods receiving,
+bulk and reserve store,
+order picking,
+dispatch,
+but it is normally only reserve storage and order picking which are the subjects of ‘high-bay’ design.
+High-bay systems have been constructed for palletized case storage, small-parts storage, long load storage and even for the storage of fully assembled motor cars (with fuel on board).
+2.1 A High-Rise Narrow Aisle High-Lift Fork-Lift Truck System Contained Within a Conventional Steel Portal Frame Building
+This type of system which originated in the United Kingdom has been widely used throughout Europe and is gaining in popularity in the United States of America and Japan.
+Such systems usually comprise rows of back-to-back adjustable pallet racking up to 12 metres high and separated by gangways as little as 1.2 metres wide — and rarely more than 1.9 metres wide.
+Typical lengths are between 40 and 60 metres.
+10,000 pallet loads can easily be accommodated in the area of 6,000m 10 with systems sizes of around 2,000 m 2 being very common — giving an internal cube of between 10,000 m 3 and 120,000 m 3 .
+Building structures vary considerably but steel portal frame of around 25 metres by 6 metres grid is very common — colour steel and asbestos cladding.
+Access into the high rack area is normally restricted to the high lift trucks and all other personnel are excluded — except for occasional maintenance and monitoring checks when moveable barriers are erected at each end of the aisle to prevent such entry.
+However, total personnel in other parts of the warehouse may be as many as 60–100.
+2.2 A Stacker-Crane Operated High-Bay Warehouse (Either Automated or Man-Rider) in a Conventional Steel Portal Frame Warehouse up to 20 Metres High
+There has in recent years, been an increasing tendency to make use of adjustable pallet racking in conjunction with‘stacker-cranes’ to heights of 20 metres.
+Being fabricated from thin section materials the uprights are not considered to be of sufficiently robust construction to support the cladding and the roof of the building — as is typical of many structural steel high-bay structures.
+This means that the high-bay system has to be contained within the envelope of a more or less conventional steel portal frame or space-frame structure.
+One advantage is that if for any reason the storage system becomes unused the building may be used for other purposes.
+The racking is constructed on a back-to-back principle up to 20 metres high with intervening gangways as little as 1.5 metres wide.
+Typical rack lengths are between 100 and 200 metres and number of aisles can vary from as little as 2 to as many as 30.
+In some systems one crane serves more than one aisle and in this case is moved from aisle to aisle by an automatic transfer system.
+Pallets may be placed away either under manual or automatic control according to the control system chosen.
+In the case of manual systems one person per crane is usually all that is required to operate that part of the system with in-feed fork- lift trucks being restricted to an access area at the front of the warehouse.
+Automatic systems usually have an in-feed/out-feed conveyor and sufficient forklift trucks to feed the system — again in each case they are not operating within the crane and storage area.
+A firm principle with this kind of automatic system is restriction of access to anyone other than maintenance and inventory control personnel, in which case a strict control is kept upon crane operation.
+In some instances the attendance of  a fireman with portable equipment is mandatory.
+Access into the high-bay areas is usually inter-locked with the power supply and only personnel with keys can acquire access.
+Some rack structures have been fully protected by sprinklers and in some cases provided with sheet-steel longitudinal partitions down the spine to provide compartmentalisation.
+2.3 A Rack-Supported ‘High-Bay’ Warehouse Containing Either Man-Rider or Automatically Controlled Stacker-Crane
+Constructed from structural steel sections, or occasionally of concrete, rack-supported building structures comprise of rows of back-to-back racking separated by gangways for the stacker-cranes and are commonly built up to heights of around 30 metres.
+Some warehouses have one crane in each aisle whilst others with relatively low rates of throughput depend upon crane transfer mechanisms.
+Typical lengths are between 100 and 200 metres whilst widths vary quite widely according to the number of racks and cranes in the system.
+Warehouses with more than 20 stacker-cranes are not unknown although it is more usual to find systems with 2 to 6 cranes.
+Very large warehouse volumes may be involved — Ford, Dagenham is of the order of 225,000m 3 .
+The steel racking is used to support wall and roof cladding and is an integral part of the system.
+Access is very restricted to personnel and most systems are heavily protected by sprinklers.
+Cladding materials are usually colour-steel.
+2.4 Powered Live-Storage (Block Storage) with Automatic Stacker-Crane Providing In-Feed and Out-Feed
+On occasions where the stock-holding comprises a relatively high volume per line item of only a few lines, live-storage systems may be the answer.
+Such systems may comprise a series of roller tracks mounted one on top of each other and side by side to form a block with a pallet in-feed face at one side and an out-feed face at the other.
+There are a number of variations of this principle usually associated with the method of transmission of pallet through the racking system.
+Typical widths are up to 3 metres with a pallet run length of up to 25 metres.
+The face length of a system may be as much as 75 metres long.
+Stacker-cranes feed pallets to the individual runs under computer control.
+The result can be a solid block of pallets of anything up to 10,000 in number.
+Systems of this type have been seen in beer production, cigarette manufacture, electrical appliances and soap manufacture.
+Rack structures are of structural steel or thin section steel construction.
+Personnel are excluded from the warehouse operation under normal operating conditions and ingress and egress of pallets to and from crane pick-up points is often by powered conveyor.
+2.5 Automatic Mini-Retrieval System in a Conventional Building
+A recent development in small parts storage has been the use of automatic miniature stacker-cranes in conjunction with modularized tote-pan racking systems of back-to-back construction.
+Heights are usually up to 12.5 metres and lengths of about 20 metres.
+Widths vary according to the number of retrieval units used but could be of the order of 10 metres.
+Although the racking system is normally open type construction it is possible to clad the perimeter of the racking and its top to form a totally enclosed box within a conventional building.
+The system is controlled from a remote keyboard situated outside the racking structure and personnel other than maintenance are not permitted within the racking area.
+2.6 Fixed Path Order Picking Machines in Conventional Building — Man-Rider Operated
+This type of equipment has been widely used on the continent of Europe and particularly in West Germany and Switzerland.
+It is usually associated with rows of back-to-back closed binning or open shelving with steel or polypropylene tote-boxes.
+Heights do not usually exceed 12 metres but in a few instances heights of more than 20 metres have been involved.
+Racking is preferably laid out in rows of about 30–50 metres long and widths of installations depend upon the number of cranes employed.
+A 4 crane system would be about 10 metres wide — with a volume of about 4,800 m 3 .
+Closed binning systems are virtually impossible to protect by in-rack sprinklers because of their construction.
+This type of equipment is not usually associated with roof-on-rack construction being almost always enclosed in a conventional building structure.
+Means of escape from the crane is either by rope, ladder or inertia reel equipment.
+The only personnel within the crane system are the on-board drivers.
+Maintenance other than break-down is done outside normal working hours.
+In the event of break-down care is taken to isolate the unit from normal operation.
+Personnel serving the system in packing and other areas may be as many as 60.
+In-feed and out-feed varies — usually a combination of forklift trucks and conveyors.
+3.
+Fire Protection and Fire Fighting Facilities in High-Bay Warehouses
+(see also Appendix II for Building Regulations)
+by S. Platt Home Office, Fire Services, Inspectorate
+3.1 Automatic Protection
+There appears to be little doubt that, of the fixed extinguishing systems available, the automatic sprinkler system has advantages for this type of risk.
+Fire in a high-bay warehouse is likely to burn rapidly upwards.
+Any extinguishing agent which develops its effects in the same direction must be capable of overtaking the flame front if it is to have an acceptable limiting influence on potential damage.
+The sprinkler system, suitably adapted to and designed for each individual risk, is capable of precise application in anticipation of flame travel as well as having satisfactory long term knock-out effects on residual fuel.
+Sensitivity in the detection of fire in its initial stages appears to be particularly important.
+In common with all other forms of fire defence systems, however, a sprinkler system has limitations.
+Over a period of time the system can deteriorate, suffer interference, misalignments, and indifferent maintenance.
+The need for precise application results in sprinkler heads, detection systems and nozzles being positioned within the framework of materials in store, increasing the possibility of these influences and also the problems of satisfactory installation, inspection and maintenance.
+Changes in storage practice, materials and containers sometimes take place without due regard for their effect on protective systems and the possibility of other forms of improvisation can never be eliminated.
+The special features of such a protective system, provided for reasons of the vastly increased significance of its failure, thus render it more vulnerable than would otherwise be the case.
+Although the incidence of intentional or malicious ignition in warehousing cannot be determined precisely, it would be unwise in the extreme to fail to take this cause of fire into account.
+Fires which are started intentionally often have multiple points of origin and their occurrence may sometimes coincide with attempts to reduce the effectiveness of the protective system.
+The results of all the foregoing may be a fire or fires which on the arrival of the fire brigade have either developed as could be anticipated in the absence of an automatic extinguishing system or a situation where fire has gained a substantial hold and is being retarded in its growth by a sprinkler system reduced to some degree from its designed effectiveness.
+It is worthy of mention that a loss of initial control will certainly result in increased problems of regaining it, even though any interference with the major elements of the sprinkler system and its supply can possibly be rectified or mitigated on the arrival of the fire brigade.
+3.2 The Fire Fighting Problem
+Fire fighting problems of high-bay warehouses are characterised by large amounts of fuel, arranged in a cellular manner to facilitate deposit and retrieval.
+This arrangement unfortunately presents a potential for extremely rapid fire growth and provides large surface areas of fuel high above ground level with, in some cases, none other than fixed, pre-positioned means by which a fire fighting strike is possible.
+Height and restricted access are the most significant factors of the fire fighting problem.
+Since height in common with all the other relevant factors, including fire loading, is capable of considerable variation and future development, it would be wrong to suggest arbitrary stages of magnitude at which specific fire protection measures are appropriate.
+Rather it would be best to take the most extreme cases as a basis for new thinking so that intermediate requirements can be looked at in perspective.
+Storage heights of 50 m appears to be a distinct possibility, racked rather than stacked goods to be the  general trend and an increasing degree of automation to be likely.
+3.3 The Extreme Case
+The likely rate of development of fire in a high-bay warehouse, is described in Chapter 6 ‘Requirements for Fire Protection in High-Bay Warehouses’ and is depicted in figure 1 of that chapter.
+Given the most rapid detection possible, the most effective means of transmitting the call to the fire services and their most prompt attendance, it is reasonable to suppose that in the absence of an effective automatic fire extinguishing system or even the benefit of a conventional one, that the fire will have reached a well advanced stage on their arrival.
+However comprehensive the pre-planning of such a situation, it could be anticipated that preliminary reconnaissance, the dispositioning of appliances, the gaining of access by the very limited facilities which such premises can offer and the initiation of a co-ordinated attack of conventional equipment would take even longer and that a fire may have developed to unmanageable proportions by the time such an attack could be mounted.
+In the case of storage more than 20 metres in height and of buildings beyond the upper limit of extendable fire authority equipment it is questionable whether such an attack could be effective.
+The internal contents-density of high-bay warehouses is increasing, restricting the use of ladders and making the problem of manipulation of all portable equipment proportionally difficult.
+The very limited space between vertical fuel surfaces, little over one metre, severely limits the trajectory of the fire fighting jets and the majority of stock may be at a height beyond their effective throw.
+If  fire fighting is to be undertaken in such circumstances it would appear that a range of pre-planned, pre-positioned equipment is necessary, capable of being independently controlled and deployed.
+Such equipment must be capable of automatic function in the very critical period between the outbreak of fire and the arrival of the fire brigade and in the extreme case under discussion should consist of a zoned in-rack sprinkler system and a zoned system of roof ventilation, both operating on sensitive detection devices and tailor made for the individual risk they protect.
+3.4 The Use of Lifts and Cages for Fire Fighting Purposes
+In the case of any flaming fire, when fire development would be impossible to predict with accuracy, the use of mechanical lifts or hoists for fire fighting purposes appears to dangerous in the extreme.
+In many cases, mobile equipment of this kind is completely automated and not designed for carrying people.
+Even in the remaining cases, the equipment is intended for use by experienced, single operators for specific purposes and with safety provisions designed for these conditions, including loading restrictions.
+The limits of their manoeuvrability, in close proximity to the vertical face of goods in store is a pre- requisite for normal use and the means provided for escape in an emergency where necessary are designed as appropriate for the initial stages of a developing situation rather than the later ones.
+Whilst it may be possible for certain hoists and lifts to be provided with dual controls and to be relied upon to assist in the initial stages of smouldering fire or even the last stages of salvage and reinstatement, and whilst the provision of a portable extinguisher could be regarded as standard, the dangers involved in aligning the confines of a lift or cage  to a developing fire in the only manner by which it could be used effectively are sufficiently great to warrant special mention when consideration is being given to emergency planning.
+3.5 Roof Ventilation
+Whilst in the case of certain types of racked goods in which continuous fuel surfaces do not exist, automatic roof venting may be considered to be less essential, in the extreme case it is of great importance.
+It would have the effect of localising the effects of a fire or fires which have not been controlled in their initial stages.
+It would appear that any suspicion of undesirable interaction between roof ventilation and sprinklers would be unjustified in the case of a zoned sprinkler system.
+It is not the purpose of this chapter to speculate on the degree of roof venting but it is necessary to consider the means by which roof venting is controlled.
+In addition to the provisions made for automatic operation, the ventilating system should be provided with the means for regular testing and should incorporate over-ride facilities to enable the ventilators to be manually operated under fire fighting conditions.
+Fire fighting over-ride controls should be positioned at the same locations as the appropriate sprinkler control valves (see 3.6 ‘Fixed Fire Fighting Equipment’).
+The areas protected by these systems, both sprinkler and ventilation systems and controllable from the same point, should coincide.
+3.6 Fixed Fire Fighting Equipment
+As indicated in Chapter 6, the positioning and performance of  automatic sprinkler systems should be such as to be capable of ultimate extinguishment and total cooling rather than the intermediate achievement of control, leaving a residual but still severe fire fighting problem.
+Having regard to the doubts already expressed on the advisability of placing entire reliance on the automatic functioning of such systems, it is suggested that the facilities they provide for the application of water might be adapted to perform the additional role of fixed fire fighting equipment.
+This would enable positive action, guided by human judgement to be used to limit the spread of fire and provide a possibility of extinguishment in the case of failure by the purely automatic system to control the fire in its initial stages.
+There is little doubt that in this case human judgement would need the help of instrumentation.
+In spite of the removal of smoke by roof ventilation, the scene of operations would be too remote for direct visual observation to provide a reliable indication of progress and no degree of artificial lighting, even if it could be provided and relied upon in these circumstances would offer adequate assistance.
+Electronic aids, perhaps sensing devices using infra-red scanners may be required, not only to record the pattern of the fire situation but also to give indications of dangerous temperatures in the structure.
+There would appear to be the need to develop for these and possibly many other applications, heat sensors sufficiently resistant to fire and high temperatures to act not only as actuating mechanisms for automatic systems but also to provide continuous readings of temperature in their permanent locations.
+New concepts in the operation of water protection systems call for new concepts in their supply and the arrangement of supply piping.
+Certainly the reliance now of necessity of such systems demands, and fortunately the nature of these types of  premises is likely to permit, a much closer relationship between the ‘business end’ of the system and the valves which control it than has previously been considered to be necessary.
+It would be necessary for the fire fighters, under conditions of very limited visibility to be able to determine which particular zones of a sprinkler system were in operation and to be reliably informed if further zones wee subsequently triggered.
+In the case of horizontally separated zones and certain types of racking this would be particularly difficult by normal means of observation.
+It would therefore be advantageous, if instead of a single main supply valve controlling an entire system, sections could be independently valved, providing control at a single point of vantage.
+This arrangement would facilitate indication of flow and could be used to identify the areas in which sprinkler heads were in operation.
+An important advantage of this arrangement is the need for as small a portion as possible of this vital protection system to be inoperative in the period immediately following a fire or during periods of maintenance but, there is a further consideration.
+Experience in the rate at which a flame front can travel in high-bay warehousing can be assessed with some accuracy through the results of tests on a smaller scale.
+The rate of fire decay behind the flame front depends to a large extent on fire loading, the physical state and thermal capacity of the fuel and does not appear to have been studied in the same depth.
+The tremendous variety of goods in store, their packing, wrapping, and individual nature is likely to preserve the unpredictability of the duration of burning in this type of risk.
+It is probable, however, particularly in the case of multiple fires, that priorities in the matter of water application and supply to different areas of the storage may alter during the progress of the fire.
+The ability to respond to these priorities is likely to be a critical factor in gaining control.
+Independent control of water supplies to individual sections would facilitate this and the flexibility and effectiveness of the extinguishing system would be further improved if zones could be triggered by remote manual means linked into the automatic system and terminating at the same point as isolation valves and of venting controls.
+Depending on the size of the storage area perhaps a number of such control points would be required.
+The location and nature of the point at which the various controls terminate may vary with the size and complexity of the storage area.
+In the ultimate case, when considering premises designed totally for automatic operation, the use of electronic display panels and controls sited in suitably protected premises remote from the area of risk may have to be considered and in the case of multiple points the need for communication in order to co-ordinate the operation of controls would be needed to be assessed.
+3.7 Limitation of Volume
+As has already been mentioned, the major problem of fire fighting in the types of premises under discussion are those of height and restricted access.
+It is possible that future developments in storage and warehousing may intensify these problems.
+However, given a proper degree of reliability of supply for protective systems and facilities for control, increases in height of storage, up to some 50 metres may not present insoluble problems.
+It is considered therefore that the lack of height limitation in current Building Regulations may be acceptable and, further, that no greater restriction in terms of floor area than those appertaining at present is justifiable.
+In the  types of premises under consideration, having accepted that conventional methods of fire fighting are likely to be ineffective, the success of controlling fire may perhaps no longer be judged in terms of cubic capacity alone.
+A less arbitrary and more realistic basis for limitation of volume would perhaps be provided by the areas able to be covered by each type of installation of protective system, or multiples of such systems.
+Since, in the case of sprinkler systems, this is a function of height, the number of sprinkler heads incorporated in the system and the design of the system in relationship to its reliability, limitations in the size of supply piping will be restrict area coverage to a large degree.
+It is suggested that no compartment of a high-bay warehouse should be bigger than is able to be covered by one sprinkler system.
+As a basis for this calculation it is perhaps appropriate to assume that a single sprinkler system should be capable of dealing with three fires simultaneously involving the operation of all sprinkler heads in any vertically-related sections in which they might occur.
+3.8 Uncontrolled Fire and Collapse
+In the extreme case, automatic roof venting has been proposed as the only effective means by which the removal of heat and smoke from a fire can be achieved.
+Whilst in the past some reliance has been placed on low melting point plastics and the thermal shock effects on asbestos cement sheeting to provide a degree of ventilation, consequential to a fire, experience indicates that such faith can be misplaced.
+The effective removal of heat from a developed fire is essential to limit that lateral spread of super-heated air and smoke, to localise the effects of high temperature so that expansion and collapse effects are localised and to maintain relatively smoke free conditions at high level.
+Without these provisions, the collapse of the structure perhaps over a much wider area must be anticipated.
+In this connection it may be relevant to make the comment that no degree of fire resistance, as definable by standard test conditions, is likely to be able to withstand the stresses and thrusts which heated supporting structural members may impose.
+The collapse of lightly fabricated cladding sections may well e preferable to the sudden failure of heavy masonry at high level and the more widespread dangers which the toppling effect of masonry may produce.
+Any fire resisting compartment wall, and in fact, the architecture of the building as a whole should be designed and positioned with this in mind.
+Heavy, masonry fire resisting walls should be free from the possibility that their stability may be affected by the behaviour of other structural members.
+When premises are designed with future extensions in mind, the need to avoid inconsistencies in the stability and fire resistance of individual sections should receive attention.
+Such factors can have an important effect on the behaviour of the structure under fire conditions.
+3.9 Access and Provision for External Fire Fighting
+There would appear to be few situations when access to the premises at high level would be of value or desirable in emergencies.
+The effectiveness of any measure of external fire fighting would be extremely limited whilst the external cladding of a building remains intact and in the case of the taller building even the range of turntable ladders or hydraulic platforms may be insufficient.
+If the external cladding were to fail under some situations, the position of any persons using high lift equipment outside the building could be extremely dangerous.
+A fire, previously  confined to some degree, involving such extreme densities of fire load, may be transformed from a ventilation controlled fire to one of the unrestrained burning by such circumstances and produce large volumes of radiated heat in addition to large flames.
+Nonetheless it is essential that good access and hardstanding should be provided for fire appliances to the access points of a building, including generous room for manoeuvre and safe dispersal.
+3.10 Automatic Fire Detection Systems
+Irrespective of the means provided to bring automatic roof vents and sprinkler systems into operations, automatic fire detection able to sense the presence of a smouldering fire may be important to reduce damage to some forms of goods if the premises are to be at any time unoccupied.
+Smoke detectors may allow an incipient fire to be tackled in its early stages, before it develops into flaming and before its effects on vulnerable materials in store become significant.
+As has been previously mentioned, the development of other means of automatic detection would provide greater benefits and might be capable of monitoring the progress of a fire and the success of fire fighting in addition to functioning as early warning devices.
+Alternatively, if lifts and hoists etc. are capable of operation from ground level it may be possible to develop the means by which the progress and success of fire fighting might be judged by infra-red scanners mounted on them and providing readings or other indications to the control point.
+3.11 Other Fixed Fire Fighting Systems of Limited Extent
+In the case of computerised storage systems enclosed within their own compartment and comprising individual units within a warehouse building, sprinkler protection would probably be inappropriate.
+There would be difficulties in incorporating the protection of these units into the general system and individual protection by total flooding units by Halon or  would be likely to give the best defence.
+Access into these compartments is only provided for maintenance work and control of the extinguishing system should be provided externally in addition to the provision of internal automatic devices designed to operate the system.
+There would be advantage in designing these units to occupy positions on the external face of a building to facilitate ventilation after discharge of the extinguishment.
+3.12 Hand Controlled Fire Fighting Equipment
+The advantages of providing suitable extinguishers in lifts which are normally for the retrieval of goods has already been mentioned.
+The greater probability however is that fire will start at low levels before spreading vertically and in the case of occupied buildings an initial attack on a fire with hose-reel equipment may well be successful at a stage before automatic systems have operated.
+It is recommended that hose-reels should be provided when appropriate and sited so as to be able to be deployed effectively on the lower levels of all racked or stacked materials and to provide consistent cover to the floor area of the building.
+3.13 Manual Fire Alarm Call Points
+In occupied buildings in addition to the provision of an automatic fire detection system, manual fire alarm call points should be provided in order that a person discovering fire may sound the alarm and summon assistance.
+3.14 Overall Philosophy
+Having recognised the problems of fire control in high-bay warehousing, problems which may intensify with future developments, the only reasonable concept appears to be to make provision for fixed fire fighting systems at heights beyond the range of jets manipulated from ground level.
+In some premises there is bound to be a high incidence of small fires for which conventional forms of fire attack by the occupants would be appropriate.
+However, the internal layout of high-bay warehouses, the high degree of contents-density, limited access and the likelihood of rapid fire spread reduces the possibility of success by conventional fire fighting methods.
+Automatic fire fighting installations capable of achieving total control and extinguishment appear to be the only answer but because of the almost total reliance which must be placed on their automatic capability there appears to be a need for greater flexibility in use than totally automatic operation would provide, and particularly to ensure that an entire system is not rendered inoperative by some local effect.
+It is suggested therefore that in the event of their failure such systems might be capable of a finer degree of control than has previously applied and that control facilities should be considered which permit the integrated use of all protective features.
+Fire protection considerations, other than the most fundamental ones which affect costings, have sometimes been afterthoughts.
+With the increasing sophistication and scale of warehouse buildings it is suggested that they should be looked at in depth at the earliest planning stage when they are able to exert their proper influence on construction and design.
+4.
+Insurers' Requirements for High-Bay Warehouses
+by G. W. A. Nicholls, Fire Offices' Committee.
+4.1 Introduction
+The Working Party has confined its considerations to high-bay warehouses over 10 metres high.
+This is of course a somewhat arbitrary limitation from a fire protection point of view.
+It has been stated in this document that only two small fires have occurred in high-bay warehouses over 10 metres high of which there are probably more than 5,000 in existence throughout the world.
+It has also been stated because in such warehouses there are fewer people, if any, working in them and that management, housekeeping and discipline will be good, fires will be few.
+These statements should not lead to complacency.
+Large losses are occurring in warehouses of all types and are causing concern.
+This is not surprising when the increasing volume and concentration of value in such warehouses is considered and the fact that Fire Brigades are finding such fires in most cases impossible to control.
+Unless the total values stored in one risk are limited and highly hazardous commodities such as flammable liquids are isolated from them, and unless they are adequately protected by sprinklers, it will become increasingly difficult to obtain insurance cover.
+4.2 Building Structure
+The Rules of the Fire Offices' Committee and the Fire Offices' Committee of Ireland for the Construction of Buildings are those which have been adopted by the Insurance companies, members of the Committee, for the classification of buildings and are based on two grades of construction.
+Grade I construction defines a  building of fire resisting construction and Grade 2 construction a building which is essentially of non-combustible construction.
+Buildings, ranges of building or parts of buildings are normally rated as one risk unless they are separated by walls that comply with the Rules for Fire Break Walls and floors that comply with the Rules for Fire Break Floors.
+One risk should preferably not exceed 7,000 m 3 .
+The ‘High-Bay’ warehouses be of at least Grade 2 construction and those described in chapter 2 of this document are so constructed and as such would not normally incur any additional premium rate for construction.
+However, they are of excessive cubic capacity and height, which will incur special rating consideration.
+4.3 Smoke Venting
+The use of smoke vents will contribute, to some extent, to the reduction in level of smoke logging and will therefore aid Fire Brigade operation.
+Their use in this respect has been commented upon elsewhere in this document.
+The current popular level of application of smoke vents to some 3–5% of the floor area does seem low for the fire loads and rate of growth of fire, likely to be experienced in high-bay warehouses particularly when it is borne in mind that unless similar automatic ingress vent areas are provided at low level the effective ceiling vent areas might well be halved!
+It is perhaps for these reasons that there is little tangible evidence showing any measurable reduction in loss of fire damage to contents or structures.
+At these levels of venting area the effect of venting on the performance of sprinkler systems would appear to be quite immaterial one way or the other.
+Much more large scale research and testing of smoke venting systems needs to be undertaken before fire performance can be predicted with some confidence.
+4.4 First Aid Hand Appliances
+The use of portable fire extinguishers particularly of the class A type and of hose reels should be encouraged to the requirements of the B.S. Code of Practice, and to the Scale of Allowances, of the Fire Offices' Committee.
+In the warehouse area, due to the congestion of storage, the ‘running’ distances from extinguisher or hose reel location to fire incident, the lack of people in the warehouse, and the limited range of such devices, compared to height of storage, their usefulness will not be as great in other types of risk.
+4.5 Automatic Fire Alarm Systems
+Systems using heat detectors are inappropriate for high-bay warehouses bearing in mind that their response will be little ahead of the sprinkler system, which itself will provide an alarm signal both locally and to the Fire Brigade.
+The earlier response of smoke detectors in detecting fumes and smoke in the smouldering stages of fire will be of some benefit.
+However, the location of smoke detectors in racks, whilst providing an alarm, will be less effective in pin-pointing the exact location of the incident due to the vagaries of travel of smoke plumes from smouldering fires.
+4.6 Gas Extinguishing Systems
+Due to the difficulties of achieving fast even concentrations of gas in such large congested volumes, their adverse effect on human beings, and ineffectiveness on rapidly developing deep- seated carbonaceous fires, and halon systems will normally only have application to parts of the ancillary accommodation such as computer suites.
+4.7 Dry Powder systems
+In order not to obstruct gangways or take up rack space, dry powder systems would have to be designed with extensive pipework feeding nozzles located in the racks or gangways from a centralised, pressurised storage unit.
+This poses insurmountable problems of effectively transporting the powder through such a system and therefore they are not likely to have application in the warehouses under consideration.
+4.8 Automatic High Expansion Foam Systems
+These systems have to be designed to flood the whole warehouse to eaves level at every incident of fire and would cause considerable water damage to packaging and some commodities.
+Furthermore such systems have not yet been designed to flood such a warehouse at the speed with which the fire will develop vertically and so far have only been used in conjunction with a sprinkler system at ceiling level.
+As they require considerable water quantities it is the insurance companies view that water is better applied through a sprinkler system as and where required.
+4.9.1 Automatic Sprinkler Systems
+The only practical and total form of automatic fire protection suitable for high-bay warehouses is the automatic sprinkler system.
+At this time sprinkler system design is undergoing a continuous evolution in order to adapt to the rapidly changing and diverse methods of packaging, palletisation, racking and warehouse structure.
+In such a climate of change the 29th Edition Rules for Automatic Sprinkler Systems can only indicate that required sprinkler protection for broad categories of commodity .
+and types, methods and height of storage.
+These rules must be applied with experience and judgement if adequate protection is to be achieved and it is important that the leading insurance company on the risk is consulted at the early design stage, and that only experienced and reputable sprinkler installers be used.
+Only the salient features of design can be indicated in this article, and the F.O.C. 29th Edition of the Rules should be consulted for detail and to encompass the latest amendments.
+4.9.2.
+In these rules, high piles storage risks are divided into four categories according to the commodities and types of packaging, viz.
+Category 1
+Ordinary combustible materials (and non-combustible materials in combustible wrappings)— excluding those items specified under Categories II, III and IV — stored in bulk, in pallets or on racking, to heights exceeding 4 metres.
+Examples of Category 1 storage:—
+Carpets,
+Clothing,
+Electrical appliances,
+Fibreboard,
+Glassware and crockery (in cartons),
+Metal goods (in cartons),
+Textiles,
+All forms of paper storage other than those specified under Categories II and III
+The lists of items in Categories I, II, III and IV are not exhaustive, and it must not be assumed that items of storage not specifically mentioned are regarded automatically as coming under Category I. In general, items under Categories II, III and IV are those where experience has shown that the materials produce exceptionally intense firms with the high rate of heat release.
+Where there is any doubt about classification confirmation must be obtained from the Fire Insurers.
+Category II
+Baled cork,
+Baled waste paper,
+Cartons containing alcohols in cans or bottles,
+Cartons of canned lacquers which dry by solvent evaporation,
+Chipboard,
+Inflammable liquids in non-combustible containers,
+Linoleum products,
+Plastics (non-formed) other than celluloid,
+Rolled pulp and paper (horizontal storage),
+Rolled asphalt paper (horizontal storage),
+Palletised whisky stocks,
+Veneer sheets,
+Wood pattern,
+Wooden furniture.
+Category III
+Bitumen coated or wax coated paper,
+Esparto (loose),
+Foamed plastics and foamed rubber products (with or without cartons) other than those specified in Category IV),
+Celluloid,
+Inflammable liquids in combustible containers,
+Rolled pulp and paper (vertical storage),
+Rolled asphalt paper (vertical storage),
+Rubber goods,
+Ventilated wood stacks,
+Waxed or asphalt coated paper and containers in cartons,
+Wood wool,
+Wooden pallets and wooden flats (idle) and
+All materials having wrappings or pre-formed containers of foamed plastics.
+Category IV
+Off cuts and random pieces of foamed plastics or foamed rubber,
+Rolls of sheet foamed plastics or foamed rubber.
+Storage not exceeding the following heights  are considered suitable for Ordinary Hazard systems.
+Where these heights are exceeded the storage will be considered Extra High Hazard High Piled Storage and the appropriate ‘densities of water application’ and ‘areas of operation’for ceiling level protection are shown in the following tables extracted from the Fire Offices' Committee Rules.
+Design density of discharge and assumed areas of operation for high piled storage risks comprising free standing storage where roof or ceiling protection only is provided.
+Design density of discharge and assumed area of operation for high piled storage risks comprising storage in single or double row post pallets or palletised rack storage (beam pallet racking) where roof or ceiling protection only is provided.
+The densities of water application may vary considerably according to category of goods and storage height and it is therefore important to predict both the highest category of commodity and storage height likely to be used during the reasonable life of the building.
+4.9.3
+For palletised rack storage at heights in excess of those shown in these tables, intermediate level sprinklers within the rack will be required according to the arrangements shown in the figures 1122.32.21 and 1122.32.31 (d).
+Intermediate level in-rack, sprinklers are required to operate at not less than 2 bar when the required assumed numbers are operating; in addition, ceiling level protection will be required at the reduced rate of 7.5 mm/m over an area of operation of 260 m2.
+4.9.4
+The forms of protection described in 4.9.2 and 4.9.3 are valid where horizontal barriers (shelves) or vertical barriers (bulk-heads) are not present.
+Where they are present the insurance companies should be consulted.
+4.9.5 Temperature Rating of Sprinklers
+Sprinklers providing protection at ceiling level are required to have temperature ratings of 141°C and intermediate level sprinklers installed within racks 68°C.
+4.9.6 Water Supplies
+Invariably sprinklers systems protecting high-bay warehouses will require pumped water supplies drawing from suction tanks providing ninety minutes supply.
+4.9.7 Warehouses over 15 metres high
+The form of protection requiring intermediate level, in-rack sprinklers quoted in paragraph (3) above have so far only been tested full scale, to stack heights of 15 metres.
+For storage exceeding this height the intermediate, in-rack, protection illustrated in figures 1122.32.31 (a)(b)(c) and (d) is to be provided by open sprinklers arrayed, in vertical modules of 3 or 4 sprinklers, each controlled by a group control, or multiple control.
+Where, in such warehouses the storage rack system supports the roof then little or no additional protection at ceiling level may be required according to the structure of the roof and the geometry of the rack system at roof level.
+In all cases the insurance companies should be specifically consulted.
+5.
+Protection of Ancillary Accommodation
+by A.C. Parnell, Fire Check Consultants
+Chapters 1 and 2 have defined the meaning of high-bay warehouses and the types in current use, and while the whole purpose of this booklet is to concentrate on the fire risks of these storage areas, it must be appreciated that these buildings do not operate in isolation and that, according to their specific function, there will be ancillary accommodation to support the process either directly attached or in close proximity.
+There are basically two functions for high-bay warehouses:—
+1.
+To receive, store and to distribute components or assemblies as a central regional warehouse, or,
+2.
+as part of a manufacturing or processing complex, where units of materials are stored to service the industrial or manufacturing process.
+Each of these types should be considered as overall building assemblies in terms of fire risk from the warehouse to the ancillary accommodation or vice-versa, and as risks to:—
+the occupants or visitors to the premises.
+the possible loss of the contents in store or the equipment to process the ancillary functions, or,
+the possible loss of the structure
+Type I
+Where the warehouse is primarily used for storage and distribution the supporting accommodation can comprise, receiving, and dispatch vehicle departments, with typical ‘garage’ type risks, the office accommodation to support these functions, as well as the offices for the ‘paper-work’such as receipts of goods, retrieval/dispatch documentation and invoicing etc., which may be largely manual or computerised with a nominal support staff, and the ancillary staff welfare and amenity spaces.
+Vehicle repairs and servicing may also be attached, as well as maintenance/carpenters' workshops, and obviously each of these can have separate risks.
+Where the warehouse is totally independent of other buildings, the standards of construction and protection described in other chapters will apply, but, where other accommodation is attached or within prescribed distances, the Building Regulations (and possibly Insurance Surveyors) will require structural separation between the different purpose groups, and the standards of fire resistance will be the highest of the respective categories.
+Separation must be complete; it is not sufficient to consider only the walls and floors directly dividing the occupancies, but the same provision will relate to any openings, doors, hatches, conveyor routes, etc.,(where suitable cut-off shutters operating on fuseable links might be considered).
+Similarly it is worth considering the separation above the lower roof areas of accommodation, say, where the office is only two storeys and against the full height of the end wall of the warehouse — as there is no Building Regulations' requirement for the fire resistance of the interior surfaces of a roof.
+Consideration should therefore be given to the risks of fire-spread through such a roof and into the flank wall of the warehouse, or similar accommodation.
+Any offices, shops, etc., attached to the warehouse will be subject to approval and certification of the Fire Authority under the Fire Precautions Act which will require suitable provision for protected means of escape, the provisions of alarm systems, portable fire fighting equipment, possible emergency lighting etc., and the maintenance of these routes free at all times, as well as assurance of the management responsibilities for regular evacuation drills, training etc.
+Workshops, garages, and the vehicle dispatch and receipt areas can be subject to the same control (previously the Factories Act) and more specific requirements will be necessary for the storage of hazardous liquids, gases and combustibles, generally, with supporting requirements for fire fighting equipment.
+The fundamental approach must be to visualise the risks of a fire from every aspect in the total project, to ensure that if a fire occurs, it can be kept small and cool.
+Type 2
+Where the high-bay warehouse is part of an overall local storage and distribution unit to service a manufacturing or processing division on the same site, or where for instance it is sited in the middle of a department store to supply the selling floors, the fundamental principle of ‘containment’ of the risk and isolation of the volume from the adjacent areas will be the paramount consideration.
+Again, the standard of separating construction will be the highest requirement of any of the adjacent risks.
+Wherever communication or interconnection of the warehouse with the adjacent accommodation is necessary functionally it is extremely important to ensure that the separation and containment of the risk can be achieved rapidly in the event of a fire.
+Separating doors, hatches, shutters should be given careful consideration and the method of operation related to the systems of detection, warning or similar techniques employed for emergency action.
+Decks serving multi- floor accommodation outside the warehouse will also provide escape routes from the upper storage levels, but their structural integrity must be complete in an emergency, although allowing time for people to escape to safety in other protected areas and routes leading to the open air at ground level.
+Again, consideration must be given at roof levels, where changes in height occur to ensure that a fire spreading vertically will not spread across or onto adjacent roofs, and continue the fire elsewhere.
+Two or more stage alarm procedures may have to be considered where adjacent risks occur, so that the area primarily at risk is alarmed and evacuated while the adjacent areas are warned for a stand-by situation.
+The whole technique of communication is far too detailed  for this paper but needs special care in such ‘mixed’ situations.
+The siting of the control and communications unit where the emergency signals are received and possibly monitored for secondary action i.e. isolating services etc., is imperative, and slave mimic display panels should be considered at other and remote positions from the prime risk areas to ensure cover for the control of the emergency operations.
+One of the essential positions must be the first point of entry for the fire fighting service.
+Industrial and commercial areas will be subject to certification and control under the Fire Precautions Act, as has been described for type I building and reference should therefore be made to this section for other matters of ancillary accommodation.
+6.
+Requirements for Fire Protection in High-Bay Warehouses
+by P. Nash, F.I.R.T.O.
+6.1 The Function of a Protective System
+Over recent years, the study of the fire problem involved in high-bay (high-racked) warehouses has provoked much thought and discussion, and has brought with it the realisation that there are many factors to be considered in determining the correct solution to adopt.
+These factors include the type, flammability, fire-load and method of packing of the stored goods, the nature of the racks or shelving, the height of the storage, and the maximum degree of fire growth that could be tolerated before the possibility of controlling the fire is lost.
+The last factor is important in that if one is prepared to lose the whole storage, there is no ‘need’ for a fire protection system at all.
+The very fact that the installation of a protective system is considered presupposes that some degree of control of the fire is desired, and if this is the case, the degree of control required must be capable of being quantified.
+The likely performance of the different types of system available in the circumstances being considered , can then be determined within reasonable limits of accuracy.
+The function of a protective system, then, is to be able to control, and if possible, to extinguish a fire within acceptable and predetermined limits of damage.
+6.2 Available Fire Fighting Agents and Systems
+The fire fighting agents available for storages are:—
+(a)
+water,
+(b)
+high-expansion foams,
+(c)
+inerting gases such as carbon dioxide and halons,
+(d)
+dry powders of the ‘general purpose’ type i.e. capable of suppressing fires in both solids and flammable liquids.
+Of these agents, water is by far the most widely used.
+It is very effective, in that it can be used to cool an extinguish solid combustibles and flammable liquids, and systems which apply it can be made to do so over a limited ‘volume’ of the racking where the fire is i.e. the fire can be ‘pin-pointed’.
+Water application systems can therefore be very effective and efficient, provided that the necessary requirements for their performance are well defined, and that the system is truly designed to meet these requirements.
+If, however, the requirements are not well defined or the system design is not capable of meeting all the requirements, then much unnecessary fire, smoke and water damage may occur through the system failing to control the fire quickly.
+High expansion foams can control fires in high-racked storages very effectively, but they are, by their nature, total- flooding agents.
+It follows that the volume in which the fire occurs should be capable of being partitioned off from the rest of the storage, if the agent is to be used effectively and cheaply.
+This presupposes a form of compartmentation, which does not adversely affect the normal use of the store as a large individual space in which free movement of goods is permitted, yet which can be called into action in the appropriate area as soon as the alarm is given.
+This is perfectly feasible by a system of fixed and moveable compartmentation, but no one has yet produced a practical system.
+The method of compartmentation would not, of course, be brought into action until a delay period had elapsed to permit the escape of personnel, and the timing of the foam application would need to be carefully controlled in order to leave sufficient time to permit the foam to fill the volume before the fire took substantial hold.
+This is discussed in ref 9.
+Inerting gases are capable of rapid but limited control of fires in racked storages, to the extend that flames may be subdued but smouldering may still persist.
+The almost inevitable dispersion of the gas due to convection and displacement effects will result usually in the rapid reappearance of flames immediately application of the gas ceases.
+This means, in effect, that these gases are not effective for local application to a fire within racking.
+If used as total flooding agents, however, they can be extremely effective, but the toxicity of bulk carbon dioxide, and to a lesser extent, the halons, is such as to demand a gas-tight enclosure for the storage, if danger to adjacent life is to be avoided.
+This is likely to be unacceptable in certain underground storage systems where personnel are not present unless the system is ‘locked off’.
+Dry powders of the general purpose type suitable for solids and liquid combustibles could well be effective if the area of the fire could be accurately pin-pointed and an adequate discharge given to ensure extinction.
+No designs of systems of this type have yet emerged in the United Kingdom, but there is no reason to suppose that they would not be feasible.
+6.3 The Design Requirement for a System
+The fundamental question in determining the design of a system is to decide how much fire, smoke and water damage can be regarded as ‘acceptable’.
+This will be controlled by the likely direct and consequential losses of goods and operating availability of the storage, and the long-term economic effect this will have on the industry which uses the storage.
+It is a totally inadequate approach to the problem, to argue the direct cost of the protective system without considering whether it will be effective in stopping the fire within the  ‘acceptable limit’— indeed if the system is not capable of doing this, then it is a waste of money to install it, no matter what attractive inducements are offered to do so.
+Thus each storage should be considered on its merits before a decision on the type of system is taken, to determine which system proves most cost-effective in meeting the requirements of the problem.
+Clearly, if no system is fitted, the losses may be total.
+If an ineffective system is fitted, they are likely to be substantial.
+In either case, the long-term effect on the industry may well be disastrous.
+It follows that the design requirements for the system should lean towards ‘over-kill’ rather ‘under-kill’since any increase in cost of the system is likely to be small in comparison with the benefit to be obtained by rapid detection and control of the fire.
+An examination of the development of a fire in high-racked storage is fundamental to the appreciation of the design requirements of a protective system.
+Experiments illustrated in figure 1 on fires in a storage of goods on pallets in open racks showed that in three minutes after ignition, the flames were growing at a dangerous rate, and that after eight minutes the flames had encompassed the whole height of the racking (18 m) and were producing large volumes of acrid smoke.
+Under these circumstances, the task of a fire brigade is a very difficult one, since on arrival they have to fight a fire over a large vertical height, from a very constricted position at floor level, at the base of the racking.
+Their opportunity to direct water onto the flaming materials is severely restricted, and consequently their chance of a quick, clean, extinction of the fire is remote.
+It becomes clear immediately that the task of detection, location and extinction of the fire falls predominantly on the automatic system, which must be designed to perform these  three functions in adequate measure if substantial loss is to be avoided.
+A detailed study of figure 1 will show that in the first three minutes after outbreak, the height of the flames grow approximately to the height of the ‘level’ of racking on which the fire started, by five minutes some four levels have been involved, and by seven minutes to eight minutes the flames will be breaking out at the top of the racking.
+It is realistic to require, therefore, that the automatic system shall have achieved substantial control i.e. to have prevented further upward spread, by three minutes, before the flames rise out of the original level, or at least have not ignited the goods in the level above it.
+At this stage in the fire's development, sideways spread is not a problem and can easily be constrained by a good protective system.
+The final objective is to extinguish the fire, and this should occur within eight to ten minutes of ignition.
+The conditions in the warehouse, if the foregoing time and motion performance is achieved, would be such as to permit ready access by fire fighting personnel for mopping up smouldering residual combustion.
+Having set these objectives for successful and rapid fire control and extinction it is informative to see how current thinking matches up to them, and to consider what further developments are necessary to achieve adequate performance.
+6.4 Current Practice in High-Racked Storage Protection
+The types of water-dispensing systems currently recognised in the United Kingdom for the protection of high-racked storages are confined to ceiling-mounted and in-rack mounted sprinkler systems using ‘closed’ sprinklers i.e. sealed and individually actuated by the fire.
+Details of the current Fire Offices' Committee Rules are specified in chapter 4 — Insurers Requirements for High-Bay Warehouses.
+There are three N.F.P.A. Codes which specify the protection of the storage of goods in the United States of America.
+The first, the general sprinkler code, ‘Standard for the Installation of Sprinkler Systems’, N.F.P.A. number 13, deals with storage of goods up to about 4 metres in height.
+The second ‘Standard for Indoor General Storage’ N.F.P.A number 231, deals with storage of materials up to 7.5 metres in height representing the broad range of combustibles, stored in solid or palletised piles.
+It does not apply to goods stored in racks.
+Storage is classified in four classes as follows:—
+Class I
+— Non combustible products on wood pallets, such as metal parts, empty cans, non combustible food-stuffs, electrical appliances, etc.
+Class II
+— Glass products in wooden boxes or slatted wooden crates.
+Class III
+— Wood, paper, natural fibre, cloth, or products thereof, containing no more than a negligible amount of plastics in the product or packaging.
+Class IV
+— Defined as Class I, II or III products containing ‘more than a relatively negligible amount of plastics’.
+Typewriters, cameras or electronic parts in plastic packaging plastic back tapes and synthetic fabrics or clothing are examples of products in this class.
+Special hazard commodities such as tyres, bulk plastics and rolled paper are not covered by this code.
+The storage of foamed rubber and plastics is specified in N.F.P.A. Code number 231B.
+The third important N.F.P.A Code is the ‘Standard for Rack Storage of Materials’ N.F.P.A. number 231C, 1973.
+As with N.F.P.A. number 231, the storage of goods in plastic pallets and the storage of tyres and bulk plastics are outside its scope.
+The commodity classifications are similar to those already given in N.F.P.A. number 231 above.
+This Code introduces two concepts of rack storage protection which are not included in the Fire Offices' Committee Rules.
+The first involves the use of sprinklers mounted in the face of the rack, and the second the use of horizontal barriers within the rack to delay the upward spread of flame.
+All the above codes and standards require the discharge of large quantities of water where the racks are high and the hazard rating of the goods is high also.
+Experiments have shown that closed sprinklers in racks are not very effective in stopping the upward spread of the fire, owing to their relatively slow response to the radiant heat from columns of hot gases or flames rising near to but not over, them.
+Thus fire may well spread throughout the height of the rack before sufficient sprinklers have been brought in to ensure the general control of the fire zone.
+While such a situation may acceptable from a direct loss point of view, it can hardly be described as an effective solution to a problem which could and should be capable of a much better solution.
+For example, if the racks contain perishable goods or clothing, the whole may be lost by smoke contamination, despite the fact that the fire can be restricted to a relatively small area.
+The loss of use of the storage while refurbishing is carried out may also be very serious.
+It was for these reasons that a search for more elegant solutions was started in 1969–1970.
+This is not to say, however, that in certain applications, the use of ‘normal’ in-rack sprinkler systems is not perfectly satisfactory where the arrangement of sprinklers can be such that a number of them can be brought in early against the fire, or where the nature of the goods stored is such that flames are unlikely to damage them within the first few moments of fire development.
+In such situations good results can be obtained.
+Typical examples are in racked whisky storages where flame impingement can be resisted by the barrels for several minutes while the sprinklers are subduing the flames and cooling the barrel surfaces.
+There are many other examples in which this type of protection has been effective.
+6.5 Modern Developments in Water Dispensing Systems in Racking
+The examination of the performance of standard in-rack systems led to the realisation that systems giving a much quicker and better-directed response to fire were necessary if the performance requirements of section 6.3 were to be met.
+These requirements were specified as follows for the design of ‘new’ systems.
+(a)
+The fire should be detected in not more than 1½ minutes from ignition (or from the appearance of flaming combustion).
+(b)
+The development of the fire upwards should be stopped in not more than 3 minutes from ignition (or from the appearance of flames).
+(c)
+The fire should be extinguished, or reduced to a condition where it could not recur, within 8 to 10 minutes from ignition.
+These times relate to ‘normal’ combustibles with a plentiful access of air and moisture content not exceeding 12 per cent.
+In order to meet these requirements, it was realised that some form of detector-operated system would be essential, and this led to the development of the zoned system in which open sprinklers were used, mounted vertically one above the other on a drop pipe and fed from a ‘zone control valve’ which was opened directly by the response of the detector to the fire.
+Three open sprinklers were found to be sufficient to stop even the most rapidly developing fire.
+The zone control valve was mounted on a horizontal range pipe so that the drop pipe from it passed vertically through three levels, an open-sprinkler being mounted at the head of each level.
+Each ‘zone’ of three sprinklers was protected on each side by adjacent zones, each zone having its own linear detector which was attached to the racking members throughout the zone.
+The detector could be either electrical or pneumatic.
+Commercial developments of this basis principle have been tested successfully on a large number of test fires, and a pneumatically-operated resetting system is now in its final development stages.
+These systems have proved capable of meeting the specified operational requirements on a variety of fires in different categories of combustibles.
+They can do this with a fraction of the water usage of the normal in-rack system and has a greatly improved performance.
+The zoned method of operation has also been utilised in the ‘intermediate zoned system’, which operates in the same way as the detector-operated zoned system, but depends upon the secondary detector at the valve for its operation, the line detector being omitted.
+A comparison of the performance of the standard in-rack, detector-operated zoned, and ‘intermediate’ zoned systems is made in Appendix I, and shows that the full zoned system is about five times as effective as the ‘standard’in-rack system in terms of fire damage and water used to gain fire control.
+The ‘intermediate’ zoned system is approximately twice as effective as the standard in-rack system.
+Other developments in water-dispensing systems have taken place e.g. the use of ‘barriers’ or ‘shelves’at various levels.
+These developments have proved neither effective nor economical.
+6.6 The Relativity of Automatic Protective Systems and Fire Brigade Action
+It is clear that fires in the storages discussed would more readily be controlled by well-designed and appropriate automatic systems than by fire brigade action because:
+6.6.1
+The system is available for immediate application, within the very short time needed to produce really effective results.
+6.6.2
+It is designed with foresight to give access of the extinguishing agent to the sea of the fire.
+(It is not always possible for the fire brigade to achieve this with the detail that is required).
+6.6.3
+Under these conditions, the fire can be rapidly controlled and the consequential water and smoke damage reduced by a large factor.
+6.6.4
+Fire brigade personnel are not put at risk in situations where their means of access and fire fighting is at a disadvantage.
+To gain these advantages, a fresh look will need to be taken at all our storage risks to ensure that the system does give the required performance.
+It is of no use to go half-way to meet the objective and to fall short in this aim.
+If this could be achieved — and there seems little reason why not — then a whole new phase of storage protection could begin instead of trying to adapt systems which, while suited to use in a hot gas layer beneath a ceiling, are not basically suitable to the problems involved in high-racked storage.
+A range of new systems could be produced including the ‘zoned’ systems, which would be far superior in use and would have a market potential in their own right.
+References
+Appendices
+(1) Relative Performance of In-Rack Sprinkler systems.
+Figures
+1.
+The Variation of Flame Height with time in a High-Racked Storage, Cardington.
+(Normal Combustibles).
+2.
+Layout of Detector-Operated Non-Electric Re- Setting Sprinkler systems in Racking.
+3.
+Arrangement of Racking and Sprinkler Heads — High Racked Storage Experiment Cardington.
+(See Appendix I).
+7.
+The Managerial Aspects of Fire Protection in High-Bay Warehouses
+by G. Coxon, J. Dook, P. A. Plumley
+7.1 Planning and the Preparation of an Architect's Brief
+Past experience has shown, on more than one occasion, that the adequate functioning of a modern ‘high-bay’ warehouse depends upon the correct implementation and diligent application of a highly disciplined systems approach.
+The prime reason for this is that such warehouses have become machines and will only operate correctly if the logic for their function has been meticulously thought out, checked and rechecked.
+There is a clear analogy to computers here which are only as good as the individuals who are responsible for their programs: An error in either case results in chaos.
+The clear implication behind this statement is that careful attention and above all, adequate time must be allowed at the planning stage.
+The wise organization now engages a multi- disciplinary team up to three years before the system is commissioned which carefully investigates every aspect and agrees decisions with every individual affected — both inside and outside the organization.
+Thus an operational and detailed equipment specification is developed before any actual building planning takes place and in this way it is possible to give the Architect a very clear brief of the functional relationships of each part of the total system.
+This carefully structured approach should ensure that both Company and Architect have a mutually clear understanding of what is required which should obviate late changes to plans — so expensive to all concerned.
+In relation to fire in ‘high-bay’ warehouses it is important that the local fire officer, the Local Authority and the Company's Insurers, together with the Architect are involved  at a very early stage in the planning of the system.
+Adequate consultation between all such parties which ensure a clear understanding of the system of operation proposed and the likely risks does much to simplify the design of sprinkler systems and the need for other means of protection and alarm.
+It is vital that all meetings of this kind be properly documented and circulated to those concerned.
+7.2 Operating Disciplines
+Discipline within ‘high-bay’ warehouse installations has to be clearly defined and unambiguous; clearly understood by all staff with regard to both operational and maintenance procedures.
+Whilst automatically operated high-bay warehouses tend to be designed to exclude personnel when in operation, special precautions have to be taken to ensure that unauthorized personnel do not gain access, notably with man-rider operated equipment.
+A variety of methods have been employed to dissuade unauthorized personnel; from security staff permanently on guard to the introduction of special locks and interlocks which close down equipment movement in the event of any irregularity.
+The issue and wearing of protective headgear in the system should be mandatory, and ‘non smoking’ regulations rigidly enforced.
+The latter should be reinforced by regulating what personnel may carry into the warehouse, on entry, together with an effective disciplinary procedure agreed by employees and unions.
+The one single factor which such discipline imposes and which decreases the danger of fire in any kind of warehouse is a clear indication of a well organized and controlled system.
+The whole process of storing and moving goods tends to generate highly inflammable rubbish (packaging etc.) and it is of prime importance that the whole of the warehousing area is kept  clean and clear of inflammable refuse.
+This must be done very frequently and care must be taken to ensure that the collected rubbish is itself kept in a safe and well contained place.
+Particular care must be taken over plastic packaging materials as these are frequently highly inflammable and can generate toxic fumes when burning.
+In all cases access passages must be kept clear for emergency use at all times.
+Fire doors and shutters must not be blocked or prevented from opening and sprinklers or fire detection devices must be kept clear and unobstructed.
+Note.
+Sprinklers and detectors must never be painted as this will impair their proper functioning.
+The self regulatory requirements on management under the Health and Safety at Work Act should ensure that discipline is enforced and that all affected personnel are given an opportunity to maintain and improve their working environment.
+7.3
+It is essential that all personnel entering the building are fully aware of the procedure to be followed in the event of fire or any other emergency situation occurring, e.g. bomb alerts.
+They should be completely familiar with all exit routes and to this end should be exercised in evacuation procedures at least twice a year and more often if the contents of the warehouse are highly inflammable or explosive.
+New staff, on joining, should be acquainted with fire exit routes and instructed as to the various alternative exits available should smoke, fire or collapse or stocks or racking render normally used routes impossible.
+The locations of all fire alarm contact points within the building should be made known to every member of the staff who should be instructed by practical demonstration how to activate the alarm system.
+Every member of the warehouse staff should be trained in the use of various portable fire fighting appliances installed within the premises.
+The Procedures and Fire Orders
+The action to be taken on the discovery of a fire or potential fire situation i.e. call for assistance, use of first aid, fire fighting extinguishers (if reasonably safe to do so).
+1.
+Sounding of fire alarm.
+2.
+Evacuation of the building.
+3.
+Movement to assembly areas.
+Consideration should be given to the organization of a ‘Fire Steward’ system of control.
+This would consist of a group of employees each of whom would be given the responsibility of monitoring the evacuation of a designated part of the building, checking that all rooms, toilets, cloakrooms, etc. in that area were clear of personnel and then reporting to the ‘Senior Fire Steward’ at a pre-determined reporting position outside the premises.
+The ‘Senior Fire Steward’ would have a pre-prepared list of all sections to be searched by which the current situation could be assessed and reported to the Fire Service on its arrival.
+No search should ever be carried out by a single individual.
+It should be the aim of such exercise to clear the building of personnel in 2½ to 3 minutes.
+Non-Company (such as maintenance contract) staff must be clearly instructed that they must adhere strictly to all safety  procedures with particular reference to fire evacuation and the whereabouts of such persons must be known by the warehouse management, a member of which should undertake the responsibility for control.
+Nominal roll-calls may be useful where a small number of staff, say 25, are involved.
+The impossibility of maintaining a minute to minute control of larger staff will inevitably cause complications during any roll-call attempt to account for every person.
+Therefore it is suggested that the physical search is the best way to be sure that the premises are vacated.
+Any sections not reported clear by the time of the arrival of the Fire Service units will result in the Fire Service undertaking to search such areas as an immediate priority.
+7.4 Design of Equipment
+All equipment within and around the warehouse complex, i.e. order pickers, stackers, lifting devices conveyors, fork lift trucks, etc. must be designed to be fire resistant and where applicable should be provided with full emergency escape facilities.
+In a high-bay warehouse, when and where the operators are working within the racking at a height above the ground, suitable means of egress should be provided, such as a ladder forming part of the equipment, inertia reels, rope, ladder, etc. to ground level and leading a clear path to escape doors.
+Emergency lighting should be provided on the machine and at ground level to provide sufficient lighting for escape purposes in the event of complete power failure within the building.
+7.5 Design for Maintenance
+All equipment must be designed so that it can be effectively inspected and maintained.
+Particular attention should be given to accessibility so that an accumulation of inflammable materials,(liquids, greases and rubbish) can be easily seen and cleared away and areas likely to cause fire or overheating problems — electrical relays, switches, hot bearings, etc. can be easily inspected.
+7.6 Maintenance of Equipment
+It is essential that proper planned maintenance of equipment is carried out at the recommended time and is correctly recorded, and rectified as quickly as possible, stating the remedial action taken.
+Whenever liquids or greases are used during maintenance, all excess spillages must be cleared up as quickly as possible and before the equipment is put back into operation.
+Wherever welding (or similar flame producing equipment) has to be used within the storage area, most careful precautions must be taken to prevent the welding itself or spares etc., starting a fire.
+The area in the vicinity of welding and all below it should be thoroughly cleared of all flammable rubbish, the welding area should be screened as completely as possible, all inflammable materials should be removed or covered with fire protective sheets.
+Well briefed guards with fire fighting appliances should be placed in the vicinity.
+Appendix I
+Relative Performance of In-Rack Sprinkler systems
+The following paper gives a comparison of the performance of in-rack sprinkler systems, based upon the results of actual experiments in the high-bay racking at Cardington, made by J.F.R.O. on experimental and proprietary systems.
+The results are summarized in figure I in terms of the three parameters:
+(a)
+Flame height at operation of the system.
+(b)
+Duration of water application (to control fire).
+(c)
+Volume of water necessary to control fire.
+Each parameter is expressed as a range of results for each type of system, the bar across the range being the mean value.
+A comparison of the three types of system is possible, using the mean values of each parameter and taking the ‘29th edition’ performance as 100% in each case.
+The relative values are:—
+It may be seen that the non-detector zoned system is not a great improvement on the 29th edition system, as far as detection (and hence flame damage) is concerned.
+Once detection occurs, however, the effect of the zoning pulls up the overall performance in terms of duration of application and water used, both of which are almost half the 29th edition values.
+The detector zoned system, however, is about four times as fast as the 29th edition system in detection , and requires only about one-fifth of the water for fire control.
+This demonstrates the immense importance of the detector in the overall performance of the zoned system.
+In general terms, the detector feature and the zoning feature together reduce the damage and water usage to about ⅕–¼ of the 29th edition level, each feature playing an equal part.
+Appendix II
+BUILDING REGULATIONS
+(information supplied by Alan C. Parnell and verified by the Department of the Environment, the Scottish Development Department and the Greater London Council)
+General
+The Regulations controlling building in the United Kingdom generally require all buildings to be constructed to a prescribed standard of fire resistance commensurate with the use and size.
+The aim of structural fire precautions is to limit the spread of fire within the building or from one building to another so as to minimize the risk to life.
+To reduce the possibility of the lining materials, used for the construction of walls and ceilings, contributing to the initial fire spread within the building, performance standards are laid down for the reaction to fire of the materials used for the exposed surfaces.
+Further, as the type of fire will be dependent on the contents, buildings are required to be compartmented by vertical or horizontal fire separation taking into account the anticipated risk and fire load.
+The compartment walls (in Scotland, division walls) and compartment floors are required to have a stipulated fire resistance depending on the size of the spaces as are all the other elements of structure as defined in the Regulations.
+The spacing of the building from the boundary is the main defence against fire spread from one building to another with consequent risk to life.
+The external walls of all buildings are therefore required to have the requisite period of fire resistance, unless the building is placed at, or more than a specified distance from, the boundary.
+This distance is related to the proportion of unprotected areas (windows, door or other parts of the construction not having the required fire resistance).
+In Scotland the required distance is specified in terms of a maximum thermal radiation intensity received from the buildings at the boundary.
+The separation distance also depends on the designation of the roof covering (as determined by B.S.476: Part 3: 1958 and Amendment PD.3276: 1959) although in the case of warehouses, with considerable unprotected wall areas, this is unlikely to be a determining factor.
+In single storey buildings where the external elevation consists entirely of unprotected areas, and has the necessary space separation the requirements are relaxed for the fire resistance to the elements of structure which support a roof only.
+High-bay warehouses, as a single volume, can normally be considered as being single storey buildings.
+In the case of a building which consists of a multi-storey part where this has been vertically compartmented from the remainder each part may be considered separately.
+England and Wales
+Applications for relaxation of those parts of the Building Regulations dealing with fire precautions are made in England and Wales in the first instance to the Local Authority.
+However, Local Authorities do not at present have delegated powers under Regulation A13 to grant relaxations on fire safety matters for buildings which exceed 7,000 m3 and any such application is forwarded to the Secretary of State for a decision.
+Relaxations on smaller buildings are dealt with by the Local Authority themselves.
+In general, where a relaxation is required for the fire resistance of the building (E5) and or space separation (E7) the possible hazard in relation to the space available has to be considered as well as the siting of existing (or likely) buildings on the adjoining land.
+Where a building is fully sprinklered throughout in accordance with CP402.201.1 1952, and has means of escape to the complete satisfaction of the Local Authority and Fire Authority, then, for the purposes of relaxation, Table 1 distances in Schedule 10 are generally accepted as a minimum by the Department of the Environment .
+Scotland
+In Scotland applications for relaxations regarding new buildings are made to the Secretary of State.
+Such relaxations are considered on the merits of the particular case and may be influenced by any alternative provisions being made for the protection of the building.
+Relaxations, if granted, may well include alternative conditions aimed at securing fire safety.
+The Secretary of State for Scotland has also powers under section 6A of  the building (Scotland) Act 1970 to ‘call in’ applications for warrant.
+This power is designed to cover the more unusual or complex structures.
+The Building Standards (Scotland) Regulations 1971 to 1979 recognise two occupancy classes or storage building.
+E1 buildings are for storage of goods and materials not specified as hazardous in occupancy E2.
+Against class E2 are listed a range of flammable explosive, corrosive, and poisonous types of material.
+Fire division walls in a single storey E1 building between compartments of maximum size (14,000m2) are required to have two hours' fire resistance.
+The maximum size for E2 buildings is 1,000m2 with a fire resistance of four hours.
+However, warehouses for whisky and similar ‘spirituous liquor’(which are E2) may go up to 2,000m2 if there is an automatic sprinkler system installed to F.O.C. Rules, 29th Edition, 1968 and amendments to 31 August, 1974.
+Inner London
+All storage buildings exceeding 7080m3 in cubical extent, or exceeding 25 m in height with a floor area exceeding 929 m2 erected within the Inner London Boroughs would be subject to control under section 20 of the London Building Acts (Amendment) Act 1939.
+The standards normally applied by the Greater London Council for such buildings are indicated in the Council's Code of Practice under section 20, publication number 7168 9074 5.
+Requirements generally applicable include for structural fire resistance, compartmentation, the installation of sprinklers and fire-fighting equipment, and the provision of fire brigade access to the perimeter of the building.
+Certain of the concepts described in the body of this Guidance Document may not be applicable and proposals should be discussed in the initial stages with officers to the Greater London Council's Building Regulation Division.
+Local County and Metropolitan Area Acts
+Pre-1974 (Local Government re-organization) Local Acts are due to expire 31st December, 1979 in Metropolitan areas and 31st December, 1984 elsewhere.
+Many of these Acts have specified requirement for fire precautions in warehouse buildings and some have requirements for fire brigade access, means of escape and for large storage buildings.
+Designers should check locally to determine whether the Local Act is still operative in the area proposed for building a high- bay warehouse.
+During 1979 various County and Metropolitan areas submitted Bills to the House of Commons for new powers and the designer is advised to check if any Act has been passed which could affect the proposed location of the high-bay warehouse.
+As and when National Building Regulations include means of escape, fire fighting facilities and other additional requirements, it is understood that these will supersede the parallel clauses in any Local Authority Acts.
+Pre 1974 (Local Government Re-Organization Acts (Expire 31–12–79 in Metropolitan Areas 31–12–84 Elsewhere).
+1.
+Fire Precautions in Buildings Exceeding 250,000 cubic feet of the Warehouse Class
+(means of escape
+(fire alarms
+require (fire extinguishing systems
+(proper arrangements for preventing or reducing
+(danger of fire
+2.
+Requiring Access of Fire Brigade
+Over 40 Acts.
+Means of Escape
+Section 60 Public Health Act 1936 already applies to warehouses which have ‘on any upper floor sleeping accommodation for persons employed on the premises’.
+Various Local Acts vary this so that all warehouses without restriction are covered by section 60.
+Post 1974 Acts/Bills
+Fire Precautions in High Buildings (18.3m +)
+(fire alarm
+(extinguishing systems
+require (means of removing smoke
+means of fighting fire
+Access for Fire Brigade
+means of Escape (amending section 60 PH36)
+Large Storage Buildings (7,000m3 +)
+(structural fire precautions
+(means of ingress and egress
+(fire alarms
+require (fire extinguishing systems
+(means of removing smoke
+(means of access for fire brigade

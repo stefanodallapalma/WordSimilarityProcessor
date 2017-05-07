@@ -1,0 +1,336 @@
+THE PARALLELISM OF GREATER PRECISION
+Notes from Isaiah 40 for a Theory of Hebrew Poetry
+D.J.A. Clines
+The purpose of this paper is to draw attention to a hitherto generally unobserved feature of the parallelistic couplet in Hebrew poetry, a feature which may offer a point de départ for a revised perception of the nature of the parallelistic couplet as such.
+The feature in question is that the second half of a parallelistic couplet (line B) is often more precise or specific than the first half (line A).
+In the first section of this paper (I) I will present some examples from Isaiah 40, which will enable me to construct a tentative theoretical statement about it (section II).
+I will then examine some further couplets from Isaiah 40, with a view to judging the usefulness of the concept, "the parallelism of greater precision" , for exegetical work (section III).
+In section IV some similar features of the parallelistic couplet, previously recognized and named, will be examined by way of contrast and comparison.
+The final section (V) will raise the question whether any new insights into the nature of Hebrew poetry may be developed from the identification of the parallelism of greater precision.
+1.
+Examples from Isaiah 40
+a.Isa. 40.16
+And Lebanon is not enough to burn
+and its animals not enough for a burnt offering.
+Line A taken by itself raises the question, Why should anyone want to burn Lebanon?
+Lebanon is not elsewhere in the Hebrew Bible usually connected with burning and while it is natural enough — even while we are still in line A — to suppose that it is the trees of Lebanon that are for burning, even though they are typically used for building, it is impossible to discern from line A what purpose is in view in burning Lebanon's trees, and thus why Lebanon's trees are insufficient for burning.
+Not to know that is to be ignorant of the whole point of the affirmation.
+Only with line B, and with its last word, is it made clear that the image of the whole couplet is of sacrifice; the burning of line A must be of wood upon the sacrificial altar.
+We are confirmed in our impression that line A is not perspicuous by the fact that a modern version like NIV finds it necessary to offer an expanded rendering: "Lebanon is not sufficient for altar fires" (my italics).
+We may say, then, that line A is less precise, less specific than line B. Line A is not swallowed up in line B, however; it is not the case that once we have line B we can dispense with line A. Rather, line B provides the clue or the context within which the uncertainty of line A is resolved.
+Line B drives us back to read line A again in the light of what line B has added to line A.
+b.
+Isa 40.22
+who stretches out the heavens like a thin thing,
+and spreads them out like a tent to dwell in.
+In reading line A we may well ask, What, precisely, are the heavens like that God stretches out?
+The problem is not primarily that  is a hapax legomenon, for there can be little uncertainty that it means "something thin" (from , "crush" ).
+Even if we knew from a multiplicity of attestations that the thinness in question was specifically a thin curtain or veil or gauze, we would still not know what precisely the image was, for a curtain could be vertical or horizontal, it could be used to divide or screen or cover, it could serve the one who spreads it out, or someone else for whom it is spread out.
+Line B, however, disambiguates line A. From line B we learn that the "thin thing" is a "tent for dwelling in" , i.e. a tent from the viewpoint of its occupants, a curtain that is both horizontal and vertical, and spread out not to hide the one who spreads it but to serve as a  covering for those under it.
+The blurred and indefinite image of line A is brought into focus in line B. The "parallelism" of  and  is a parallelism of increasing precision.
+c.
+Isa 40.3
+In the wilderness prepare the way of Yahweh,
+make straight in the desert a highway for our God.
+The imprecision of line A, as compared with line B, lies in the meaning of  "way" , in the genetival relation  "the way of Yahweh" , and in the connection between "prepare" and "make straight" of course, may mean not only "way, road, path" in a literal sense, but also "way, manner, habit; way of life, moral behaviour" .
+In genetival relation with a personal name it can be taken for granted that , has a metaphorical meaning, e.g. "the way of Jeroboam" (1 Kgs 15.34; 16.2), "the way of David" (2 Kgs 22.2).
+When , is linked with , as it is frequently, the usages can be analysed, with BDB, as meaning (i) his creative activity Job 26.14),(ii) his moral administration (Exod 33.
+B; Deut 32.4);(iii) his commandments (Gen 18.19, "to keep the way of the Lord" ; and often).
+Even if this analysis is open to question at some points, it cannot be doubted that some such metaphorical sense is the most natural one (within the same writing as our text, Yahweh's "ways" are clearly his "way of life" or "moral administration" at Isa 55.8, 9).
+Natural or not, however, such an understanding of the present text would be wrong; for the parallel term , "highway" , is certainly used in a literal sense.
+Indeed it is used, in 26 of its 27 occurrences, literally; in the other case, "The highway of the upright is to depart from evil" (Prov 16.17), we have the impression that the metaphor is freshly minted for the occasion, and there can be little question that  is typically a literal road.
+What line B also makes precise is the relation of the "road" to God.
+The construct chain in line A is open to many interpretations, but the phrase a highway for our God' in line B is unambiguous: it must mean a road for Yahweh to wall: along-just as a "highway for the remnant of his people" in Isa 11.16, and a "way for the redeemed to pass over" in 51.10 are paths for Israel to wall: on.
+Here, the "way of Yahweh" (line A) has meaning in the sense  of "a highway for our God" (line B); line B then specifies line A.
+Furthermore, we may perhaps see in "make smooth, straight" a greater precision than in "prepare" in line A is properly "clear away" , i.e. "remove any obstacles" , which could apply to an already existing road-which might be what is meant by "the way of Yahweh" .
+Line B, however, in specifying that the "clearing" is a matter of "making smooth, or straight" a highway for God, more evidently envisages the building of a new road.
+ "clear" is to be understood in the sense of  "make smooth straight" .
+The obstacles to be cleared away are not just boulders or other debris lying on the road (which  could refer to) but are the natural features (v. 4 will mention them as mountains and valleys) that are to be overcome and eliminated in the construction of an entirely new road.
+d.Isa 40.6
+All flesh is grass
+and all its loyalty is like the flower of the field.
+The metaphor in line A is open to various understandings.
+Grass is indeed a symbol of what is short-lived, and is sometimes used of mankind's transitoriness.
+So we find, for example, that men are like grass renewed in the morning but withered by the time of evening (I's 90.5); their days are like grass which is gone when the wind (as here) passes over it (103.15–16); the "son of man who is made like grass" is parallel to "man who dies" (Isa 51.12).
+It is in a rather different sense that it is said of the wicked that they will soon fade like the grass (Ps 37.2), for there it is not an inbuilt weakness of the human constitution that accounts for the imminent death of the wicked but a fate peculiar to wrongdoers.
+In other passages, however, the symbolism of grass is completely different: in Isa 44.4, though the text is open to doubt, the redeemed are to spring up like grass; in Isa 66.14 restored Israel will find its bones flourish like grass , in Job 5.25 Eliphaz promises Job that his descendants will be many and his offspring like (i.e. as plentiful as) the grass  of the earth.
+The image of grass is therefore ambivalent, and nothing in the lines preceding our present text has conditioned its readers to interpret the image of line A in the way that line B requires.
+Indeed, the previous reference to "all flesh" in v. 5 as being about to see the  glory of Yahweh could have created an expectation that the image in v. 6 will be positive rather than negative.
+At best, any reading of line A is bound to be provisional; the precise sense of the "grass" image that it is grass in its aspect of impermanence (absence of ) awaits a reading of line B.
+e.
+Isa 40.17
+All nations are as nothing beside him;
+less than nothing and emptiness they are reckoned by him.
+What line A leaves open and what is further specified by line B is the question: in whose estimation are the nations as nothing beside him?
+Without line B, we might reasonably conclude that this evaluation is the poet's judgment, just as we would suppose for the preceding verses, 15–16 (though the presence of ) in v. 15 may give us second thoughts).
+What line B specifies is that the reckoning is God's: the  indicates "the efficient cause (or personal agent)" with the passive .
+Line B makes clear that the perspective upon the nations and their significance in comparison with God (, line A) is God's own.
+There may be a further precision in line B's phrase  by comparison with line A's .
+Being literal-minded about it, we might say that  means only "about nothing" , "roughly nothing" , whereas  means "to be precise, less than nothing" .
+But it is not at all certain that the  signifies "less than" rather than "consisting of, made from" , and there is also the possibility that the text should read .
+No doubt "and emptiness" adds a further precision or perhaps elaboration to the  of line A; that is to say , to the idea of ignorable non-existence is added that of chaotic absence of form.
+But the most significant precision in line B is that which I have mentioned first: the specification of the standard or judge which gives value and significance to the comparison (3) contained within line A.
+f. 15a 40.21
+Have you not known?
+Have you not heard?
+Has it not been told to you "from beginning" ?
+Have you not understood from the foundations of the earth?
+This tricolon displays a double specificity.
+Line B adds precision to line A, and line G to line B. What is not specified in line A is when Israel's coming to know and hearing is supposed to have taken place.
+In line B it is more specifically said to be "from the beginning" , but that also raises a question: the beginning of what?
+Line C explicates B by its phrase "from the foundation of the earth" emended text); 1- the "beginning" in question is the beginning of the earth.
+There is certainly a difficulty in understanding how Israel can be expected to have known anything from primeval times, when it did not exist, but there is no doubt that we have here a parallelism of increasing precision.
+2.
+A Theorem
+In the parallelism of greater precision, line B specifies line A or some element of line A.
+There are different functions which precision or specification may serve:
+1.
+B may disambiguate A (as in examples a, b, c, and d above).
+In these cases A is to a greater or lesser extent unclear, ambiguous.
+It is not incomplete, but it is vague or question-provoking, especially when compared with B or with the total effect of A plus B.
+2.
+B may explicate A (as in examples e and above).
+In these cases there is no ambiguity or uncertainty about A, but it is patient of further elaboration, in directions that it does not perhaps explicitly state, but which can be seen — especially on reflection after reading B to be latent in it.
+Further Comments
+1.
+The movement toward greater precision is characteristically from A to B. This does not mean that A cannot contain more than B, but that when there is a relation of greater precision between A and B, it is B that typically exhibits that greater precision.
+Some examples of where A contains more than B but is not more precise may be noted.
+a.Isa 40.27
+Why do you say, Jacob, and speak, Israel?
+A Contains , "Why" , a surplus to B. But just because B follows A, is implied in B, and B is therefore no less precise than A.
+b.Isa 40.16
+And to whom will you liken God,
+and what image/likeness will you compare to him?
+Let us suppose for the sake of the discussion that "liken God" and "compare a likeness to him" are strictly synonymous, or else strictly separate (i.e. that line A refers to a deity and line B to his image).
+Let us suppose, that is to say, that B is not more precise than A. Then, we may ask, is A more precise than B?
+It contains "God" whereas B contains only "(to) him" ).
+A is indeed more precise, but only in a trivial sense, for  in B does present us with the same referent as  in A. If, on the other hand, the lines changed places, so that we read:
+And what image/likeness will you compare to him,
+and to whom will you liken God?
+or even if just the noun and pronoun changed places:
+And to whom will you liken him,
+and to what image/likeness will you compare God?
+B would be more precise than A, for in A we should not know who was being spoken of ( "him" ) but in B we should find it stated ( "God" ).
+2.
+Not all parallelistic couplets, of course, exhibit the parallelism of greater precision.
+And because the comparison is between sense-units and not just words, there is often enough room for debate over whether a particular B-line is more precise than its A-line.
+But I would argue that in Isaiah 40 slightly more than half the parallelistic couplets exhibit it.
+In Psalm 21, almost every verse is an example of this parallelism.
+It is a common enough feature of Hebrew poetry to  make it worth asking of every parallelistic couplet whether any gain in understanding may result from applying the present concept to it.
+3.
+Exegetical Applications
+Under this heading I am examining some texts in Isaiah 40 for which the possibility of an analysis as the parallelism of greater precision may have some exegetical value.
+a.
+Isa 40.26
+who brings out by number their host,
+to all of them by name he calls.
+This is a textbook example of a parallelistic couplet, with a mirror chiasmus.  is parallel to .
+Those parallelism are syntactic rather than morphological, whereas with  "by number" // "by name" we have a strict morphological parallelism as well(preposition plus noun).
+Such an analysis is accurate as far as it goes, but when we consider the sense of the lines it is quite misleading.14 For "by number" is not a method of summoning the stars that is parallel to "by name" .
+Each star has a name, but each does not have a number.
+in fact does not mean "by number" at all but "in full number" (cf 1 Chr 9.25).
+As far as the sense goes, we would be better to say that line B specifies the way in which God brings the army of the stars out in flaIl number: it is by summoning each one of them by name.
+Line A acquires its specific meaning in the light of line B. It is not so rewarding to ask which terms of A correspond to which terms of B, as to ask whether and in what way line B specifies line A.
+b.Isa 40.31
+Those who wait for Yahweh will gain new strength;
+they will put forth (?) plumage like eagles.
+Here the parallelism of greater precision may help to solve a long-standing exegetical problem.
+Is  qal or hiphil?
+Do they "rise up (on) wings like eagles" or "put forth, or grow, wings (or, plumage) like eagles" ?
+In favour of the former is the use of   qal with  in Jer 49.22, and "soaring" is undoubtedly an obvious thing for eagles to do.
+But in favour of the latter is the awkwardness of the absence of a preposition before  rendering , "they will grow wings" , and the Targum's  "and they will be renewed in their youth like the sprouting (of plumage) that rises up upon the wings of eagles" .
+If line B may be more specific than line A, we can ask, In what way can the somewhat vague language of A,, "they will change, substitute, renew (their) strength" , be specified further by B?
+Going up on wings in no way specifies "changing strength" , but putting forth new wings or new plumage is indeed a sign of new strength, whether or not there is an allusion to a belief that in old age eagles grow new wings.
+The exiles would then substitute new strength for old strength, and "change" their strength in the sense that old eagles "change" theirs.
+c.
+Isa 40.27
+My way is hidden from Yahweh,
+and from my God my right is disregarded.
+A further example of the parallelism of greater precision may be found here, though commentators do not generally see the connection of thought between the two lines.
+The A-line taken by itself is open to more than one interpretation.
+For Israel's way to be hidden Yahweh could mean that God cannot see Israel's way, or will not see Israel's way, or has caused Israel not to be able to see its own way.
+ "Way" itself can mean here "course of life" (BDB, 5. v., 5), perhaps with the sense of "destiny" , "fate" (NEB "plight" ) or its "direction" in some metaphorical sense.
+The B-line however makes everything plain, not without some help from the A-line.  is itself not very precise (RV "judgement" ; RSV "right" ; "cause" ).
+But for a  can only mean that a "right" (which perhaps already became a legal "cause" or "case" ) has "vanished" , sc.
+from the notice of the one to whom it ought to be a matter of concern.
+In such a light, the A-line most probably means that Israel's "course of life" or "state" (or "plight" , since it is a bad state) is deliberately ignored by God ( "hidden from Yahweh" ).
+Israel's state is hidden from God (A) in the sense that its claim to restitution has failed to attract his attention (B).
+And Israel only knows that its "way is hidden from Yahweh" (A) in that its cause is ignored, it does not  receive its rights (B).
+The resulting interpretation of the couplet is no spectacular advance on the appropriate sense many readers attain very quickly; but our investigation has built a surer foundation for the validity of the interpretation.
+We should also note that the principle of the parallelism of greater precision concerns primarily the relation between the two lines of a couplet; it does not focus on the relationship between the members of the two lines, either grammatically or semantically.
+In the present case, for example, we have an example of a complete or "mirror" chiasmus (as in 40.26, discussed above), but that is of no significance for the relation of the lines.
+It is likewise unimportant whether  is a food parallel to  or not both because the relation of the lines does not depend upon the relation between the terms that are "in parallel" (as we say), and because the notion that an ideal parallelism is a truly synonymous parallelism has been exploded by the principle of the parallelism of greater precision.
+Duhm found the parallelism here "rather feeble" which is indeed the case if the ideal is synonymity, but not at all the case if other relationships between the lines of a couplet can exist.
+The foregoing examples yield evidence of the value of having the model of the parallelism of greater precision in mind when approaching the exegesis of an individual text.
+I conclude this section with an exegetical example of where the parallelism of greater precision is a "false friend" and potentially misleading.
+d.
+Isa 40.28
+God of eternity /the world is Yahweh,
+Creator of the ends of the earth.
+To anyone approaching this verse with a background in rabbinic or medieval Hebrew, the A-line is quite ambiguous: is  "eternity" or "the world, universe" ?
+The parallelism of greater precision would seem to set the matter beyond doubt: "the ends of the earth" must surely function as specification of the ambiguous .
+It is generally argued, however, that the meaning "world" of  is a post-Biblical development, and a mere possibility in the relationship of parallelistic lines ( "greater precision" ) cannot be set against a linguistic certainty.
+The couplet exhibits the parallelism of greater precision, nevertheless in another respect.
+For if we ask, In what respect is the "eternity" of Yahweh significant in the present context, it is in the  sense of line B, that he was in distant times  creator of the earth; and it is his creative power that lies behind the subsequent lines (vv. 28c-31).
+4.
+Some Similar Aspects of the Parallelistic Couplet
+It is perhaps unlikely that at this stage in the history of research into Hebrew poetry any completely new observations can be made.
+There are indeed several points at which the parallelism of greater precision corresponds to features that have previously been noted.
+But no one, I think, has focused upon the matter of "greater precision" as an important definition of the relation of the lines of the parallelistic couplet.
+To take the last point first, it is true that several scholars have observed that "specification" is a function of the B-line of a couplet.
+James Kugel, for example, has recently remarked that
+there are quite a few lines in which B is clearly a continuation of A, or a going-beyond A in force or specificity.
+But his principal concern is to affirm that the relationship of A to B is only in a minority of cases an exact repetition, or a saying of the same thing in different words.
+Kugel's emphasis is on the additive or emphatic aspect of the B-line: "A is so, and what's more, B is so" .
+He portrays the B-line as a continuing, seconding, emphatic carrying further, echoing, reiterative statement.
+All of that may be true of various couplets of Hebrew poetry, but it is quite other than what is being urged in this paper.
+To similar effect J. Muilenburg remarked that
+parallelism is in reality very seldom precisely synonymous.
+The parallel line docs not simply repeat what has been said, but enriches it, deepens it, transforms it by adding fresh nuances and bringing in new elements, renders it more concrete and vivid and telling.
+More "concrete" , yes; but he said nothing about "more specific, more precise" .
+Other aspects of parallelism fall now to be compared to and contrasted with the parallelism of greater precision.
+a.Staircase parallelism
+This feature of the parallelistic couplet, otherwise known as  "climactic" or "repetitive" parallelism, or the "expanded colon" , has long been recognized.23 W.G.E. Watson notes some forty examples, 24 including Jer 31.21:
+Return, O Virgin Israel,
+Return to these your cities.
+From a formal perspective, the description "staircase" is apt, but from a more semantic perspective it is easily seen that such a form is an instance of the parallelism of greater precision.
+In the example quoted, the first line leaves unstated the place to which Israel is to return; the B-line specifies the full significance of "return" in A. It is true of course that it is not only that the B-line is more specific than the A-line but also that the A is more specific than the B. Such cases do not negate the parallelism of greater precision; they are a subset of the examples of our feature.
+b.Number parallelism
+Examples of number parallelism can be divided into two categories: those with itemization and those without.
+i. itemized number parallelism.
+The best known example is Prov 30.18–20:
+There are three things too wonderful for me,
+four I do not understand:
+(1) the way of a vulture in the sky;
+(2) the way of a serpent on a rock;
+(3) the way of a ship in the middle of the sea;
+(4) and the way of a man with a maiden.
+The itemization makes it plain that it is precisely four things that the speaker does not understand.
+Line A contains the approximate number ( "three" ), line B the precise number.
+In all cases of itemization the precise number is the second one mentioned.
+It is true that "three" is in itself just as precise as "four" , but in the context "three" is imprecise.
+M. Haran has listed twelve such instances, six from the OT, 26 five from Ben Sira, and one from the Babylonian Talmud citing Ben Sira.
+All of these, we may now say, exhibit parallelism of greater precision.
+The recurring couplet in Amos, though it is not usually followed by an itemization, fits here best:
+For three transgressions of X,
+And for four, I will not revoke it.
+(Amos 1.3,6,9, 11, 13; 2.1,4,6)
+In these cases (except perhaps in 2.6–8) it is only the fourth trangression that is specified, almost certainly because the fourth is so climactic that the others may be left out of consideration.
+It is because of the fact that they total to four, and so include the fourth, climactic one, that Yahweh's punishment falls.
+So again the Kline of the couplet is the more precise or specific.
+ii.
+Unitemized number Parallelism.
+Most such instances display ordinary "synonymous" parallelism, though of course no number is ever strictly synonymous with another.
+For example, Mic 5.4:
+Then we will raise against him seven shepherds,
+eight chiefs of men.
+We cannot say that "eight" is more precise, in the context, than "seven" (nor vice versa).
+Haran has suggested however that in a few cases "the intended number is the first of the two" ; 29 but in Job 33.14 and Ps 62.12, which he cites, it can be maintained much more convincingly that it is the second number that is "intended" or the more precise.
+This category of graded numerical sayings thus yields two more examples of the parallelism of greater precision, but on the whole it does not display the feature under consideration here.
+c.
+Automatism
+The phenomenon of "automatism" as set forth by Haran involves the use of one element of a word-pair solely for balance between the lines, and not at all for its semantic significance An example that is adduced is Prov 24.30:
+I passed by the field of a sluggard,
+and by the vineyard of a man without sense.
+The argument is that  and  form a fixed pair, corresponding to other pairs like bread and wine, threshing-floor () and wine-vat, corn () and new wine (), farmers  and vintners .
+But in the context only the vineyard is really meant, for the following verse refers to "it" as having a stone fence-which points to  a single parcel of ground, and that a vineyard, not a field.
+ "Field" is not "intended" at all.
+If such is the case, the line that contains the "intended" word is inevitably more precise than the one with the "automatic" variant.
+So for those cases where the "automatic" variant occurs in line A, 31 we would have the parallelism of greater precision.
+However, the existence of such automatism is, in my opinion, open to question.
+In the example above, it is entirely probable that , "field" , is a more general term that includes "vineyard’— as is amply attested by Judg 9.27," they went out into the field and harvested their vineyards ".
+So it is not true that the place the wisdom poet saw "can be either a field or a vineyard, but not both" .
+The relationship between A and B is not one of "automatic" word-pairing but of what is here being referred to as greater precision: the in question is a .
+As for cases where it is claimed that the A line contains the more specific term, here also the existence of "automatism" may be doubted.
+Haran cites Prov 4.3 as an example:
+For I was a son to my father,
+tender and alone before my mother.
+He comments, "Only the father is actually kept in the poet's mind, while the mother is mentioned because of a mere automatic adherence to the verbal pattern" .
+Indeed, the succeeding lines do refer exclusively to the father: "and he taught me, and he said to me," Let your heart hold fast my words…
+"
+So it is quite true that it is the father that is principally in focus; but that does not necessarily mean that "mother" is only there by accident.
+For if we suppose, quite reasonably, that the sense of the couplet is distributed across the two lines, we have a perfectly satisfactory meaning, viz."When I was a young only child with my parents…
+"
+This is certainly not an example of the parallelism of greater precision, but neither is it an example of automatic writing.
+My conclusion is, though I have not reviewed here all the examples adduced for the phenomenon of "automatism" , that the phenomenon does not exist in the Hebrew Bible, and that some supposed examples of it really exhibit the parallelism of greater precision, while other examples contain other types of parallelistic relationships.
+d.
+Ballast variants
+A ballast variant is defined by W.G.E. Watson as "simply a filler, its function being to fill out a line of poetry that would otherwise be too short" .
+As an example he cites Judg 5.28:
+Why is his chariot so slow in coming?
+Why does the clatter of his war-wagons tarry so?
+On this he comments: "Since lābō (or its equivalent in meaning) does not reappear in the second colon, the longer expression  is used instead of simply one word (e.g. )" .
+No doubt a major question is begged here, viz. which comes first, the overshortness of the line or its filling?
+Being unanswerable, it suggests that the terms of the discussion are wrong.
+And the premise of the whole concept of "ballast" or "filling" depends on the "isocolic principle" that the two lines of a parallelistic couplet should balance — which is open to question.
+The language of "compensation" long ago introduced by G.B. Gray, falls under the same criticism, and so too perhaps the use of "expletive" by R. Austerlitz.
+But there can be no doubt that some such terminology is needed for this feature of the parallelistic line.
+Another conceptualization of the same phenomenon uses the language of "gapping" , which refers to the absence in the B-line of the verb or some other term of the A-line.
+This conceptualization, no different intrinsically from that of "filling" , has been used with discretion in the systemic analysis of M. O'Connor., His primary example is Num 23.7:
+Balak brought me from Aram,
+the king of Moah from the Eastern Hills.
+ "Gapping" refers to the absence of anything equivalent to  in line B. It is not clear what corresponding term O'Connor would use to describe the relationship of "Aram" to "the Eastern Hills" and of "Balak" to "the king of Moab" .
+He does indeed regard the latter case as a splitting of the name "Balak, king of Moab" across two lines (he calls it "binomination" ), but that cannot be said of the former case.
+Our present description of the parallelism of greater precision of course prescinds from questions of causes or poetic psychology and even from issues of grammatical relationship and cuts across across  distinctions that have previously been made.
+That is to say, in some cases, perhaps many, of ballasting, filling, expletives, or gapping, the parallelism of greater precision can be seen; but in other cases, other parallelistic relationships occur.
+A consideration of Num 23.7, just quoted, which certainly contains parallelism of greater precision, leads to a closer definition of "greater precision" .
+It could well be argued that both "Balak" and "Aram" in line A are more specific or precise than their counterparts in line B, "the king of Moab" and "the Eastern Hills" , because they use proper names for identification.
+Yet, on the other hand, it could just as well be argued that many people may be called Balak, and "king of Moab" specifies which one is meant.
+In reality, such a debate misses the point of the parallelism: the question is not whether, taken in isolation, B is more precise than A, but whether "king of Moab" in B adds any precisions to what we already have in A. unquestionably it does; however, we must admit that in the case of "Aram" II "the Eastern Hills" we cannot say that B adds precision to A (unless perhaps the poet knows something that we do not).
+In brief, so-called "ballast variants" are prima facie candidates for the parallelism of greater precision, but a roughly synonymous parallelistic relationship is also quite possible.
+e.
+Word-pairs
+This very frequently discussed feature of Hebrew poetry needs to be mentioned here primarily in order to distinguish it from the subject of this paper.
+At its most conventional, the use of word pairs is a substitute for creative poetic activity, whereas the parallelism of greater precision is a subtle relationship between or among the lines of poetry that can only be designed in by a relatively sophisticated artist.
+In a recent analysis building upon psycholinguistic studies, A. Berlin has argued persuasively that pairing of words is a manifestation of a common linguistic phenomenon of word association.a Two principal types of word associates can be denominated paradigmatic (e.g. good-bad, father-mother, descend ascend) and syntagmatic (Zion Jerusalem, mercy-truth, heavens-earth (as a merismus)).
+The phenomenon of fixed word-pairs, which has been a primary focus of attention in Hebrew poetry especially since the discovery of Ugaritic poetry, is only a subset of the broader category of word-pairing.
+It may indeed be possible to regard the present subject of  study as yet another type of word-pairing — except of course that the "greater precision" may be a function of the whole line in relation to the previous line, and not just of one word in relation to another word.
+My principal concern here, however, is to observe that the phenomenon of the fired word-pair is a contra-indication of the parallelism of greater precision — at least as far as those words are concerned.
+It is indeed true that in word-pairs the B-word is often less frequently attested, more poetic, more esoteric than the A word.
+But it is not typically more specific than the A-word; indeed, whether the pair is classified as paradigmatic or syntagmatic, or as "synonymous" , "antonymous" or "correlative" , there is usually a parallelistic relationship of balance, in which there is no question of progress from word A to word B.
+Things may be different, however, if we adopt a more flexible definition of "word-pair" , as is advocated by several recent authors.
+A.Berlin, for example, affirms that "there is no qualitative difference between the so-called" fixed"pairs and pairs that have not so been labelled.
+The only difference is that fixed pairs are attested more often than non-fixed pairs."
+M. O'Connor writes that "any single word in a language can be paired with another" , a process he terms "dyading" .
+And W…
+M. Watters uses throughout his study, Formula Criticism, and the Poetry of the Old Testament, a concept of"word-pairs that can incorporate almost any kind of associative relationship.
+In such cases the "word-pair" may exhibit a parallelism of greater precision — or any of the other kinds of parallelistic relationship.
+It may finally be noted that the presence of a "synonymous" word-pair within a parallelistic couplet may not necessarily form an obstacle to the parallelism of greater specificity.
+For example, Ps 7:17
+May his sin redound upon his head,
+and upon his pate may his violence descend.
+Here "head" (,) and "pate" () are the pair, and are perhaps completely synonymous (though the latter could reasonably be thought more specific or "concrete" than the former).
+But there is nevertheless a greater precision in line B, since  "his violence" specifies the kind of "sin" or "trouble" () that the A-line speaks of.
+5.
+Towards a (Somewhat) New Theory of Hebrew Poetry
+The new feature that has emerged from this study of the parallelistic couplet is not so much the identification of a particular relationship of the lines of the couplet (greater precision) as a movement towards a statement of relationships within the poetic couplet.
+Within the couplets that we have examined here, we can affirm, the relationship of the two lines is its unpredictable.
+What is predictable about Hebrew poetry generally is its structure as couplets (or triplets, i.e. extended couplets).
+What is unpredictable is how the lines of that couplet (or, triplet) will turn out to relate to one another.
+Will they be synonymously parallel, will they exhibit the parallelism of greater precision, or staircase parallelism or synonymous-sequential parallelism, or some other parallelistic relation — or no parallelism at all?
+This unpredictability is encountered by the reader at the beginning, middle, and end of the poetic couplet.
+At the beginning, before we start to read a couplet, we are aware that it is a couplet (whether through modem conventions of typography, or through our familiarity with the poetic convention itself); we can see that it will end after a snatch of words of between four and about ten, and we can expect that the couplet will constitute a complete sense-unit.
+But we do not know how that self-contained unity will present itself to us.
+We have some patterns of expectation available to us, indeed, but we are at the mercy of the poet for which of those patterns may lie ahead of us.
+At the end of the first line (colon) when we pause momentarily for processing the sense so far, we make a provisional judgment on the completeness or otherwise, the self-sufficiency or open-endedness, of the sense-unit thus far read or heard.
+But here also we cannot predict how the couplet will proceed; not only do we not yet know the grammatical or syntactic pattern of the next line, or its lexical contents, but, more importantly, we do not know what kind of a relationship what we have read will bear to what we have yet to read.
+(Many popular expositions of parallelism, formulaic poetry, word-pairs and the like implicitly encourage us to believe that we do.)
+The unpredictability remains even when we have read to the end of the couplet. even when we have processed both lines of the couplet, our understanding will not be complete until we have gone back over the lines from the viewpoint of their relationship.
+And what that relationship will be is not securely indicated by any surface clues (like grammatical morphology or the presence of a fixed word-pair).
+It is often not difficult to determine that relationship, but the point about it is that it is not but must be figured out by every reader.
+James Kugel was entirely right in asserting, as against a crude popularization of Lowthian parallelism, that "Biblical parallelism is of one sort…or a hundred sorts; but it is not three" .
+But I believe he is wrong to describe the "one sort" as a matter of "A, and what's more, B" , since that restricts the relationship of the lines to those of emphasis, repetition, seconding, and so on.
+The relationships of A and B are so diverse that only some statement such as "A is related to B" will serve as a valid statement about all parallelistic couplets.
+And such a statement is equally valid for non-parallelistic lines.
+Biblical poetry in general is overwhelmingly composed of couplets (or triplets, extended couplets), and of such couplets we could state that they are of one sort (A is related to B) or of a hundred, but not of three or four or five.
+Our study of the parallelism of greater precision has alerted us to something that is true of Hebrew poetry generally.
+The meaning of the couplet does not reside in A nor in B; nor is it in A + B (if they are regarded as capable of being added like 2 + 2 or 3 + 2).
+It is in the whole couplet of A and B in which A is affected by its juxtaposition with B, and B by its juxtaposition with A. The whole is different from the sum of its parts because the parts influence or contaminate each other.
+A has its meaning within the couplet only in the light, or sense, of B, and B in the light, or sense, of A. In the case of Isa 40.3, for instance, the couplet does not mean B, even if B is more precise than A. It means (i) prepare Yahweh's way in the sense of making straight a highway, and it means (ii) make straight the highway as an act of preparing a way for Yahweh, and it means both of these things concurrently.
+Because the relationship of the two lines within the couplet is not predetermined, the reader is more fully engaged in the process of interpretation, a more active participant in the construction of meaning, than when a text presents itself in more straightforward linear fashion.
+E.L.
+Greenstein has reminded us of Marshall McLuhan's distinction between "hot" and "cool" media, "hot" media presenting a complete pattern of stimuli, "cool" presenting an incomplete pattern and therefore requiring greater processing and hence a higher level of engagement on the reader's part.
+Such engagement, I would suggest, is systematically demanded by the  nature of the Hebrew poetic couplet.
+The reader is constantly involved in the delicate and tantalizing question of the relation of the parts and the product of their interrelationship.
+That relation, as we have seen in the study of the parallelism of greater precision, is a dynamic one which cannot be mechanically delineated, but which often yields itself only to patient exegetical probing, each couplet in its own right.
+Any future theoretical study of such phenomena as that discussed in the present paper will have the converging resources of philosophical hermeneutics, current literary theory (especially reader-response criticism and reception theory), and psycholinguistics to draw upon.
